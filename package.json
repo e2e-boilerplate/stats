@@ -1,0 +1,45 @@
+{
+  "name": "stats",
+  "version": "1.0.0",
+  "description": "Gather traffic data for e2eBoilerplate org",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint --ext .js ./ --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2e-boilerplate/stats.git"
+  },
+  "keywords": [
+    "e2eboilerplate"
+  ],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e2e-boilerplate/stats/issues"
+  },
+  "homepage": "https://github.com/e2e-boilerplate/stats#readme",
+  "devDependencies": {
+    "eslint": "7.5.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-cypress": "2.11.1",
+    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-json": "2.1.2",
+    "eslint-plugin-prettier": "3.1.4",
+    "esm": "3.2.25",
+    "husky": "4.2.5",
+    "lint-staged": "10.2.11",
+    "prettier": "2.0.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged --allow-empty"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  }
+}
