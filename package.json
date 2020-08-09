@@ -40,6 +40,9 @@
   "lint-staged": {
     "./**/*.{js,json,md}": [
       "prettier --write"
+    ],
+    "./**/*.{js}": [
+      "npm run lint"
     ]
   },
   "dependencies": {
