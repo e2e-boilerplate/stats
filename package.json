@@ -4,7 +4,7 @@
   "description": "Gather traffic data for e2eBoilerplate org",
   "main": "index.js",
   "scripts": {
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint . --ext .js --fix"
   },
   "repository": {
     "type": "git",
@@ -38,11 +38,8 @@
     }
   },
   "lint-staged": {
-    "./**/*.{js,json,md}": [
-      "prettier --write"
-    ],
-    "./**/*.{js}": [
-      "npm run lint"
+    "./{js}": [
+      "npm run lint","prettier --write"
     ]
   },
   "dependencies": {
