@@ -1,18 +1,19 @@
-import { writeFileSync } from "fs";
+import { writeFileSync, existsSync, mkdirSync } from "fs";
 import { request } from "https";
-import { isNumeric } from "./utils";
-import { user, pages, logger, options } from "../../common/constants";
+import isNumeric from "./utils";
+
+import { user, pages, logger, options } from "./constants";
 
 /**
  * Implements: https://developer.github.com/v3/repos/#list-repositories-for-the-authenticated-user
  * GET /users/:username/repos
  */
-function getRepos() {
+export default function getReposList() {
   try {
     const count = isNumeric(pages) ? pages : 2;
 
     for (let i = 0; i < count; i += 1) {
-      const path = `/users/${username}/repos?page=${i + 1}&per_page=100`;
+      const path = `/users/${user}/repos?page=${i + 1}&per_page=100`;
       options.path = path;
 
       const req = request(options, (response) => {
@@ -29,10 +30,15 @@ function getRepos() {
           const isOk = response.statusCode === 200;
           const content = isOk ? JSON.parse(JSON.stringify(body)) : "[]";
           if (isOk && content !== "[]") {
-            writeFileSync(`repos/repo-${i + 1}.json`, content);
-            logger.info(`${__filename}: GET: ${path}.`);
+            const folder = "data/repos";
+            if (!existsSync(folder)) {
+              mkdirSync(folder);
+            }
+
+            writeFileSync(`${folder}/repo-${i + 1}.json`, content, "utf8");
+            logger.info(`GET: ${path}.`);
           } else {
-            logger.warn(`${__filename}: Not Found: ${path}.`);
+            logger.warn(`Not Found: ${path}.`);
           }
         });
       });
@@ -44,8 +50,8 @@ function getRepos() {
       req.end();
     }
   } catch (error) {
-    logger.error(`${__filename}: ${error}`);
+    logger.error(error.message);
   }
 }
 
-export default getRepos;
+getReposList();

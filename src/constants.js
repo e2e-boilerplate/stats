@@ -1,14 +1,8 @@
-const {
-  author = "Girma Nigusse <xgirma@gmail.com>",
-  command,
-  keywords,
-  message,
-  module,
-  pages,
-  task,
-  token,
-  user = "e2e-boilerplate",
-} = minimist(process.argv.slice(2));
+import minimist from "minimist";
+
+const { pages = 3, task, token, user = "e2e-boilerplate" } = minimist(
+  process.argv.slice(2)
+);
 
 const options = {
   host: "api.github.com",
@@ -23,15 +17,4 @@ const logger = require("pino")({
   prettyPrint: { colorize: true },
 });
 
-export {
-  author,
-  command,
-  keywords,
-  logger,
-  message,
-  module,
-  options,
-  pages,
-  task,
-  user,
-};
+export { logger, options, pages, task, token, user };

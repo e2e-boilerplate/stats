@@ -4,7 +4,10 @@
   "description": "Gather traffic data for e2eBoilerplate org",
   "main": "index.js",
   "scripts": {
-    "lint": "npx eslint . --ext .js --fix"
+    "lint": "npx eslint . --ext .js --fix",
+    "get:repos:list": "node -r esm src/get_repos_list.js",
+    "get:reducted:list": "node -r esm src/get_redacted_list.js",
+    "stats": "node -r esm ."
   },
   "repository": {
     "type": "git",
@@ -27,7 +30,6 @@
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-json": "2.1.2",
     "eslint-plugin-prettier": "3.1.4",
-    "esm": "3.2.25",
     "husky": "4.2.5",
     "lint-staged": "10.2.11",
     "prettier": "2.0.5"
@@ -38,14 +40,17 @@
     }
   },
   "lint-staged": {
-    "*.{js,json,md}": [
-      "npm run lint","prettier --write"
+    "./**/*.{js}": [
+      "eslint . --fix",
+      "prettier --write"
     ]
   },
   "dependencies": {
+    "esm": "3.2.25",
     "markdown-table": "2.0.0",
     "minimist": "1.2.5",
     "pino": "6.5.0",
+    "pino-pretty": "4.1.0",
     "rimraf": "3.0.2"
   }
 }
