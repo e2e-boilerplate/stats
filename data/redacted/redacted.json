@@ -11,11 +11,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 442,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 25,
+      "uniques": 10
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-chai-assert",
@@ -29,11 +33,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 567,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 287,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-chai-expect",
@@ -47,11 +55,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 658,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 295,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-chai-should",
@@ -65,11 +77,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 584,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 294,
+      "uniques": 162
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-cucumber-chai-assert",
@@ -83,11 +99,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 520,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 296,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-cucumber-chai-expect",
@@ -101,11 +121,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 701,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 288,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-cucumber-chai-should",
@@ -119,11 +143,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 701,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-cucumber-jest-expect",
@@ -137,11 +165,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 626,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-es-modules-jest-expect",
@@ -155,11 +187,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 649,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 289,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-browserify-chai-assert",
@@ -173,11 +209,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 526,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 300,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-browserify-chai-expect",
@@ -191,11 +231,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 691,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 304,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-browserify-chai-should",
@@ -209,11 +253,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1273,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 293,
+      "uniques": 155
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-browserify-jest-expect",
@@ -227,11 +275,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 956,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 312,
+      "uniques": 173
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-chai-assert",
@@ -245,11 +297,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 458,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 299,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-chai-expect",
@@ -263,11 +319,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 427,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 290,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-chai-should",
@@ -281,11 +341,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 427,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 294,
+      "uniques": 162
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-cucumber-chai-assert",
@@ -299,11 +363,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 465,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 300,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-cucumber-chai-expect",
@@ -317,11 +385,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 464,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 302,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-cucumber-chai-should",
@@ -335,11 +407,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 463,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 316,
+      "uniques": 173
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-jest-expect",
@@ -353,11 +429,15 @@
     "open_issues": 0,
     "watchers": 2,
     "size": 256,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 318,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-webpack-chai-assert",
@@ -371,11 +451,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 427,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 311,
+      "uniques": 162
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-webpack-chai-expect",
@@ -389,11 +473,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 288,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 311,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-webpack-chai-should",
@@ -407,11 +495,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 689,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 303,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "cypress-typescript-webpack-jest-expect",
@@ -425,11 +517,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 384,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 327,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "docs",
@@ -443,11 +539,15 @@
     "open_issues": 0,
     "watchers": 6,
     "size": 870,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 24,
+      "uniques": 11
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "e2e-boilerplate",
@@ -461,11 +561,15 @@
     "open_issues": 20,
     "watchers": 0,
     "size": 188,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 9,
+      "uniques": 2
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "nightwatch-commonjs-assert",
@@ -479,11 +583,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 491,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 286,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "nightwatch-commonjs-expect",
@@ -497,11 +605,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 532,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 283,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "nightwatch-es-modules-babel-assert",
@@ -515,11 +627,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 970,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 309,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "nightwatch-es-modules-babel-expect",
@@ -533,11 +649,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 948,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 311,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "nightwatch-typescript-tsc-assert",
@@ -551,11 +671,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 659,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 293,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "nightwatch-typescript-tsc-expect",
@@ -569,11 +693,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 676,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 302,
+      "uniques": 174
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "picker",
@@ -587,11 +715,15 @@
     "open_issues": 4,
     "watchers": 0,
     "size": 8324,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 412,
+      "uniques": 173
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-cucumber-assert",
@@ -605,11 +737,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 252,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 356,
+      "uniques": 179
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-cucumber-chai-assert",
@@ -623,11 +759,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 145,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 355,
+      "uniques": 190
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-cucumber-chai-expect",
@@ -641,11 +781,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 352,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 356,
+      "uniques": 175
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-cucumber-chai-should",
@@ -659,11 +803,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 145,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 354,
+      "uniques": 185
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-cucumber-expect",
@@ -677,11 +825,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 567,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 374,
+      "uniques": 185
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-jasmine-assert",
@@ -695,11 +847,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 221,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 348,
+      "uniques": 176
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-jasmine-expect",
@@ -713,11 +869,15 @@
     "open_issues": 0,
     "watchers": 2,
     "size": 244,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 349,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-jest-assert",
@@ -731,11 +891,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 433,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 377,
+      "uniques": 186
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-jest-expect",
@@ -749,11 +913,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 1085,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 378,
+      "uniques": 193
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-mocha-assert",
@@ -767,11 +935,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 364,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 358,
+      "uniques": 177
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-mocha-chai-assert",
@@ -785,11 +957,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 285,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 367,
+      "uniques": 174
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-mocha-chai-expect",
@@ -803,11 +979,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 516,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 371,
+      "uniques": 184
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-commonjs-mocha-chai-should",
@@ -821,11 +1001,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 240,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 373,
+      "uniques": 178
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-es-modules-babel-ava",
@@ -839,11 +1023,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 918,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 395,
+      "uniques": 191
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-es-modules-babel-jest-assert",
@@ -857,11 +1045,15 @@
     "open_issues": 0,
     "watchers": 2,
     "size": 1156,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 395,
+      "uniques": 179
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-es-modules-babel-jest-expect",
@@ -875,11 +1067,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 1307,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 394,
+      "uniques": 178
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-es-modules-esm-mocha-assert",
@@ -893,11 +1089,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 364,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 361,
+      "uniques": 188
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-es-modules-esm-mocha-chai-assert",
@@ -911,11 +1111,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 239,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 367,
+      "uniques": 176
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-es-modules-esm-mocha-chai-expect",
@@ -929,11 +1133,15 @@
     "open_issues": 0,
     "watchers": 2,
     "size": 478,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 370,
+      "uniques": 180
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-es-modules-esm-mocha-chai-should",
@@ -947,11 +1155,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 198,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 373,
+      "uniques": 182
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-typescript-ts-jest-jest-assert",
@@ -965,11 +1177,15 @@
     "open_issues": 0,
     "watchers": 5,
     "size": 1238,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 401,
+      "uniques": 188
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-typescript-ts-jest-jest-expect",
@@ -983,11 +1199,15 @@
     "open_issues": 0,
     "watchers": 5,
     "size": 1275,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 418,
+      "uniques": 189
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-typescript-ts-node-jasmine-assert",
@@ -1001,11 +1221,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 423,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 371,
+      "uniques": 177
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "playwright-typescript-ts-node-jasmine-expect",
@@ -1019,11 +1243,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 361,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 370,
+      "uniques": 178
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-commonjs-jasmine-assert",
@@ -1037,11 +1265,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 524,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 275,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-commonjs-jasmine-expect",
@@ -1055,11 +1287,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 413,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 278,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-commonjs-mocha-assert",
@@ -1073,11 +1309,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 691,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 299,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-commonjs-mocha-chai-assert",
@@ -1091,11 +1331,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 444,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 291,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-commonjs-mocha-chai-expect",
@@ -1109,11 +1353,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 654,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-commonjs-mocha-chai-should",
@@ -1127,11 +1375,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 294,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 298,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-babel-jasmine-assert",
@@ -1145,11 +1397,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 862,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 298,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-babel-jasmine-expect",
@@ -1163,11 +1419,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 916,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 300,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-babel-mocha-assert",
@@ -1181,11 +1441,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1069,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 316,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-babel-mocha-chai-assert",
@@ -1199,11 +1463,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 586,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 310,
+      "uniques": 178
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-babel-mocha-chai-expect",
@@ -1217,11 +1485,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1112,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 318,
+      "uniques": 173
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-babel-mocha-chai-should",
@@ -1235,11 +1507,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 580,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 311,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-esm-jasmine-assert",
@@ -1253,11 +1529,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 234,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 291,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-esm-jasmine-expect",
@@ -1271,11 +1551,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 483,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 282,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-esm-mocha-assert",
@@ -1289,11 +1573,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 285,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 296,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-esm-mocha-chai-assert",
@@ -1307,11 +1595,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 335,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 285,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-esm-mocha-chai-expect",
@@ -1325,11 +1617,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 639,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 284,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-es-modules-esm-mocha-chai-should",
@@ -1343,11 +1639,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 336,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 289,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-ts-node-jasmine-assert",
@@ -1361,11 +1661,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 418,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 288,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-ts-node-jasmine-expect",
@@ -1379,11 +1683,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 555,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-ts-node-mocha-assert",
@@ -1397,11 +1705,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 611,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 303,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-ts-node-mocha-chai-assert",
@@ -1415,11 +1727,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 254,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 307,
+      "uniques": 174
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-ts-node-mocha-chai-expect",
@@ -1433,11 +1749,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 375,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 306,
+      "uniques": 186
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-ts-node-mocha-chai-should",
@@ -1451,11 +1771,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 256,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 309,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-tsc-jasmine-assert",
@@ -1469,11 +1793,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 413,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 297,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-tsc-jasmine-expect",
@@ -1487,11 +1815,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 419,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 296,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-tsc-mocha-assert",
@@ -1505,11 +1837,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 570,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 309,
+      "uniques": 174
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-tsc-mocha-chai-assert",
@@ -1523,11 +1859,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 135,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 312,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-tsc-mocha-chai-expect",
@@ -1541,11 +1881,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 307,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 303,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "protractor-typescript-tsc-mocha-chai-should",
@@ -1559,11 +1903,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 136,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 300,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-cucumber-assert",
@@ -1577,11 +1925,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 504,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 273,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-cucumber-chai-assert",
@@ -1595,11 +1947,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 343,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 268,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-cucumber-chai-expect",
@@ -1613,11 +1969,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 601,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 270,
+      "uniques": 153
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-cucumber-chai-should",
@@ -1631,11 +1991,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 387,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 273,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-cucumber-expect",
@@ -1649,11 +2013,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 567,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 273,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-jasmine-assert",
@@ -1667,11 +2035,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 467,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 278,
+      "uniques": 153
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-jasmine-expect",
@@ -1685,11 +2057,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 478,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 282,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-jest-assert",
@@ -1703,11 +2079,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 896,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 297,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-jest-expect",
@@ -1721,11 +2101,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 958,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 294,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-mocha-assert",
@@ -1739,11 +2123,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 618,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 281,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-mocha-chai-assert",
@@ -1757,11 +2145,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 438,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 282,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-mocha-chai-expect",
@@ -1775,11 +2167,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 327,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-commonjs-mocha-chai-should",
@@ -1793,11 +2189,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 436,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 291,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-es-modules-babel-ava",
@@ -1811,11 +2211,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 868,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 315,
+      "uniques": 175
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-es-modules-babel-jest-assert",
@@ -1829,11 +2233,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 893,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 319,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-es-modules-babel-jest-expect",
@@ -1847,11 +2255,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1528,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 314,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-es-modules-esm-mocha-assert",
@@ -1865,11 +2277,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 236,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 280,
+      "uniques": 156
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-es-modules-esm-mocha-chai-assert",
@@ -1883,11 +2299,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 439,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 296,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-es-modules-esm-mocha-chai-expect",
@@ -1901,11 +2321,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 462,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 285,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-es-modules-esm-mocha-chai-should",
@@ -1919,11 +2343,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 438,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-typescript-ts-jest-jest-assert",
@@ -1937,11 +2365,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 238,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 328,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-typescript-ts-jest-jest-expect",
@@ -1955,11 +2387,15 @@
     "open_issues": 0,
     "watchers": 3,
     "size": 1096,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 317,
+      "uniques": 176
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-typescript-ts-node-jasmine-assert",
@@ -1973,11 +2409,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 449,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 289,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "puppeteer-typescript-ts-node-jasmine-expect",
@@ -1991,11 +2431,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 521,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 284,
+      "uniques": 158
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "resources",
@@ -2009,11 +2453,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 103,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 9,
+      "uniques": 2
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "sandbox",
@@ -2027,11 +2475,15 @@
     "open_issues": 1,
     "watchers": 0,
     "size": 747,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 294,
+      "uniques": 155
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-cucumber-assert",
@@ -2045,11 +2497,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 468,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 278,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-cucumber-chai-assert",
@@ -2063,11 +2519,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 287,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 283,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-cucumber-chai-expect",
@@ -2081,11 +2541,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 728,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 286,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-cucumber-chai-should",
@@ -2099,11 +2563,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 287,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 282,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-jasmine-assert",
@@ -2117,11 +2585,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 450,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 285,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-jasmine-expect",
@@ -2135,11 +2607,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 434,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 278,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-jest-assert",
@@ -2153,11 +2629,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 752,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 297,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-jest-expect",
@@ -2171,11 +2651,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 816,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 300,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-mocha-assert",
@@ -2189,11 +2673,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 539,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 295,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-mocha-chai-assert",
@@ -2207,11 +2695,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 401,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 290,
+      "uniques": 172
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-mocha-chai-expect",
@@ -2225,11 +2717,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 324,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 290,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-mocha-chai-should",
@@ -2243,11 +2739,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 401,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 288,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-commonjs-tape",
@@ -2261,11 +2761,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 631,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 281,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-ava",
@@ -2279,11 +2783,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 718,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 310,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-jasmine-assert",
@@ -2297,11 +2805,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 857,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 307,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-jasmine-expect",
@@ -2315,11 +2827,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 752,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 306,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-jest-assert",
@@ -2333,11 +2849,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1319,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 326,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-jest-expect",
@@ -2351,11 +2871,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1304,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 323,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-mocha-chai-assert",
@@ -2369,11 +2893,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 412,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 308,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-mocha-chai-expect",
@@ -2387,11 +2915,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1154,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 319,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-mocha-chai-should",
@@ -2405,11 +2937,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 486,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 320,
+      "uniques": 176
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-babel-tape",
@@ -2423,11 +2959,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 989,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 308,
+      "uniques": 162
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-cucumber-chai-assert",
@@ -2441,11 +2981,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 286,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 270,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-cucumber-chai-expect",
@@ -2459,11 +3003,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 620,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 279,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-cucumber-chai-should",
@@ -2477,11 +3025,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 336,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 284,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-esm-mocha-assert",
@@ -2495,11 +3047,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 258,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 279,
+      "uniques": 155
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-esm-mocha-chai",
@@ -2513,11 +3069,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 266,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 290,
+      "uniques": 151
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-es-modules-esm-tape",
@@ -2531,11 +3091,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 675,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 285,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-typescript-ts-jest-jest-assert",
@@ -2549,11 +3113,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 668,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 333,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-typescript-ts-jest-jest-expect",
@@ -2567,11 +3135,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 703,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 323,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-typescript-ts-node-ava",
@@ -2585,11 +3157,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 403,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 308,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-typescript-ts-node-jasmine-assert",
@@ -2603,11 +3179,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 412,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 297,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-typescript-ts-node-jasmine-expect",
@@ -2621,11 +3201,15 @@
     "open_issues": 0,
     "watchers": 1,
     "size": 579,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 286,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "selenium-webdriver-typescript-ts-node-tape",
@@ -2639,11 +3223,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 407,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 289,
+      "uniques": 158
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "stats",
@@ -2657,11 +3245,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 71,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 24,
+      "uniques": 23
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "swagger",
@@ -2675,11 +3267,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 7812,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 20,
+      "uniques": 7
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-commonjs",
@@ -2693,11 +3289,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 145,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 278,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-commonjs-assert",
@@ -2711,11 +3311,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 400,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 276,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-commonjs-chai-assert",
@@ -2729,11 +3333,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 468,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 282,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-commonjs-chai-expect",
@@ -2747,11 +3355,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 401,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 288,
+      "uniques": 158
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-commonjs-chai-should",
@@ -2765,11 +3377,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 398,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 282,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-es-modules",
@@ -2783,11 +3399,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 397,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 274,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-es-modules-assert",
@@ -2801,11 +3421,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 400,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 277,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-es-modules-chai-assert",
@@ -2819,11 +3443,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 401,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 289,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-es-modules-chai-expect",
@@ -2837,11 +3465,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 398,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 287,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-es-modules-chai-should",
@@ -2855,11 +3487,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 399,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 279,
+      "uniques": 156
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-typescript",
@@ -2873,11 +3509,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 617,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 287,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-typescript-assert",
@@ -2891,11 +3531,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 543,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 293,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-typescript-chai-assert",
@@ -2909,11 +3553,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 545,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 299,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-typescript-chai-expect",
@@ -2927,11 +3575,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 544,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "testcafe-typescript-chai-should",
@@ -2945,11 +3597,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 486,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 291,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "utils",
@@ -2963,11 +3619,15 @@
     "open_issues": 0,
     "watchers": 4,
     "size": 1329,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-cucumber-chai-assert",
@@ -2981,11 +3641,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 372,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 283,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-cucumber-chai-expect",
@@ -2999,11 +3663,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 412,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 277,
+      "uniques": 153
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-cucumber-chai-should",
@@ -3017,11 +3685,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 505,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 285,
+      "uniques": 157
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-jest-assert",
@@ -3035,11 +3707,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 360,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 300,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-jest-expect",
@@ -3053,11 +3729,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 576,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 305,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-mocha-chai-assert",
@@ -3071,11 +3751,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 284,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 287,
+      "uniques": 158
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-mocha-chai-expect",
@@ -3089,11 +3773,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 279,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 289,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-commonjs-webdriver-manager-mocha-chai-should",
@@ -3107,11 +3795,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 478,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 292,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-es-modules-babel-jest-webdriver-manager-jest-assert",
@@ -3125,11 +3817,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 991,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 327,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-es-modules-babel-jest-webdriver-manager-jest-expect",
@@ -3143,11 +3839,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1155,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 324,
+      "uniques": 174
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-es-modules-babel-webdriver-manager-ava",
@@ -3161,11 +3861,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1121,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 301,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-es-modules-babel-webdriver-manager-jasmine-assert",
@@ -3179,11 +3883,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 545,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 297,
+      "uniques": 175
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-es-modules-babel-webdriver-manager-jasmine-expect",
@@ -3197,11 +3905,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 572,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 297,
+      "uniques": 160
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-typescript-ts-jest-webdriver-manager-jest-assert",
@@ -3215,11 +3927,15 @@
     "open_issues": 1,
     "watchers": 0,
     "size": 450,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 316,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-typescript-ts-jest-webdriver-manager-jest-expect",
@@ -3233,11 +3949,15 @@
     "open_issues": 2,
     "watchers": 0,
     "size": 516,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 325,
+      "uniques": 174
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-typescript-ts-node-webdriver-manager-ava",
@@ -3251,11 +3971,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 609,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 306,
+      "uniques": 164
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-typescript-ts-node-webdriver-manager-jasmine-assert",
@@ -3269,11 +3993,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 233,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 293,
+      "uniques": 161
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "wd-typescript-ts-node-webdriver-manager-jasmine-expect",
@@ -3287,11 +4015,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 291,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 296,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-commonjs-cucumber-assert",
@@ -3305,11 +4037,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 708,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 301,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-commonjs-jasmine-assert",
@@ -3323,11 +4059,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 565,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 297,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-commonjs-jasmine-expect",
@@ -3341,11 +4081,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 648,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 287,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-commonjs-mocha-assert",
@@ -3359,11 +4103,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 816,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 315,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-commonjs-mocha-chai-assert",
@@ -3377,11 +4125,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 799,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 300,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-commonjs-mocha-chai-expect",
@@ -3395,11 +4147,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 749,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 302,
+      "uniques": 163
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-commonjs-mocha-chai-should",
@@ -3413,11 +4169,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 864,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 301,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-es-modules-babel-jasmine-assert",
@@ -3431,11 +4191,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 818,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 316,
+      "uniques": 174
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-es-modules-babel-jasmine-expect",
@@ -3449,11 +4213,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1311,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 318,
+      "uniques": 159
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-es-modules-babel-mocha-assert",
@@ -3467,11 +4235,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1477,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 329,
+      "uniques": 176
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-es-modules-babel-mocha-chai-assert",
@@ -3485,11 +4257,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1264,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 317,
+      "uniques": 170
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-es-modules-babel-mocha-chai-expect",
@@ -3503,11 +4279,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1736,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 326,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-es-modules-babel-mocha-chai-should",
@@ -3521,11 +4301,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 1268,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 313,
+      "uniques": 166
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-typescript-ts-node-jasmine-assert",
@@ -3539,11 +4323,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 581,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 302,
+      "uniques": 165
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-typescript-ts-node-jasmine-expect",
@@ -3557,11 +4345,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 489,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 311,
+      "uniques": 162
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-typescript-ts-node-mocha-assert",
@@ -3575,11 +4367,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 665,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 320,
+      "uniques": 169
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-typescript-ts-node-mocha-chai-assert",
@@ -3593,11 +4389,15 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 721,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 321,
+      "uniques": 168
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-typescript-ts-node-mocha-chai-expect",
@@ -3611,11 +4411,15 @@
     "open_issues": 0,
     "watchers": 2,
     "size": 747,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 310,
+      "uniques": 167
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   },
   {
     "name": "webdriverio-typescript-ts-node-mocha-chai-should",
@@ -3629,10 +4433,14 @@
     "open_issues": 0,
     "watchers": 0,
     "size": 724,
-    "clones_count": 0,
-    "clones_uniques": 0,
+    "clones": {
+      "count": 321,
+      "uniques": 173
+    },
     "traffic": [],
-    "view_count": 0,
-    "view_uniques": 0
+    "view": {
+      "count": 0,
+      "uniques": 0
+    }
   }
 ]

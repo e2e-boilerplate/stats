@@ -17,4 +17,8 @@ const logger = require("pino")({
   prettyPrint: { colorize: true },
 });
 
+if (token) {
+  options.headers.Authorization = `token ${token}`;
+}
+
 export { logger, options, pages, task, token, user };

@@ -1,5 +1,6 @@
 import { request } from "https";
 import { existsSync, mkdirSync, writeFileSync } from "fs";
+import redacted from "../data/redacted/redacted.json";
 import { logger, options, user } from "./constants";
 
 /**
@@ -31,13 +32,23 @@ function getRepoClonesStat(repo) {
             count: data.count ? data.count : "",
             uniques: data.uniques ? data.uniques : "",
           };
-          const folder = "data/clones";
+
+          const folder = "data/redacted";
+
           if (!existsSync(folder)) {
             mkdirSync(folder);
           }
+
+          redacted.forEach((r, index) => {
+            const { name } = r;
+            if (name === repo) {
+              redacted[index].clones = { ...content };
+            }
+          });
+
           writeFileSync(
-            `data/clones/${repo}.json`,
-            JSON.stringify(content, null, 2),
+            `data/redacted/redacted.json`,
+            JSON.stringify(redacted, null, 2),
             "utf8"
           );
           logger.info(`GET: ${path}.`);
