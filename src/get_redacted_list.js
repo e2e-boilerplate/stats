@@ -41,7 +41,7 @@ export default function reposRedactedStat() {
             count: 0,
             uniques: 0,
           },
-          traffic: [],
+          referrers: [],
           view: {
             count: 0,
             uniques: 0,

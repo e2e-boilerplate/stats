@@ -1,16 +1,16 @@
 import { request } from "https";
-import { existsSync, mkdirSync, writeFileSync } from "fs";
-import redacted from "../data/redacted/redacted.json";
+import { writeFileSync } from "fs";
 import { logger, options, user } from "./constants";
+import redacted from "../data/redacted/redacted.json";
 
 /**
- * Implements: https://developer.github.com/v3/repos/traffic/#clones
- * GET /repos/:owner/:repo/traffic/clones
+ * https://developer.github.com/v3/repos/traffic/#list-referrers
+ * GET /repos/:owner/:repo/traffic/popular/referrers
  * repo: repository name
  */
-function getRepoClonesStats(repo) {
+export default  function getReferrersStats(repo) {
   try {
-    const path = `/repos/${user}/${repo}/traffic/clones`;
+    const path = `/repos/${user}/${repo}/traffic/popular/referrers`;
     options.path = path;
     options.headers["X-Github-Username"] = "xgirma";
     delete options.headers["Content-Type"];
@@ -26,31 +26,22 @@ function getRepoClonesStats(repo) {
       });
 
       response.on("end", () => {
-        if (response.statusCode === 200) {
-          const data = JSON.parse(body);
-          const content = {
-            count: data.count ? data.count : "",
-            uniques: data.uniques ? data.uniques : "",
-          };
-
-          const folder = "data/redacted";
-
-          if (!existsSync(folder)) {
-            mkdirSync(folder);
-          }
-
+        const isOk = response.statusCode === 200;
+        const content = isOk ? JSON.parse(body) : "[]";
+        if (isOk) {
           redacted.forEach((r, index) => {
             const { name } = r;
             if (name === repo) {
-              redacted[index].clones = { ...content };
+              redacted[index].referrers = content;
             }
           });
 
           writeFileSync(
-            `data/redacted/redacted.json`,
-            JSON.stringify(redacted, null, 2),
-            "utf8"
+              `data/redacted/redacted.json`,
+              JSON.stringify(redacted, null, 2),
+              "utf8"
           );
+
           logger.info(`GET: ${path}.`);
         } else {
           logger.warn(`Not Found: ${path}. Code: ${response.statusCode}`);
@@ -68,4 +59,4 @@ function getRepoClonesStats(repo) {
   }
 }
 
-export default getRepoClonesStats;
+getReferrersStats();

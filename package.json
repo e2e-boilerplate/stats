@@ -7,7 +7,8 @@
     "lint": "npx eslint . --ext .js --fix",
     "get:repos:list": "node -r esm src/get_repos_list.js",
     "get:reducted:list": "node -r esm src/get_redacted_list.js",
-    "add:clone:stat": "node -r esm src/runner.js --token f7c773e30d8983ca44f96d6fdea547cf5283b5a5",
+    "add:clone:stats": "node -r esm src/clone.js --token ca8687deabc26b409fd060232c37e5d278e0058b",
+    "add:referrers:stats": "node -r esm src/referrers.js --token ca8687deabc26b409fd060232c37e5d278e0058b",
     "stats": "node -r esm ."
   },
   "repository": {
