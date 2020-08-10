@@ -42,7 +42,7 @@ export default function reposRedactedStat() {
             uniques: 0,
           },
           referrers: [],
-          view: {
+          views: {
             count: 0,
             uniques: 0,
           },
