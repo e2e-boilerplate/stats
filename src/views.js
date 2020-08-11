@@ -1,11 +1,11 @@
 import repos from "../data/redacted/redacted.json";
 import getViewsStats from "./get_views_stats";
 
-function clone() {
+function views() {
     repos.forEach((repo) => {
         const { name } = repo;
         getViewsStats(name);
     });
 }
 
-clone();
+views();

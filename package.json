@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "npx eslint . --ext .js --fix",
     "get:repos:list": "node -r esm src/get_repos_list.js",
-    "get:reducted:list": "node -r esm src/get_redacted_list.js",
+    "get:redacted:list": "node -r esm src/get_redacted_list.js",
     "add:clone:stats": "node -r esm src/clone.js --token ...",
     "add:referrers:stats": "node -r esm src/referrers.js --token ...",
     "add:views:stats": "node -r esm src/views.js --token ...",
