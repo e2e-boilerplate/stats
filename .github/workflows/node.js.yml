@@ -51,7 +51,7 @@ jobs:
     - name: git set user.email
       run: git config --global user.email "xgirma@gmail.com"
     - name: git set user.name
-      run: git config --global user.email "Girma Nigusse"
+      run: git config --global user.name "Girma Nigusse"
     - name: git status
       run: git status
     - name: git add
