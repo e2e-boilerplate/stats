@@ -52,3 +52,32 @@ jobs:
        time: 20s
     - name: 'add:views:stats'
       run: 'npm run add:views:stats --token ${{ secrets.GITHUB_TOKEN }}'
+    - name: sleep for 10s
+      if: always()
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 20s
+    - name: git set user.email
+      if: always()
+      run: git config --global user.email "xgirma@gmail.com"
+    - name: git set user.name
+      if: always()
+      run: git config --global user.email "Girma Nigusse"
+    - name: git set rebase false
+      if: always()
+      run: git config pull.rebase false
+    - name: git pull
+      if: always()
+      run: git pull
+    - name: git status
+      if: always()
+      run: git status
+    - name: git add
+      if: always()
+      run: git add --all
+    - name: git commit
+      if: always()
+      run: git commit -am "generate data for 27502"
+    - name: commit data
+      if: always()
+      run: git push
