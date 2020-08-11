@@ -30,7 +30,7 @@ jobs:
     - name: 'add:clone:stats'
       env:
           token: ${{ secrets.GITHUB_TOKEN }}
-      run: 'npm run add:clone:stats --token=${{ secrets.GITHUB_TOKEN }}'
+      run: 'npm run add:clone:stats --token=${{ secrets.stats }}'
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
