@@ -1,26 +1,17 @@
 name: stats
-
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
+  push: null
+  schedule:
+    - cron: 0 0 * * *
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [12.x, 14.x]
-
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js
       uses: actions/setup-node@v1
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: 12.x
     - run: npm ci
     - run: npm run lint --if-present
     - run: 'npm run get:repos:list'
@@ -58,11 +49,14 @@ jobs:
       with:
         time: 20s
     - name: git set user.email
-    - run: git config --global user.email "xgirma@gmail.com"
-    - run: git config --global user.email "Girma Nigusse"
-    - run: git config pull.rebase false
-    - run: git pull
-    - run: git status
-    - run: git add --all
-    - run: git commit -am "update stat"
-    - run: git push
+      run: git config --global user.email "xgirma@gmail.com"
+    - name: git set user.name
+      run: git config --global user.email "Girma Nigusse"
+    - name: git status
+      run: git status
+    - name: git add
+      run: git add --all
+    - name: git commit
+      run: git commit -am "update stat"
+    - name: commit data
+      run: git push
