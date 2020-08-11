@@ -8,7 +8,7 @@ import redacted from "../data/redacted/redacted.json";
  * GET /repos/:owner/:repo/traffic/popular/referrers
  * repo: repository name
  */
-export default  function getReferrersStats(repo) {
+export default function getReferrersStats(repo) {
   try {
     const path = `/repos/${user}/${repo}/traffic/popular/referrers`;
     options.path = path;
@@ -37,9 +37,9 @@ export default  function getReferrersStats(repo) {
           });
 
           writeFileSync(
-              `data/redacted/redacted.json`,
-              JSON.stringify(redacted, null, 2),
-              "utf8"
+            `data/redacted/redacted.json`,
+            JSON.stringify(redacted, null, 2),
+            "utf8"
           );
 
           logger.info(`GET: ${path}.`);

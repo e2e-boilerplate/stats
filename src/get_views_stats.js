@@ -41,9 +41,9 @@ export default function getViewsStats(repo) {
           });
 
           writeFileSync(
-              `data/redacted/redacted.json`,
-              JSON.stringify(redacted, null, 2),
-              "utf8"
+            `data/redacted/redacted.json`,
+            JSON.stringify(redacted, null, 2),
+            "utf8"
           );
           logger.info(`GET: ${path}.`);
         } else {
