@@ -26,8 +26,8 @@ if (process.env.GITHUB_ACTIONS) {
   authToken = process.env.TOKEN;
 }
 
-if (authToken) {
-  options.headers.Authorization = `token ${authToken}`;
-}
+// if (authToken) {
+//   options.headers.Authorization = `token ${authToken}`;
+// }
 
 export { logger, options, pages, task, token, user };

@@ -7,7 +7,7 @@
     "lint": "npx eslint . --ext .js --fix",
     "get:repos:list": "node -r esm src/get_repos_list.js",
     "get:redacted:list": "node -r esm src/get_redacted_list.js",
-    "add:clone:stats": "node -r esm src/clone.js",
+    "add:clone:stats": "node -r esm src/clone.js --token ${{ secrets.GITHUB_TOKEN }}",
     "add:referrers:stats": "node -r esm src/referrers.js",
     "add:views:stats": "node -r esm src/views.js",
     "stats": "node -r esm ."
