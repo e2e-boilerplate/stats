@@ -13,6 +13,7 @@
     "doc:generate:clone": "node -r esm src/clone_doc.js",
     "doc:generate:view": "node -r esm src/view_doc.js",
     "doc:generate:referrers": "node -r esm src/referrers_doc.js",
+    "doc:generate:stargazers": "node -r esm src/stargazers_doc.js",
     "stats": "node -r esm ."
   },
   "repository": {
