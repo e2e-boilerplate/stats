@@ -52,12 +52,6 @@ export default function getReposList() {
   } catch (error) {
     logger.error(error.message);
   }
-
-  if (process.env.GITHUB_ACTIONS) {
-    console.log("start");
-    console.log(process.env);
-    console.log("end");
-  }
 }
 
 getReposList();

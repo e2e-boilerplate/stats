@@ -1,6 +1,6 @@
 import minimist from "minimist";
 
-const { pages = 3, task, token, user = "e2e-boilerplate" } = minimist(
+let { pages = 3, task, token, user = "e2e-boilerplate" } = minimist(
   process.argv.slice(2)
 );
 
@@ -16,6 +16,10 @@ const options = {
 const logger = require("pino")({
   prettyPrint: { colorize: true },
 });
+
+if (process.env.GITHUB_ACTIONS) {
+  token = process.env.TOKEN;
+}
 
 if (token) {
   options.headers.Authorization = `token ${token}`;
