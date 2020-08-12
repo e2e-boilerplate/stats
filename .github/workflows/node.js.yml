@@ -13,10 +13,10 @@ jobs:
       with:
         node-version: 12.x
     - run: npm ci
-      env:
-        token: ${{ secrets.GITHUB_TOKEN }} 
     - run: npm run lint --if-present
     - run: 'npm run get:repos:list'
+      env:
+        token: ${{ secrets.GITHUB_TOKEN }} 
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
