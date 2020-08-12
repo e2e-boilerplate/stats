@@ -16,7 +16,7 @@ jobs:
     - run: npm run lint --if-present
     - run: 'npm run get:repos:list'
       env:
-        token: ${{ secrets.GITHUB_TOKEN }} 
+        token: ${{ secrets.GITHUB_TOKEN }}
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
@@ -30,21 +30,21 @@ jobs:
       with:
        time: 20s
     - name: 'add:clone:stats'
-      run: 'npm run add:clone:stats --token=${{ secrets.GITHUB_TOKEN }}'
+      run: 'npm run add:clone:stats -- --token=${{ secrets.GITHUB_TOKEN }}'
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
       with:
        time: 20s
     - name: 'add:referrers:stats'
-      run: 'npm run add:referrers:stats --token ${{ secrets.GITHUB_TOKEN }}'
+      run: 'npm run add:referrers:stats -- --token ${{ secrets.GITHUB_TOKEN }}'
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
       with:
        time: 20s
     - name: 'add:views:stats'
-      run: 'npm run add:views:stats --token ${{ secrets.GITHUB_TOKEN }}'
+      run: 'npm run add:views:stats -- --token ${{ secrets.GITHUB_TOKEN }}'
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
