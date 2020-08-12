@@ -1,9 +1,14 @@
 import minimist from "minimist";
 
-let { pages = 3, task, token, user = "e2e-boilerplate" } = minimist(
+const { pages = 3, task, token, user = "e2e-boilerplate" } = minimist(
   process.argv.slice(2)
 );
 
+let authToken;
+
+if (token) {
+  authToken = token;
+}
 const options = {
   host: "api.github.com",
   method: "GET",
@@ -18,10 +23,10 @@ const logger = require("pino")({
 });
 
 if (process.env.GITHUB_ACTIONS) {
-  token = process.env.TOKEN;
+  authToken = process.env.TOKEN;
 }
 
-if (token) {
+if (authToken) {
   options.headers.Authorization = `token ${token}`;
 }
 
