@@ -22,39 +22,46 @@ jobs:
        time: 20s
     - name: 'get:redacted:list'
       run: 'npm run get:redacted:list'
-    - name: sleep for 10s
+    - name: sleep for 15s
       if: always()
       uses: juliangruber/sleep-action@v1
       with:
-       time: 20s
+       time: 15s
     - name: 'add clone stats'
       run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 10s
+    - name: sleep for 15s
       if: always()
       uses: juliangruber/sleep-action@v1
       with:
-       time: 20s
+       time: 15s
     - name: 'add referrers stats'
       run: 'npm run add:referrers:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 10s
+    - name: sleep for 15s
       if: always()
       uses: juliangruber/sleep-action@v1
       with:
-       time: 20s
+       time: 15s
     - name: 'add views stats'
       run: 'npm run add:views:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 10s
+    - name: sleep for 15s
       if: always()
       uses: juliangruber/sleep-action@v1
       with:
-        time: 20s
+        time: 15s
     - name: 'doc generate clone'
       run: 'npm run doc:generate:clone'
-    - name: sleep for 10s
+    - name: sleep for 15s
       if: always()
       uses: juliangruber/sleep-action@v1
       with:
-        time: 20s
+        time: 15s
+    - name: 'doc generate view'
+      run: 'npm run doc:generate:view'
+    - name: sleep for 15s
+      if: always()
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 15s
     - name: git set user.email
       run: git config --global user.email "xgirma@gmail.com"
     - name: git set user.name

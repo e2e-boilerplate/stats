@@ -11,6 +11,7 @@
     "add:referrers:stats": "node -r esm src/referrers.js",
     "add:views:stats": "node -r esm src/views.js",
     "doc:generate:clone": "node -r esm src/clone_doc.js",
+    "doc:generate:view": "node -r esm src/view_doc.js",
     "stats": "node -r esm ."
   },
   "repository": {
