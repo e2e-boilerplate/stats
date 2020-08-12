@@ -1,6 +1,5 @@
 name: stats
 on:
-  push: null
   schedule:
     - cron: 0 0 * * *
 jobs:
@@ -13,6 +12,8 @@ jobs:
       with:
         node-version: 12.x
     - run: npm ci
+      env:
+        token: ${{ secrets.GITHUB_TOKEN }} 
     - run: npm run lint --if-present
     - run: 'npm run get:repos:list'
     - name: sleep for 10s
@@ -28,9 +29,7 @@ jobs:
       with:
        time: 20s
     - name: 'add:clone:stats'
-      env:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      run: 'npm run add:clone:stats --token=${{ secrets.stats }}'
+      run: 'npm run add:clone:stats --token=${{ secrets.GITHUB_TOKEN }}'
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
