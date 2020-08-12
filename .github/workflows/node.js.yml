@@ -28,7 +28,7 @@ jobs:
       with:
        time: 20s
     - name: 'add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
-      run: 'npm run add:clone:stats'
+      run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: sleep for 10s
