@@ -27,7 +27,7 @@ jobs:
       uses: juliangruber/sleep-action@v1
       with:
        time: 20s
-    - name: 'add:clone:stats'
+    - name: 'add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
       run: 'npm run add:clone:stats'
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
