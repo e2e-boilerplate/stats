@@ -55,7 +55,7 @@ export default function getReposList() {
   
   if(process.env.GITHUB_ACTIONS) {
     console.log('start')
-    console.log(process.env.token)
+    console.log(process.env)
     console.log('end')
   }
 }
