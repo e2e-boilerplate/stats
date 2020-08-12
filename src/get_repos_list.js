@@ -1,6 +1,6 @@
 import { writeFileSync, existsSync, mkdirSync } from "fs";
 import { request } from "https";
-import isNumeric from "./utils";
+import { isNumeric } from "./utils";
 
 import { user, pages, logger, options } from "./constants";
 

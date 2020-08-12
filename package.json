@@ -10,6 +10,7 @@
     "add:clone:stats": "node -r esm src/clone.js",
     "add:referrers:stats": "node -r esm src/referrers.js",
     "add:views:stats": "node -r esm src/views.js",
+    "doc:generate:clone": "node -r esm src/clone_doc.js",
     "stats": "node -r esm ."
   },
   "repository": {

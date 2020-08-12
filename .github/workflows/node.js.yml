@@ -29,8 +29,6 @@ jobs:
        time: 20s
     - name: 'add clone stats'
       run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
-      env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
@@ -38,8 +36,6 @@ jobs:
        time: 20s
     - name: 'add referrers stats'
       run: 'npm run add:referrers:stats -- --token=${{ secrets.STAT_TOKEN }}'
-      env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
@@ -47,8 +43,13 @@ jobs:
        time: 20s
     - name: 'add views stats'
       run: 'npm run add:views:stats -- --token=${{ secrets.STAT_TOKEN }}'
-      env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: sleep for 10s
+      if: always()
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 20s
+    - name: 'doc generate clone'
+      run: 'npm run doc:generate:clone'
     - name: sleep for 10s
       if: always()
       uses: juliangruber/sleep-action@v1
