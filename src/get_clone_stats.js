@@ -15,6 +15,8 @@ function getRepoClonesStats(repo) {
     options.headers["X-Github-Username"] = "xgirma";
     delete options.headers["Content-Type"];
 
+    console.log(options);
+
     const req = request(options, (response) => {
       let body = "";
       response.on("error", (error) => {
