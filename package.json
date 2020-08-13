@@ -15,6 +15,7 @@
     "doc:generate:referrers": "node -r esm src/referrers_doc.js",
     "doc:generate:stargazers": "node -r esm src/stargazers_doc.js",
     "chart:sample:referrers": "node -r esm chart/sample.js",
+    "chart:bar:referrers": "node -r esm chart/referrers.js",
     "stats": "node -r esm ."
   },
   "repository": {
@@ -54,7 +55,9 @@
     ]
   },
   "dependencies": {
+    "d3": "^5.16.0",
     "esm": "3.2.25",
+    "jsdom": "^16.4.0",
     "markdown-table": "2.0.0",
     "minimist": "1.2.5",
     "pino": "6.5.0",

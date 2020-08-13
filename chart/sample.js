@@ -4,10 +4,10 @@ import { logger } from "../src/constants";
 function prepareSample(obj) {
   const sample = [];
   const names = Object.getOwnPropertyNames(obj);
-  names.forEach( name => {
+  names.forEach((name) => {
     sample.push({
-      "name": name,
-      "value": obj[name]
+      name,
+      value: obj[name],
     });
   });
 
@@ -36,10 +36,12 @@ function getSample() {
     });
 
     const formattedCount = prepareSample(countData);
-    const formattedUnique = prepareSample(uniqueData);
+    formattedCount.sort((a, b) => (a.value > b.value ? 1 : -1));
+    const contentCount = JSON.stringify(formattedCount, null, 2);
 
-    const contentCount = JSON.stringify(formattedCount,null, 2);
-    const contentUnique = JSON.stringify(formattedUnique,null, 2);
+    const formattedUnique = prepareSample(uniqueData);
+    formattedUnique.sort((a, b) => (a.value > b.value ? 1 : -1));
+    const contentUnique = JSON.stringify(formattedUnique, null, 2);
 
     writeFileSync("data/chart/referrer/count.json", contentCount, "utf8");
     writeFileSync("data/chart/referrer/unique.json", contentUnique, "utf8");
