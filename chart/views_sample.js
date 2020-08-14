@@ -28,7 +28,7 @@ function createCSv() {
         const { views, name } = r;
         const { count, uniques } = views;
         if( count === 0 && uniques === 0) {
-            data.push(`${r.name},${r.views.count},${r.views.uniques}`);
+            data.push(`${name},${count},${uniques}`);
         }
     });
 
