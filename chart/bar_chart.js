@@ -30,10 +30,10 @@ function barchartChartSvg(data, path) {
     .attr("transform", `translate(${margin.left},${margin.top})`);
 
   const x = d3.scaleLinear().domain([0, max]).range([0, width]);
-
-  svg
-      .attr("xmlns", "http://www.w3.org/2000/svg")
-      .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
+  //
+  // svg
+  //     .attr("xmlns", "http://www.w3.org/2000/svg")
+  //     .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
   svg
     .append("g")
