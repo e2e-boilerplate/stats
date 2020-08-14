@@ -43,8 +43,8 @@ function getSample() {
     formattedUnique.sort((a, b) => (a.value > b.value ? 1 : -1));
     const contentUnique = JSON.stringify(formattedUnique, null, 2);
 
-    writeFileSync("data/chart/referrer/count.json", contentCount, "utf8");
-    writeFileSync("data/chart/referrer/unique.json", contentUnique, "utf8");
+    writeFileSync("chart/referrers/count.json", contentCount, "utf8");
+    writeFileSync("chart/referrers/unique.json", contentUnique, "utf8");
   } catch (error) {
     logger.error(error.message);
   }
