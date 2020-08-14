@@ -1,4 +1,4 @@
-import barChartSvg from "./bar_chart";
+import barChartSvg from "./bar_chart_2";
 
 const count = require("../data/chart/referrer/count.json");
 const unique = require("../data/chart/referrer/unique.json");
