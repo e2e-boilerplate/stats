@@ -1,6 +1,5 @@
-import { logger } from "../src/constants";
-
 const { appendFileSync, writeFileSync } = require("fs");
+import { logger } from "../src/constants";
 
 function writeToFile(data, path) {
   const content = ["name,count,uniques"];
@@ -14,7 +13,7 @@ function writeToFile(data, path) {
       appendFileSync(path, `${line}\n`, "utf8");
     });
   } catch (error) {
-    console.error("Error writing csv to file");
+    logger.error(error.message);
   }
 }
 
