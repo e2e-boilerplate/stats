@@ -1,5 +1,6 @@
-const { appendFileSync, writeFileSync } = require("fs");
 import { logger } from "../src/constants";
+
+const { appendFileSync, writeFileSync } = require("fs");
 
 function writeToFile(data, path) {
   const content = ["name,count,uniques"];
