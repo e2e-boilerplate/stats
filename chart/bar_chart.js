@@ -15,6 +15,7 @@ function barchartChartSvg(data, path) {
 
   const { document } = new JSDOM("").window;
   global.document = document;
+
   const body = d3.select(document).select("body");
 
   const margin = { top: 20, right: 30, bottom: 40, left: 90 };
@@ -31,6 +32,10 @@ function barchartChartSvg(data, path) {
   const x = d3.scaleLinear().domain([0, max]).range([0, width]);
 
   svg
+      .attr("xmlns", "http://www.w3.org/2000/svg")
+      .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
+
+  svg
     .append("g")
     .attr("transform", `translate(0,${height})`)
     .call(d3.axisBottom(x))
@@ -42,6 +47,7 @@ function barchartChartSvg(data, path) {
     .range([0, height])
     .domain(data.map((d) => d.name))
     .padding(0.1);
+
   svg.append("g").call(d3.axisLeft(y));
 
   svg
@@ -57,10 +63,6 @@ function barchartChartSvg(data, path) {
     .attr("font-size", "14px")
     .attr("fill", "#f4c63d")
     .attr("text-anchor", "middle");
-
-  svg
-    .attr("xmlns", "http://www.w3.org/2000/svg")
-    .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
   writeFileSync(path, body.node().innerHTML);
 }
