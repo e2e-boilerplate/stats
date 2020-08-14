@@ -28,17 +28,17 @@ function createCSv() {
       const { views, name } = r;
       const { count, uniques } = views;
       if (count !== 0 && uniques !== 0) {
-          view.push(`${name},${count},${uniques}`);
+        view.push(`${name},${count},${uniques}`);
       }
     });
 
-      redacted.forEach((r) => {
-          const { clones, name } = r;
-          const { count, uniques } = clones;
-          if (count !== 0 && uniques !== 0) {
-              clone.push(`${name},${count},${uniques}`);
-          }
-      });
+    redacted.forEach((r) => {
+      const { clones, name } = r;
+      const { count, uniques } = clones;
+      if (count !== 0 && uniques !== 0) {
+        clone.push(`${name},${count},${uniques}`);
+      }
+    });
 
     writeToFile(view, "chart/views/views.csv");
     writeToFile(clone, "chart/clones/clones.csv");
