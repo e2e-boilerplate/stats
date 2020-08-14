@@ -39,7 +39,6 @@ function getSample() {
     formattedCount.sort((a, b) => (a.value > b.value ? 1 : -1));
     const contentCount = JSON.stringify(formattedCount, null, 2);
 
-
     const formattedUnique = prepareSample(uniqueData);
     formattedUnique.sort((a, b) => (a.value > b.value ? 1 : -1));
     const contentUnique = JSON.stringify(formattedUnique, null, 2);

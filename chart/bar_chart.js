@@ -3,12 +3,12 @@ const d3 = require("d3");
 const jsdom = require("jsdom");
 const { writeFileSync } = require("fs");
 
-function barchartChartSvg(data, path) {
+function barChartSvg(data, path) {
   const { JSDOM } = jsdom;
 
   const max = Math.max.apply(
     Math,
-    data.map(function (o) {
+    data.map((o) => {
       return o.value;
     })
   );
@@ -27,13 +27,11 @@ function barchartChartSvg(data, path) {
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
-    .attr("transform", `translate(${margin.left},${margin.top})`);
+    .attr("transform", `translate(${margin.left},${margin.top})`)
+    .attr("xmlns", "http://www.w3.org/2000/svg")
+    .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
   const x = d3.scaleLinear().domain([0, max]).range([0, width]);
-  //
-  // svg
-  //     .attr("xmlns", "http://www.w3.org/2000/svg")
-  //     .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
   svg
     .append("g")
@@ -59,12 +57,12 @@ function barchartChartSvg(data, path) {
     .attr("y", (d) => y(d.name))
     .attr("width", (d) => x(d.value))
     .attr("height", y.bandwidth())
-    // .attr("font-family", "sans-serif")
-    // .attr("font-size", "14px")
-    // .attr("fill", "#f4c63d")
-    // .attr("text-anchor", "middle");
+    .attr("font-family", "sans-serif")
+    .attr("font-size", "14px")
+    .attr("fill", "#f4c63d")
+    .attr("text-anchor", "middle");
 
   writeFileSync(path, body.node().innerHTML);
 }
 
-export default barchartChartSvg;
+export default barChartSvg;
