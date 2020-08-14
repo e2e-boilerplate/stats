@@ -59,10 +59,10 @@ function barchartChartSvg(data, path) {
     .attr("y", (d) => y(d.name))
     .attr("width", (d) => x(d.value))
     .attr("height", y.bandwidth())
-    .attr("font-family", "sans-serif")
-    .attr("font-size", "14px")
-    .attr("fill", "#f4c63d")
-    .attr("text-anchor", "middle");
+    // .attr("font-family", "sans-serif")
+    // .attr("font-size", "14px")
+    // .attr("fill", "#f4c63d")
+    // .attr("text-anchor", "middle");
 
   writeFileSync(path, body.node().innerHTML);
 }
