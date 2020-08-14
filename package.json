@@ -16,6 +16,7 @@
     "doc:generate:stargazers": "node -r esm src/stargazers_doc.js",
     "chart:sample:referrers": "node -r esm chart/referrers_sample.js",
     "chart:bar:referrers": "node -r esm chart/referrers.js",
+    "chart:sample:views": "node -r esm chart/views_sample.js",
     "stats": "node -r esm ."
   },
   "repository": {

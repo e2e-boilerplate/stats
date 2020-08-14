@@ -29,8 +29,8 @@ export default function getViewsStats(repo) {
         if (response.statusCode === 200) {
           const data = JSON.parse(body);
           const content = {
-            count: data.count ? data.count : "",
-            uniques: data.uniques ? data.uniques : "",
+            count: data.count ? data.count : 0,
+            uniques: data.uniques ? data.uniques : 0,
           };
 
           redacted.forEach((r, index) => {
