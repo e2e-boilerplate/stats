@@ -16,20 +16,18 @@ function barChartSvg(data, path) {
   const height = 400 - margin.top - margin.bottom;
 
   const y = d3.scaleBand().range([height, 0]).padding(0.1);
-
   const x = d3.scaleLinear().range([0, width]);
 
   const svg = body
     .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-    .attr("transform", `translate(${margin.left},${margin.top})`)
     .attr("xmlns", "http://www.w3.org/2000/svg")
-    .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
+    .attr("xmlns:xlink", "http://www.w3.org/1999/xlink")
+    .append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
 
   x.domain([0, d3.max(data, (d) => d.value)]);
-
   y.domain(data.map((d) => d.name));
 
   svg
