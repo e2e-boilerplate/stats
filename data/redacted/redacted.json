@@ -1,1 +1,4974 @@
-[]
+[
+  {
+    "name": "api",
+    "full_name": "e2e-boilerplate/api",
+    "url": "https://api.github.com/repos/e2e-boilerplate/api",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 442,
+    "clones": {
+      "count": 12,
+      "uniques": 5
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 9,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "cypress-es-modules-chai-assert",
+    "full_name": "e2e-boilerplate/cypress-es-modules-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 567,
+    "clones": {
+      "count": 297,
+      "uniques": 192
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 4,
+        "uniques": 4
+      }
+    ],
+    "views": {
+      "count": 5,
+      "uniques": 4
+    }
+  },
+  {
+    "name": "cypress-es-modules-chai-expect",
+    "full_name": "e2e-boilerplate/cypress-es-modules-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 658,
+    "clones": {
+      "count": 298,
+      "uniques": 188
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-es-modules-chai-should",
+    "full_name": "e2e-boilerplate/cypress-es-modules-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 584,
+    "clones": {
+      "count": 300,
+      "uniques": 187
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-es-modules-cucumber-chai-assert",
+    "full_name": "e2e-boilerplate/cypress-es-modules-cucumber-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-cucumber-chai-assert",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 520,
+    "clones": {
+      "count": 304,
+      "uniques": 189
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 5,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "cypress-es-modules-cucumber-chai-expect",
+    "full_name": "e2e-boilerplate/cypress-es-modules-cucumber-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-cucumber-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 701,
+    "clones": {
+      "count": 298,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-es-modules-cucumber-chai-should",
+    "full_name": "e2e-boilerplate/cypress-es-modules-cucumber-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-cucumber-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 701,
+    "clones": {
+      "count": 302,
+      "uniques": 210
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-es-modules-cucumber-jest-expect",
+    "full_name": "e2e-boilerplate/cypress-es-modules-cucumber-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-cucumber-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 626,
+    "clones": {
+      "count": 296,
+      "uniques": 190
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-es-modules-jest-expect",
+    "full_name": "e2e-boilerplate/cypress-es-modules-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-es-modules-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 649,
+    "clones": {
+      "count": 303,
+      "uniques": 193
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 8,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "cypress-typescript-browserify-chai-assert",
+    "full_name": "e2e-boilerplate/cypress-typescript-browserify-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-browserify-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 592,
+    "clones": {
+      "count": 315,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 3,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "cypress-typescript-browserify-chai-expect",
+    "full_name": "e2e-boilerplate/cypress-typescript-browserify-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-browserify-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 758,
+    "clones": {
+      "count": 310,
+      "uniques": 184
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 19,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "cypress-typescript-browserify-chai-should",
+    "full_name": "e2e-boilerplate/cypress-typescript-browserify-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-browserify-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 524,
+    "clones": {
+      "count": 307,
+      "uniques": 198
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-typescript-browserify-jest-expect",
+    "full_name": "e2e-boilerplate/cypress-typescript-browserify-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-browserify-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1034,
+    "clones": {
+      "count": 335,
+      "uniques": 216
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 3,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "cypress-typescript-chai-assert",
+    "full_name": "e2e-boilerplate/cypress-typescript-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 492,
+    "clones": {
+      "count": 310,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-typescript-chai-expect",
+    "full_name": "e2e-boilerplate/cypress-typescript-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 462,
+    "clones": {
+      "count": 305,
+      "uniques": 202
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 5,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 36,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "cypress-typescript-chai-should",
+    "full_name": "e2e-boilerplate/cypress-typescript-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 461,
+    "clones": {
+      "count": 315,
+      "uniques": 196
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 2,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "cypress-typescript-cucumber-chai-assert",
+    "full_name": "e2e-boilerplate/cypress-typescript-cucumber-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-cucumber-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 548,
+    "clones": {
+      "count": 314,
+      "uniques": 207
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-typescript-cucumber-chai-expect",
+    "full_name": "e2e-boilerplate/cypress-typescript-cucumber-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-cucumber-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 547,
+    "clones": {
+      "count": 314,
+      "uniques": 204
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 9,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "cypress-typescript-cucumber-chai-should",
+    "full_name": "e2e-boilerplate/cypress-typescript-cucumber-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-cucumber-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 546,
+    "clones": {
+      "count": 325,
+      "uniques": 212
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-typescript-jest-expect",
+    "full_name": "e2e-boilerplate/cypress-typescript-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-jest-expect",
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 2,
+    "size": 305,
+    "clones": {
+      "count": 331,
+      "uniques": 193
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 6,
+        "uniques": 3
+      }
+    ],
+    "views": {
+      "count": 28,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "cypress-typescript-webpack-chai-assert",
+    "full_name": "e2e-boilerplate/cypress-typescript-webpack-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-webpack-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 572,
+    "clones": {
+      "count": 330,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-typescript-webpack-chai-expect",
+    "full_name": "e2e-boilerplate/cypress-typescript-webpack-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-webpack-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 432,
+    "clones": {
+      "count": 325,
+      "uniques": 190
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-typescript-webpack-chai-should",
+    "full_name": "e2e-boilerplate/cypress-typescript-webpack-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-webpack-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 763,
+    "clones": {
+      "count": 324,
+      "uniques": 207
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "cypress-typescript-webpack-jest-expect",
+    "full_name": "e2e-boilerplate/cypress-typescript-webpack-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/cypress-typescript-webpack-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 537,
+    "clones": {
+      "count": 344,
+      "uniques": 200
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 13,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "docs",
+    "full_name": "e2e-boilerplate/docs",
+    "url": "https://api.github.com/repos/e2e-boilerplate/docs",
+    "stargazers_count": 6,
+    "watchers_count": 6,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 6,
+    "size": 870,
+    "clones": {
+      "count": 15,
+      "uniques": 7
+    },
+    "referrers": [
+      {
+        "referrer": "t.co",
+        "count": 49,
+        "uniques": 41
+      },
+      {
+        "referrer": "github.com",
+        "count": 23,
+        "uniques": 8
+      },
+      {
+        "referrer": "twicli.neocat.jp",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 166,
+      "uniques": 58
+    }
+  },
+  {
+    "name": "e2e-boilerplate",
+    "full_name": "e2e-boilerplate/e2e-boilerplate",
+    "url": "https://api.github.com/repos/e2e-boilerplate/e2e-boilerplate",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 20,
+    "forks": 0,
+    "open_issues": 20,
+    "watchers": 0,
+    "size": 188,
+    "clones": {
+      "count": 9,
+      "uniques": 2
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "nightwatch-commonjs-assert",
+    "full_name": "e2e-boilerplate/nightwatch-commonjs-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/nightwatch-commonjs-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 491,
+    "clones": {
+      "count": 278,
+      "uniques": 190
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "nightwatch-commonjs-expect",
+    "full_name": "e2e-boilerplate/nightwatch-commonjs-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/nightwatch-commonjs-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 532,
+    "clones": {
+      "count": 286,
+      "uniques": 193
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 3,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "nightwatch-es-modules-babel-assert",
+    "full_name": "e2e-boilerplate/nightwatch-es-modules-babel-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/nightwatch-es-modules-babel-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 970,
+    "clones": {
+      "count": 303,
+      "uniques": 181
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "nightwatch-es-modules-babel-expect",
+    "full_name": "e2e-boilerplate/nightwatch-es-modules-babel-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/nightwatch-es-modules-babel-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 948,
+    "clones": {
+      "count": 301,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "nightwatch-typescript-tsc-assert",
+    "full_name": "e2e-boilerplate/nightwatch-typescript-tsc-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/nightwatch-typescript-tsc-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 659,
+    "clones": {
+      "count": 290,
+      "uniques": 213
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "nightwatch-typescript-tsc-expect",
+    "full_name": "e2e-boilerplate/nightwatch-typescript-tsc-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/nightwatch-typescript-tsc-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 676,
+    "clones": {
+      "count": 289,
+      "uniques": 196
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 7,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 9,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "picker",
+    "full_name": "e2e-boilerplate/picker",
+    "url": "https://api.github.com/repos/e2e-boilerplate/picker",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 8,
+    "forks": 0,
+    "open_issues": 8,
+    "watchers": 0,
+    "size": 8569,
+    "clones": {
+      "count": 372,
+      "uniques": 204
+    },
+    "referrers": [],
+    "views": {
+      "count": 16,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "playwright-commonjs-cucumber-assert",
+    "full_name": "e2e-boilerplate/playwright-commonjs-cucumber-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-cucumber-assert",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 252,
+    "clones": {
+      "count": 365,
+      "uniques": 217
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 8,
+        "uniques": 3
+      },
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 38,
+      "uniques": 5
+    }
+  },
+  {
+    "name": "playwright-commonjs-cucumber-chai-assert",
+    "full_name": "e2e-boilerplate/playwright-commonjs-cucumber-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-cucumber-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 145,
+    "clones": {
+      "count": 361,
+      "uniques": 224
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 24,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "playwright-commonjs-cucumber-chai-expect",
+    "full_name": "e2e-boilerplate/playwright-commonjs-cucumber-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-cucumber-chai-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 352,
+    "clones": {
+      "count": 365,
+      "uniques": 221
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 10,
+        "uniques": 3
+      },
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 53,
+      "uniques": 5
+    }
+  },
+  {
+    "name": "playwright-commonjs-cucumber-chai-should",
+    "full_name": "e2e-boilerplate/playwright-commonjs-cucumber-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-cucumber-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 145,
+    "clones": {
+      "count": 359,
+      "uniques": 232
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 6,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "playwright-commonjs-cucumber-expect",
+    "full_name": "e2e-boilerplate/playwright-commonjs-cucumber-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-cucumber-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 615,
+    "clones": {
+      "count": 372,
+      "uniques": 229
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "referrer": "medium.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 30,
+      "uniques": 5
+    }
+  },
+  {
+    "name": "playwright-commonjs-jasmine-assert",
+    "full_name": "e2e-boilerplate/playwright-commonjs-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-jasmine-assert",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 221,
+    "clones": {
+      "count": 352,
+      "uniques": 217
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "playwright-commonjs-jasmine-expect",
+    "full_name": "e2e-boilerplate/playwright-commonjs-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-jasmine-expect",
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 2,
+    "size": 244,
+    "clones": {
+      "count": 360,
+      "uniques": 218
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 11,
+        "uniques": 6
+      },
+      {
+        "referrer": "Google",
+        "count": 7,
+        "uniques": 6
+      }
+    ],
+    "views": {
+      "count": 132,
+      "uniques": 14
+    }
+  },
+  {
+    "name": "playwright-commonjs-jest-assert",
+    "full_name": "e2e-boilerplate/playwright-commonjs-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-jest-assert",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 611,
+    "clones": {
+      "count": 386,
+      "uniques": 233
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 7,
+        "uniques": 3
+      },
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 34,
+      "uniques": 4
+    }
+  },
+  {
+    "name": "playwright-commonjs-jest-expect",
+    "full_name": "e2e-boilerplate/playwright-commonjs-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-jest-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 1176,
+    "clones": {
+      "count": 381,
+      "uniques": 229
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 12,
+        "uniques": 5
+      },
+      {
+        "referrer": "Google",
+        "count": 4,
+        "uniques": 3
+      },
+      {
+        "referrer": "medium.com",
+        "count": 2,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 56,
+      "uniques": 11
+    }
+  },
+  {
+    "name": "playwright-commonjs-mocha-assert",
+    "full_name": "e2e-boilerplate/playwright-commonjs-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-mocha-assert",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 364,
+    "clones": {
+      "count": 358,
+      "uniques": 214
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "playwright-commonjs-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/playwright-commonjs-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 285,
+    "clones": {
+      "count": 369,
+      "uniques": 221
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 3,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "playwright-commonjs-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/playwright-commonjs-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-mocha-chai-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 516,
+    "clones": {
+      "count": 373,
+      "uniques": 217
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 3,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "playwright-commonjs-mocha-chai-should",
+    "full_name": "e2e-boilerplate/playwright-commonjs-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-commonjs-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 240,
+    "clones": {
+      "count": 376,
+      "uniques": 216
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 6,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "playwright-es-modules-babel-ava",
+    "full_name": "e2e-boilerplate/playwright-es-modules-babel-ava",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-es-modules-babel-ava",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 918,
+    "clones": {
+      "count": 383,
+      "uniques": 219
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "playwright-es-modules-babel-jest-assert",
+    "full_name": "e2e-boilerplate/playwright-es-modules-babel-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-es-modules-babel-jest-assert",
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 2,
+    "size": 1262,
+    "clones": {
+      "count": 388,
+      "uniques": 212
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 21,
+      "uniques": 4
+    }
+  },
+  {
+    "name": "playwright-es-modules-babel-jest-expect",
+    "full_name": "e2e-boilerplate/playwright-es-modules-babel-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-es-modules-babel-jest-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 1413,
+    "clones": {
+      "count": 384,
+      "uniques": 221
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 13,
+        "uniques": 1
+      },
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 39,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "playwright-es-modules-esm-mocha-assert",
+    "full_name": "e2e-boilerplate/playwright-es-modules-esm-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-es-modules-esm-mocha-assert",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 364,
+    "clones": {
+      "count": 361,
+      "uniques": 236
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 6,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "playwright-es-modules-esm-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/playwright-es-modules-esm-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-es-modules-esm-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 239,
+    "clones": {
+      "count": 361,
+      "uniques": 222
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 7,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 11,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "playwright-es-modules-esm-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/playwright-es-modules-esm-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-es-modules-esm-mocha-chai-expect",
+    "stargazers_count": 3,
+    "watchers_count": 3,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 3,
+    "size": 478,
+    "clones": {
+      "count": 364,
+      "uniques": 223
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 12,
+        "uniques": 3
+      },
+      {
+        "referrer": "medium.com",
+        "count": 4,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 47,
+      "uniques": 4
+    }
+  },
+  {
+    "name": "playwright-es-modules-esm-mocha-chai-should",
+    "full_name": "e2e-boilerplate/playwright-es-modules-esm-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-es-modules-esm-mocha-chai-should",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 198,
+    "clones": {
+      "count": 369,
+      "uniques": 226
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 11,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "playwright-typescript-ts-jest-jest-assert",
+    "full_name": "e2e-boilerplate/playwright-typescript-ts-jest-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-typescript-ts-jest-jest-assert",
+    "stargazers_count": 5,
+    "watchers_count": 5,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 5,
+    "size": 676,
+    "clones": {
+      "count": 411,
+      "uniques": 237
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 60,
+        "uniques": 27
+      },
+      {
+        "referrer": "github.com",
+        "count": 12,
+        "uniques": 11
+      }
+    ],
+    "views": {
+      "count": 227,
+      "uniques": 34
+    }
+  },
+  {
+    "name": "playwright-typescript-ts-jest-jest-expect",
+    "full_name": "e2e-boilerplate/playwright-typescript-ts-jest-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-typescript-ts-jest-jest-expect",
+    "stargazers_count": 5,
+    "watchers_count": 5,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 5,
+    "size": 712,
+    "clones": {
+      "count": 416,
+      "uniques": 236
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 47,
+        "uniques": 18
+      },
+      {
+        "referrer": "medium.com",
+        "count": 4,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 178,
+      "uniques": 20
+    }
+  },
+  {
+    "name": "playwright-typescript-ts-node-jasmine-assert",
+    "full_name": "e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-typescript-ts-node-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 423,
+    "clones": {
+      "count": 383,
+      "uniques": 223
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 10,
+        "uniques": 6
+      },
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 29,
+      "uniques": 6
+    }
+  },
+  {
+    "name": "playwright-typescript-ts-node-jasmine-expect",
+    "full_name": "e2e-boilerplate/playwright-typescript-ts-node-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/playwright-typescript-ts-node-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 361,
+    "clones": {
+      "count": 374,
+      "uniques": 228
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 21,
+        "uniques": 5
+      },
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 146,
+      "uniques": 7
+    }
+  },
+  {
+    "name": "protractor-commonjs-jasmine-assert",
+    "full_name": "e2e-boilerplate/protractor-commonjs-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-commonjs-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 524,
+    "clones": {
+      "count": 284,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-commonjs-jasmine-expect",
+    "full_name": "e2e-boilerplate/protractor-commonjs-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-commonjs-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 413,
+    "clones": {
+      "count": 282,
+      "uniques": 181
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 4,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "protractor-commonjs-mocha-assert",
+    "full_name": "e2e-boilerplate/protractor-commonjs-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-commonjs-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 691,
+    "clones": {
+      "count": 301,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-commonjs-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/protractor-commonjs-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-commonjs-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 444,
+    "clones": {
+      "count": 289,
+      "uniques": 187
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-commonjs-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/protractor-commonjs-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-commonjs-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 654,
+    "clones": {
+      "count": 288,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-commonjs-mocha-chai-should",
+    "full_name": "e2e-boilerplate/protractor-commonjs-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-commonjs-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 294,
+    "clones": {
+      "count": 289,
+      "uniques": 185
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-babel-jasmine-assert",
+    "full_name": "e2e-boilerplate/protractor-es-modules-babel-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-babel-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 862,
+    "clones": {
+      "count": 298,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-babel-jasmine-expect",
+    "full_name": "e2e-boilerplate/protractor-es-modules-babel-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-babel-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 916,
+    "clones": {
+      "count": 294,
+      "uniques": 186
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-babel-mocha-assert",
+    "full_name": "e2e-boilerplate/protractor-es-modules-babel-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-babel-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1069,
+    "clones": {
+      "count": 302,
+      "uniques": 188
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-babel-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/protractor-es-modules-babel-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 586,
+    "clones": {
+      "count": 295,
+      "uniques": 200
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-babel-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1112,
+    "clones": {
+      "count": 305,
+      "uniques": 199
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-babel-mocha-chai-should",
+    "full_name": "e2e-boilerplate/protractor-es-modules-babel-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 580,
+    "clones": {
+      "count": 304,
+      "uniques": 192
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-esm-jasmine-assert",
+    "full_name": "e2e-boilerplate/protractor-es-modules-esm-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-esm-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 234,
+    "clones": {
+      "count": 284,
+      "uniques": 180
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-esm-jasmine-expect",
+    "full_name": "e2e-boilerplate/protractor-es-modules-esm-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-esm-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 483,
+    "clones": {
+      "count": 283,
+      "uniques": 189
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 10,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "protractor-es-modules-esm-mocha-assert",
+    "full_name": "e2e-boilerplate/protractor-es-modules-esm-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-esm-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 285,
+    "clones": {
+      "count": 299,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-esm-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/protractor-es-modules-esm-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 335,
+    "clones": {
+      "count": 282,
+      "uniques": 198
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-esm-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 639,
+    "clones": {
+      "count": 278,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-es-modules-esm-mocha-chai-should",
+    "full_name": "e2e-boilerplate/protractor-es-modules-esm-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-es-modules-esm-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 336,
+    "clones": {
+      "count": 285,
+      "uniques": 193
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-ts-node-jasmine-assert",
+    "full_name": "e2e-boilerplate/protractor-typescript-ts-node-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-ts-node-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 418,
+    "clones": {
+      "count": 293,
+      "uniques": 190
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-ts-node-jasmine-expect",
+    "full_name": "e2e-boilerplate/protractor-typescript-ts-node-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-ts-node-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 555,
+    "clones": {
+      "count": 295,
+      "uniques": 196
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 5,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 6,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "protractor-typescript-ts-node-mocha-assert",
+    "full_name": "e2e-boilerplate/protractor-typescript-ts-node-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-ts-node-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 613,
+    "clones": {
+      "count": 310,
+      "uniques": 198
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-ts-node-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/protractor-typescript-ts-node-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-ts-node-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 256,
+    "clones": {
+      "count": 310,
+      "uniques": 202
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-ts-node-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/protractor-typescript-ts-node-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-ts-node-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 377,
+    "clones": {
+      "count": 308,
+      "uniques": 212
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-ts-node-mocha-chai-should",
+    "full_name": "e2e-boilerplate/protractor-typescript-ts-node-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-ts-node-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 258,
+    "clones": {
+      "count": 312,
+      "uniques": 204
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-tsc-jasmine-assert",
+    "full_name": "e2e-boilerplate/protractor-typescript-tsc-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-tsc-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 413,
+    "clones": {
+      "count": 297,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-tsc-jasmine-expect",
+    "full_name": "e2e-boilerplate/protractor-typescript-tsc-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-tsc-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 419,
+    "clones": {
+      "count": 303,
+      "uniques": 199
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 2,
+        "uniques": 2
+      },
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 11,
+      "uniques": 5
+    }
+  },
+  {
+    "name": "protractor-typescript-tsc-mocha-assert",
+    "full_name": "e2e-boilerplate/protractor-typescript-tsc-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-tsc-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 280,
+    "clones": {
+      "count": 321,
+      "uniques": 213
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-tsc-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/protractor-typescript-tsc-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-tsc-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 175,
+    "clones": {
+      "count": 312,
+      "uniques": 198
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-tsc-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/protractor-typescript-tsc-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-tsc-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 347,
+    "clones": {
+      "count": 309,
+      "uniques": 199
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "protractor-typescript-tsc-mocha-chai-should",
+    "full_name": "e2e-boilerplate/protractor-typescript-tsc-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/protractor-typescript-tsc-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 176,
+    "clones": {
+      "count": 306,
+      "uniques": 203
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-cucumber-assert",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-cucumber-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-cucumber-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 504,
+    "clones": {
+      "count": 282,
+      "uniques": 198
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-cucumber-chai-assert",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-cucumber-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 343,
+    "clones": {
+      "count": 281,
+      "uniques": 186
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-cucumber-chai-expect",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 601,
+    "clones": {
+      "count": 283,
+      "uniques": 188
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-cucumber-chai-should",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-cucumber-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-cucumber-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 387,
+    "clones": {
+      "count": 281,
+      "uniques": 189
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-cucumber-expect",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-cucumber-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-cucumber-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 614,
+    "clones": {
+      "count": 292,
+      "uniques": 190
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-jasmine-assert",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 467,
+    "clones": {
+      "count": 282,
+      "uniques": 181
+    },
+    "referrers": [],
+    "views": {
+      "count": 3,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-jasmine-expect",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 478,
+    "clones": {
+      "count": 293,
+      "uniques": 191
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 12,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-jest-assert",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 983,
+    "clones": {
+      "count": 311,
+      "uniques": 194
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 4,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-jest-expect",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-jest-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 1046,
+    "clones": {
+      "count": 299,
+      "uniques": 196
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 4,
+        "uniques": 1
+      },
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 16,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-mocha-assert",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 618,
+    "clones": {
+      "count": 287,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 438,
+    "clones": {
+      "count": 288,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 327,
+    "clones": {
+      "count": 291,
+      "uniques": 186
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-commonjs-mocha-chai-should",
+    "full_name": "e2e-boilerplate/puppeteer-commonjs-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-commonjs-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 436,
+    "clones": {
+      "count": 295,
+      "uniques": 193
+    },
+    "referrers": [
+      {
+        "referrer": "medium.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 2,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "puppeteer-es-modules-babel-ava",
+    "full_name": "e2e-boilerplate/puppeteer-es-modules-babel-ava",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-es-modules-babel-ava",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 868,
+    "clones": {
+      "count": 307,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-es-modules-babel-jest-assert",
+    "full_name": "e2e-boilerplate/puppeteer-es-modules-babel-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-es-modules-babel-jest-assert",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 998,
+    "clones": {
+      "count": 313,
+      "uniques": 206
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-es-modules-babel-jest-expect",
+    "full_name": "e2e-boilerplate/puppeteer-es-modules-babel-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-es-modules-babel-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 751,
+    "clones": {
+      "count": 320,
+      "uniques": 202
+    },
+    "referrers": [],
+    "views": {
+      "count": 5,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "puppeteer-es-modules-esm-mocha-assert",
+    "full_name": "e2e-boilerplate/puppeteer-es-modules-esm-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-es-modules-esm-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 236,
+    "clones": {
+      "count": 287,
+      "uniques": 186
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-es-modules-esm-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 439,
+    "clones": {
+      "count": 295,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-es-modules-esm-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 462,
+    "clones": {
+      "count": 286,
+      "uniques": 200
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-es-modules-esm-mocha-chai-should",
+    "full_name": "e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 438,
+    "clones": {
+      "count": 289,
+      "uniques": 188
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "puppeteer-typescript-ts-jest-jest-assert",
+    "full_name": "e2e-boilerplate/puppeteer-typescript-ts-jest-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-typescript-ts-jest-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 397,
+    "clones": {
+      "count": 324,
+      "uniques": 206
+    },
+    "referrers": [],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "puppeteer-typescript-ts-jest-jest-expect",
+    "full_name": "e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-typescript-ts-jest-jest-expect",
+    "stargazers_count": 4,
+    "watchers_count": 4,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 4,
+    "size": 1188,
+    "clones": {
+      "count": 326,
+      "uniques": 206
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 3
+      }
+    ],
+    "views": {
+      "count": 11,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "puppeteer-typescript-ts-node-jasmine-assert",
+    "full_name": "e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 449,
+    "clones": {
+      "count": 294,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 3,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "puppeteer-typescript-ts-node-jasmine-expect",
+    "full_name": "e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 521,
+    "clones": {
+      "count": 290,
+      "uniques": 192
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 5,
+        "uniques": 1
+      },
+      {
+        "referrer": "github.com",
+        "count": 4,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 17,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "resources",
+    "full_name": "e2e-boilerplate/resources",
+    "url": "https://api.github.com/repos/e2e-boilerplate/resources",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 103,
+    "clones": {
+      "count": 9,
+      "uniques": 2
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "sandbox",
+    "full_name": "e2e-boilerplate/sandbox",
+    "url": "https://api.github.com/repos/e2e-boilerplate/sandbox",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "watchers": 0,
+    "size": 747,
+    "clones": {
+      "count": 300,
+      "uniques": 178
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-cucumber-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-cucumber-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-cucumber-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 468,
+    "clones": {
+      "count": 278,
+      "uniques": 182
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-cucumber-chai-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-cucumber-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-cucumber-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 287,
+    "clones": {
+      "count": 286,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-cucumber-chai-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-cucumber-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-cucumber-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 728,
+    "clones": {
+      "count": 289,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-cucumber-chai-should",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-cucumber-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-cucumber-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 287,
+    "clones": {
+      "count": 278,
+      "uniques": 185
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 4,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-jasmine-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 450,
+    "clones": {
+      "count": 291,
+      "uniques": 193
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-jasmine-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 434,
+    "clones": {
+      "count": 283,
+      "uniques": 187
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-jest-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 846,
+    "clones": {
+      "count": 299,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-jest-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 910,
+    "clones": {
+      "count": 303,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-mocha-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 539,
+    "clones": {
+      "count": 289,
+      "uniques": 193
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 401,
+    "clones": {
+      "count": 285,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 324,
+    "clones": {
+      "count": 286,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-mocha-chai-should",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 401,
+    "clones": {
+      "count": 289,
+      "uniques": 198
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-commonjs-tape",
+    "full_name": "e2e-boilerplate/selenium-webdriver-commonjs-tape",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-commonjs-tape",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 631,
+    "clones": {
+      "count": 287,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-ava",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-ava",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-ava",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 718,
+    "clones": {
+      "count": 299,
+      "uniques": 182
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-jasmine-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 857,
+    "clones": {
+      "count": 300,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-jasmine-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-jasmine-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 752,
+    "clones": {
+      "count": 305,
+      "uniques": 196
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 6,
+        "uniques": 2
+      },
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 14,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-jest-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1428,
+    "clones": {
+      "count": 316,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-jest-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "watchers": 0,
+    "size": 1413,
+    "clones": {
+      "count": 312,
+      "uniques": 203
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 2,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 412,
+    "clones": {
+      "count": 294,
+      "uniques": 187
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1154,
+    "clones": {
+      "count": 311,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-mocha-chai-should",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 486,
+    "clones": {
+      "count": 309,
+      "uniques": 203
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-babel-tape",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-babel-tape",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-babel-tape",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 989,
+    "clones": {
+      "count": 301,
+      "uniques": 193
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-cucumber-chai-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 286,
+    "clones": {
+      "count": 275,
+      "uniques": 186
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-cucumber-chai-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 620,
+    "clones": {
+      "count": 290,
+      "uniques": 188
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-cucumber-chai-should",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-cucumber-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 336,
+    "clones": {
+      "count": 285,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-esm-mocha-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 258,
+    "clones": {
+      "count": 283,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-esm-mocha-chai",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-chai",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-esm-mocha-chai",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 266,
+    "clones": {
+      "count": 289,
+      "uniques": 186
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 4,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "selenium-webdriver-es-modules-esm-tape",
+    "full_name": "e2e-boilerplate/selenium-webdriver-es-modules-esm-tape",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 675,
+    "clones": {
+      "count": 280,
+      "uniques": 178
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-typescript-ts-jest-jest-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 768,
+    "clones": {
+      "count": 335,
+      "uniques": 201
+    },
+    "referrers": [],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "selenium-webdriver-typescript-ts-jest-jest-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 803,
+    "clones": {
+      "count": 328,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 7,
+      "uniques": 3
+    }
+  },
+  {
+    "name": "selenium-webdriver-typescript-ts-node-ava",
+    "full_name": "e2e-boilerplate/selenium-webdriver-typescript-ts-node-ava",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-typescript-ts-node-ava",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 403,
+    "clones": {
+      "count": 302,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-typescript-ts-node-jasmine-assert",
+    "full_name": "e2e-boilerplate/selenium-webdriver-typescript-ts-node-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-typescript-ts-node-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 412,
+    "clones": {
+      "count": 299,
+      "uniques": 192
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "selenium-webdriver-typescript-ts-node-jasmine-expect",
+    "full_name": "e2e-boilerplate/selenium-webdriver-typescript-ts-node-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-typescript-ts-node-jasmine-expect",
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "size": 579,
+    "clones": {
+      "count": 294,
+      "uniques": 189
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 5,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "selenium-webdriver-typescript-ts-node-tape",
+    "full_name": "e2e-boilerplate/selenium-webdriver-typescript-ts-node-tape",
+    "url": "https://api.github.com/repos/e2e-boilerplate/selenium-webdriver-typescript-ts-node-tape",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 407,
+    "clones": {
+      "count": 292,
+      "uniques": 181
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "stats",
+    "full_name": "e2e-boilerplate/stats",
+    "url": "https://api.github.com/repos/e2e-boilerplate/stats",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "watchers": 0,
+    "size": 334,
+    "clones": {
+      "count": 190,
+      "uniques": 107
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 9,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 284,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "swagger",
+    "full_name": "e2e-boilerplate/swagger",
+    "url": "https://api.github.com/repos/e2e-boilerplate/swagger",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 7812,
+    "clones": {
+      "count": 17,
+      "uniques": 4
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 6,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "testcafe-commonjs",
+    "full_name": "e2e-boilerplate/testcafe-commonjs",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-commonjs",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 214,
+    "clones": {
+      "count": 292,
+      "uniques": 186
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-commonjs-assert",
+    "full_name": "e2e-boilerplate/testcafe-commonjs-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-commonjs-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 470,
+    "clones": {
+      "count": 289,
+      "uniques": 182
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-commonjs-chai-assert",
+    "full_name": "e2e-boilerplate/testcafe-commonjs-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-commonjs-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 468,
+    "clones": {
+      "count": 300,
+      "uniques": 206
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-commonjs-chai-expect",
+    "full_name": "e2e-boilerplate/testcafe-commonjs-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-commonjs-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 470,
+    "clones": {
+      "count": 295,
+      "uniques": 189
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 4,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "testcafe-commonjs-chai-should",
+    "full_name": "e2e-boilerplate/testcafe-commonjs-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-commonjs-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 467,
+    "clones": {
+      "count": 295,
+      "uniques": 189
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-es-modules",
+    "full_name": "e2e-boilerplate/testcafe-es-modules",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-es-modules",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 399,
+    "clones": {
+      "count": 293,
+      "uniques": 192
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 7,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 15,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "testcafe-es-modules-assert",
+    "full_name": "e2e-boilerplate/testcafe-es-modules-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-es-modules-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 469,
+    "clones": {
+      "count": 294,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-es-modules-chai-assert",
+    "full_name": "e2e-boilerplate/testcafe-es-modules-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-es-modules-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 470,
+    "clones": {
+      "count": 300,
+      "uniques": 193
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-es-modules-chai-expect",
+    "full_name": "e2e-boilerplate/testcafe-es-modules-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-es-modules-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 467,
+    "clones": {
+      "count": 296,
+      "uniques": 200
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-es-modules-chai-should",
+    "full_name": "e2e-boilerplate/testcafe-es-modules-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-es-modules-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 468,
+    "clones": {
+      "count": 290,
+      "uniques": 182
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-typescript",
+    "full_name": "e2e-boilerplate/testcafe-typescript",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-typescript",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 672,
+    "clones": {
+      "count": 299,
+      "uniques": 194
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 7,
+        "uniques": 1
+      },
+      {
+        "referrer": "Google",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 14,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "testcafe-typescript-assert",
+    "full_name": "e2e-boilerplate/testcafe-typescript-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-typescript-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 543,
+    "clones": {
+      "count": 311,
+      "uniques": 203
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "testcafe-typescript-chai-assert",
+    "full_name": "e2e-boilerplate/testcafe-typescript-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-typescript-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 546,
+    "clones": {
+      "count": 309,
+      "uniques": 203
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "testcafe-typescript-chai-expect",
+    "full_name": "e2e-boilerplate/testcafe-typescript-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-typescript-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 545,
+    "clones": {
+      "count": 308,
+      "uniques": 196
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 6,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 14,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "testcafe-typescript-chai-should",
+    "full_name": "e2e-boilerplate/testcafe-typescript-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/testcafe-typescript-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 542,
+    "clones": {
+      "count": 305,
+      "uniques": 193
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 5,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "utils",
+    "full_name": "e2e-boilerplate/utils",
+    "url": "https://api.github.com/repos/e2e-boilerplate/utils",
+    "stargazers_count": 5,
+    "watchers_count": 5,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 5,
+    "size": 1367,
+    "clones": {
+      "count": 297,
+      "uniques": 190
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 17,
+        "uniques": 10
+      },
+      {
+        "referrer": "lib4dev.in",
+        "count": 8,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 97,
+      "uniques": 13
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-cucumber-chai-assert",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 372,
+    "clones": {
+      "count": 283,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-cucumber-chai-expect",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 412,
+    "clones": {
+      "count": 279,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-cucumber-chai-should",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-cucumber-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 505,
+    "clones": {
+      "count": 286,
+      "uniques": 186
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-jest-assert",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 451,
+    "clones": {
+      "count": 306,
+      "uniques": 187
+    },
+    "referrers": [],
+    "views": {
+      "count": 4,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-jest-expect",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 667,
+    "clones": {
+      "count": 304,
+      "uniques": 200
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 284,
+    "clones": {
+      "count": 290,
+      "uniques": 199
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 4,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 279,
+    "clones": {
+      "count": 284,
+      "uniques": 181
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-commonjs-webdriver-manager-mocha-chai-should",
+    "full_name": "e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 478,
+    "clones": {
+      "count": 292,
+      "uniques": 189
+    },
+    "referrers": [],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "wd-es-modules-babel-jest-webdriver-manager-jest-assert",
+    "full_name": "e2e-boilerplate/wd-es-modules-babel-jest-webdriver-manager-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-es-modules-babel-jest-webdriver-manager-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1101,
+    "clones": {
+      "count": 320,
+      "uniques": 184
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-es-modules-babel-jest-webdriver-manager-jest-expect",
+    "full_name": "e2e-boilerplate/wd-es-modules-babel-jest-webdriver-manager-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-es-modules-babel-jest-webdriver-manager-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1265,
+    "clones": {
+      "count": 323,
+      "uniques": 204
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-es-modules-babel-webdriver-manager-ava",
+    "full_name": "e2e-boilerplate/wd-es-modules-babel-webdriver-manager-ava",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-es-modules-babel-webdriver-manager-ava",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1121,
+    "clones": {
+      "count": 292,
+      "uniques": 185
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-es-modules-babel-webdriver-manager-jasmine-assert",
+    "full_name": "e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 545,
+    "clones": {
+      "count": 297,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-es-modules-babel-webdriver-manager-jasmine-expect",
+    "full_name": "e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 572,
+    "clones": {
+      "count": 301,
+      "uniques": 182
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-typescript-ts-jest-webdriver-manager-jest-assert",
+    "full_name": "e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 1,
+    "forks": 0,
+    "open_issues": 1,
+    "watchers": 0,
+    "size": 548,
+    "clones": {
+      "count": 320,
+      "uniques": 203
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 3,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 5,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "wd-typescript-ts-jest-webdriver-manager-jest-expect",
+    "full_name": "e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "forks": 0,
+    "open_issues": 2,
+    "watchers": 0,
+    "size": 678,
+    "clones": {
+      "count": 323,
+      "uniques": 198
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-typescript-ts-node-webdriver-manager-ava",
+    "full_name": "e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-ava",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-ava",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 609,
+    "clones": {
+      "count": 303,
+      "uniques": 199
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 12,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "wd-typescript-ts-node-webdriver-manager-jasmine-assert",
+    "full_name": "e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 233,
+    "clones": {
+      "count": 296,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "wd-typescript-ts-node-webdriver-manager-jasmine-expect",
+    "full_name": "e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 291,
+    "clones": {
+      "count": 301,
+      "uniques": 202
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 8,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "webdriverio-commonjs-cucumber-assert",
+    "full_name": "e2e-boilerplate/webdriverio-commonjs-cucumber-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-commonjs-cucumber-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 708,
+    "clones": {
+      "count": 285,
+      "uniques": 187
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-commonjs-jasmine-assert",
+    "full_name": "e2e-boilerplate/webdriverio-commonjs-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-commonjs-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 565,
+    "clones": {
+      "count": 288,
+      "uniques": 193
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-commonjs-jasmine-expect",
+    "full_name": "e2e-boilerplate/webdriverio-commonjs-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-commonjs-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 648,
+    "clones": {
+      "count": 285,
+      "uniques": 197
+    },
+    "referrers": [],
+    "views": {
+      "count": 2,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "webdriverio-commonjs-mocha-assert",
+    "full_name": "e2e-boilerplate/webdriverio-commonjs-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-commonjs-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 816,
+    "clones": {
+      "count": 301,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-commonjs-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/webdriverio-commonjs-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-commonjs-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 799,
+    "clones": {
+      "count": 294,
+      "uniques": 184
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 2,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 9,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "webdriverio-commonjs-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 749,
+    "clones": {
+      "count": 294,
+      "uniques": 189
+    },
+    "referrers": [],
+    "views": {
+      "count": 2,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "webdriverio-commonjs-mocha-chai-should",
+    "full_name": "e2e-boilerplate/webdriverio-commonjs-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-commonjs-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 864,
+    "clones": {
+      "count": 295,
+      "uniques": 199
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-es-modules-babel-jasmine-assert",
+    "full_name": "e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-es-modules-babel-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 818,
+    "clones": {
+      "count": 305,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-es-modules-babel-jasmine-expect",
+    "full_name": "e2e-boilerplate/webdriverio-es-modules-babel-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-es-modules-babel-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1311,
+    "clones": {
+      "count": 303,
+      "uniques": 188
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-es-modules-babel-mocha-assert",
+    "full_name": "e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1477,
+    "clones": {
+      "count": 314,
+      "uniques": 193
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-es-modules-babel-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1264,
+    "clones": {
+      "count": 300,
+      "uniques": 194
+    },
+    "referrers": [],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "webdriverio-es-modules-babel-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1736,
+    "clones": {
+      "count": 314,
+      "uniques": 200
+    },
+    "referrers": [],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "webdriverio-es-modules-babel-mocha-chai-should",
+    "full_name": "e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-es-modules-babel-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 1268,
+    "clones": {
+      "count": 306,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 3,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "webdriverio-typescript-ts-node-jasmine-assert",
+    "full_name": "e2e-boilerplate/webdriverio-typescript-ts-node-jasmine-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-typescript-ts-node-jasmine-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 581,
+    "clones": {
+      "count": 296,
+      "uniques": 191
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-typescript-ts-node-jasmine-expect",
+    "full_name": "e2e-boilerplate/webdriverio-typescript-ts-node-jasmine-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-typescript-ts-node-jasmine-expect",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 489,
+    "clones": {
+      "count": 307,
+      "uniques": 199
+    },
+    "referrers": [],
+    "views": {
+      "count": 1,
+      "uniques": 1
+    }
+  },
+  {
+    "name": "webdriverio-typescript-ts-node-mocha-assert",
+    "full_name": "e2e-boilerplate/webdriverio-typescript-ts-node-mocha-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 664,
+    "clones": {
+      "count": 321,
+      "uniques": 200
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  },
+  {
+    "name": "webdriverio-typescript-ts-node-mocha-chai-assert",
+    "full_name": "e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 717,
+    "clones": {
+      "count": 322,
+      "uniques": 201
+    },
+    "referrers": [
+      {
+        "referrer": "github.com",
+        "count": 4,
+        "uniques": 2
+      }
+    ],
+    "views": {
+      "count": 15,
+      "uniques": 2
+    }
+  },
+  {
+    "name": "webdriverio-typescript-ts-node-mocha-chai-expect",
+    "full_name": "e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-expect",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-expect",
+    "stargazers_count": 2,
+    "watchers_count": 2,
+    "forks_count": 1,
+    "open_issues_count": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 2,
+    "size": 806,
+    "clones": {
+      "count": 306,
+      "uniques": 200
+    },
+    "referrers": [
+      {
+        "referrer": "Google",
+        "count": 1,
+        "uniques": 1
+      },
+      {
+        "referrer": "github.com",
+        "count": 1,
+        "uniques": 1
+      }
+    ],
+    "views": {
+      "count": 5,
+      "uniques": 4
+    }
+  },
+  {
+    "name": "webdriverio-typescript-ts-node-mocha-chai-should",
+    "full_name": "e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-should",
+    "url": "https://api.github.com/repos/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-should",
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "size": 720,
+    "clones": {
+      "count": 312,
+      "uniques": 196
+    },
+    "referrers": [],
+    "views": {
+      "count": 0,
+      "uniques": 0
+    }
+  }
+]
