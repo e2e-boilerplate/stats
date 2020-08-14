@@ -76,6 +76,13 @@ jobs:
       uses: juliangruber/sleep-action@v1
       with:
         time: 15s
+    - name: 'chart sample views and clones'
+      run: 'npm run chart:sample:views:clones'
+    - name: sleep for 15s
+      if: always()
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 15s
     - name: git set user.email
       run: git config --global user.email "xgirma@gmail.com"
     - name: git set user.name
