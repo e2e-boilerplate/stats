@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/e2e-boilerplate/stats#readme",
   "devDependencies": {
-    "eslint": "7.6.0",
+    "eslint": "7.7.0",
     "eslint-config-airbnb-base": "14.2.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-cypress": "2.11.1",
@@ -61,7 +61,7 @@
     "jsdom": "^16.4.0",
     "markdown-table": "2.0.0",
     "minimist": "1.2.5",
-    "pino": "6.5.0",
+    "pino": "6.5.1",
     "pino-pretty": "4.1.0",
     "rimraf": "3.0.2"
   }
