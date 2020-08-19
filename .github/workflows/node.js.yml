@@ -13,7 +13,8 @@ jobs:
       with:
         node-version: 12.x
     - run: npm ci
-    - run: npm run lint --if-present
+    - name: linting
+      run: npm run lint --if-present
     - name: get detailed data for all repositories
       run: 'npm run get:repos:detail'
     - name: sleep for 10s
@@ -36,7 +37,7 @@ jobs:
       run: git add --all
     - name: git commit
       run: git commit -am "update metadata"
-    - name: commit data
+    - name: git push
       run: git push
     - name: get clone stats
       run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
@@ -62,7 +63,7 @@ jobs:
       run: git add --all
     - name: git commit
       run: git commit -am "add clones, referrers and views stat"
-    - name: commit data
+    - name: git push
       run: git push
     - name: doc generate clone
       run: 'npm run doc:generate:clone'
@@ -94,5 +95,5 @@ jobs:
       run: git add --all
     - name: git commit
       run: git commit -am "update stat"
-    - name: commit data
+    - name: commit push
       run: git push
