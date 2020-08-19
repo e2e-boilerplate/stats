@@ -2,7 +2,7 @@ name: stats
 on:
   push: null
   schedule:
-    - cron: 0 0 * * *
+    - cron: 30 1 * * *
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,72 +14,80 @@ jobs:
         node-version: 12.x
     - run: npm ci
     - run: npm run lint --if-present
-    - run: 'npm run get:repos:list'
+    - name: get detailed data for all repositories
+    - run: 'npm run get:repos:detail'
     - name: sleep for 10s
-      if: always()
       uses: juliangruber/sleep-action@v1
       with:
-       time: 20s
-    - name: 'get:redacted:list'
-      run: 'npm run get:redacted:list'
+       time: 10s
+    - name: get reducted data set for each repositories
+      run: 'npm run get:redacted:data'
     - name: sleep for 15s
-      if: always()
       uses: juliangruber/sleep-action@v1
       with:
        time: 15s
-    - name: 'add clone stats'
-      run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 15s
-      if: always()
-      uses: juliangruber/sleep-action@v1
-      with:
-       time: 15s
-    - name: 'add referrers stats'
-      run: 'npm run add:referrers:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 15s
-      if: always()
-      uses: juliangruber/sleep-action@v1
-      with:
-       time: 15s
-    - name: 'add views stats'
-      run: 'npm run add:views:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 15s
-      if: always()
-      uses: juliangruber/sleep-action@v1
-      with:
-        time: 15s
-    - name: 'doc generate clone'
-      run: 'npm run doc:generate:clone'
-    - name: sleep for 15s
-      if: always()
-      uses: juliangruber/sleep-action@v1
-      with:
-        time: 15s
-    - name: 'doc generate view'
-      run: 'npm run doc:generate:view'
-    - name: sleep for 15s
-      if: always()
-      uses: juliangruber/sleep-action@v1
-      with:
-        time: 15s
-    - name: 'chart sample referrers'
-      run: 'npm run chart:sample:referrers'
-    - name: sleep for 15s
-      if: always()
-      uses: juliangruber/sleep-action@v1
-      with:
-        time: 15s
-    - name: 'chart bar referrers'
-      run: 'npm run chart:bar:referrers'
-    - name: sleep for 15s
-      if: always()
-      uses: juliangruber/sleep-action@v1
-      with:
-        time: 15s
     - name: git set user.email
       run: git config --global user.email "xgirma@gmail.com"
     - name: git set user.name
       run: git config --global user.name "Girma Nigusse"
+    - name: git status
+      run: git status
+    - name: git add
+      run: git add --all
+    - name: git commit
+      run: git commit -am "update metadata"
+    - name: commit data
+      run: git push
+    - name: get clone stats
+      run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+       time: 10s
+    - name: add referrers stats
+      run: 'npm run add:referrers:stats -- --token=${{ secrets.STAT_TOKEN }}'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+       time: 10s
+    - name: add views stats
+      run: 'npm run add:views:stats -- --token=${{ secrets.STAT_TOKEN }}'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: git status
+      run: git status
+    - name: git add
+      run: git add --all
+    - name: git commit
+      run: git commit -am "add clones, referrers and views stat"
+    - name: commit data
+      run: git push
+    - name: doc generate clone
+      run: 'npm run doc:generate:clone'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: doc generate view
+      run: 'npm run doc:generate:view'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: chart sample referrers
+      run: 'npm run chart:sample:referrers'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: chart bar referrers
+      run: 'npm run chart:bar:referrers'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
     - name: git status
       run: git status
     - name: git add

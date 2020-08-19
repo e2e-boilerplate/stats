@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint . --ext .js --fix",
-    "get:repos:list": "node -r esm src/get_repos_list.js",
-    "get:redacted:list": "node -r esm src/get_redacted_list.js",
+    "get:repos:detail": "node -r esm src/get_repos_list.js",
+    "get:redacted:data": "node -r esm src/get_redacted_list.js",
     "add:clone:stats": "node -r esm src/clone.js",
     "add:referrers:stats": "node -r esm src/referrers.js",
     "add:views:stats": "node -r esm src/views.js",
@@ -16,8 +16,7 @@
     "doc:generate:referrers": "node -r esm src/referrers_doc.js",
     "doc:generate:stargazers": "node -r esm src/stargazers_doc.js",
     "chart:sample:referrers": "node -r esm chart/referrers_sample.js",
-    "chart:bar:referrers": "node -r esm chart/referrers.js",
-    "stats": "node -r esm ."
+    "chart:bar:referrers": "node -r esm chart/referrers.js"
   },
   "repository": {
     "type": "git",
