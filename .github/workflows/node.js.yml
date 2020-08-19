@@ -23,10 +23,10 @@ jobs:
        time: 10s
     - name: get reducted data set for each repositories
       run: 'npm run get:redacted:data'
-    - name: sleep for 20s
+    - name: sleep for 10s
       uses: juliangruber/sleep-action@v1
       with:
-       time: 20s
+       time: 10s
     - name: git set user.email
       run: git config --global user.email "xgirma@gmail.com"
     - name: git set user.name
@@ -41,22 +41,22 @@ jobs:
       run: git push
     - name: get clone stats
       run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 10s
+    - name: sleep for 20s
       uses: juliangruber/sleep-action@v1
       with:
-       time: 10s
+       time: 20s
     - name: add referrers stats
       run: 'npm run add:referrers:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 10s
+    - name: sleep for 20s
       uses: juliangruber/sleep-action@v1
       with:
-       time: 10s
+       time: 20s
     - name: add views stats
       run: 'npm run add:views:stats -- --token=${{ secrets.STAT_TOKEN }}'
-    - name: sleep for 10s
+    - name: sleep for 20s
       uses: juliangruber/sleep-action@v1
       with:
-        time: 10s
+        time: 20s
     - name: git status
       run: git status
     - name: git add
@@ -67,28 +67,28 @@ jobs:
       run: git push
     - name: doc generate clone
       run: 'npm run doc:generate:clone'
-    - name: sleep for 10s
+    - name: sleep for 20s
       uses: juliangruber/sleep-action@v1
       with:
-        time: 10s
+        time: 20s
     - name: doc generate view
       run: 'npm run doc:generate:view'
     - name: sleep for 10s
       uses: juliangruber/sleep-action@v1
       with:
-        time: 10s
+        time: 20s
     - name: chart sample referrers
       run: 'npm run chart:sample:referrers'
-    - name: sleep for 10s
+    - name: sleep for 20s
       uses: juliangruber/sleep-action@v1
       with:
-        time: 10s
+        time: 20s
     - name: chart bar referrers
       run: 'npm run chart:bar:referrers'
-    - name: sleep for 10s
+    - name: sleep for 20s
       uses: juliangruber/sleep-action@v1
       with:
-        time: 10s
+        time: 20s
     - name: git status
       run: git status
     - name: git add
