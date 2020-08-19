@@ -14,9 +14,9 @@ jobs:
         node-version: 12.x
     - run: npm ci
     - name: linting
-    - run: npm run lint --if-present
+      run: npm run lint --if-present
     - name: get detailed data for all repositories
-    - run: 'npm run get:repos:detail'
+      run: 'npm run get:repos:detail'
     - name: sleep for 10s
       uses: juliangruber/sleep-action@v1
       with:
