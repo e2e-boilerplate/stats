@@ -4,7 +4,7 @@
     "value": 1
   },
   {
-    "name": "reddit.com",
+    "name": "Bing",
     "value": 1
   },
   {
@@ -12,8 +12,16 @@
     "value": 1
   },
   {
+    "name": "gist.github.com",
+    "value": 1
+  },
+  {
     "name": "yandex.ru",
     "value": 1
+  },
+  {
+    "name": "reddit.com",
+    "value": 2
   },
   {
     "name": "github.audio",
@@ -21,14 +29,14 @@
   },
   {
     "name": "medium.com",
-    "value": 16
+    "value": 11
   },
   {
     "name": "Google",
-    "value": 44
+    "value": 36
   },
   {
     "name": "github.com",
-    "value": 147
+    "value": 148
   }
 ]
