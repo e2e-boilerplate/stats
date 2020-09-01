@@ -4,6 +4,10 @@
     "value": 1
   },
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "Bing",
     "value": 1
   },
@@ -20,10 +24,6 @@
     "value": 1
   },
   {
-    "name": "reddit.com",
-    "value": 2
-  },
-  {
     "name": "github.audio",
     "value": 2
   },
@@ -33,10 +33,10 @@
   },
   {
     "name": "Google",
-    "value": 36
+    "value": 34
   },
   {
     "name": "github.com",
-    "value": 148
+    "value": 128
   }
 ]
