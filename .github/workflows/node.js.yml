@@ -2,7 +2,7 @@ name: stats
 on:
   push: null
   schedule:
-    - cron: 30 1 */3 * *
+    - cron: * 4 * * MON
 jobs:
   build:
     runs-on: ubuntu-latest
