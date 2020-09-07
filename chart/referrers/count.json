@@ -1,5 +1,9 @@
 [
   {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
     "name": "gist.github.com",
     "value": 1
   },
@@ -8,23 +12,19 @@
     "value": 2
   },
   {
-    "name": "github.audio",
-    "value": 2
-  },
-  {
     "name": "Bing",
     "value": 2
   },
   {
     "name": "medium.com",
-    "value": 18
+    "value": 12
   },
   {
     "name": "Google",
-    "value": 48
+    "value": 43
   },
   {
     "name": "github.com",
-    "value": 172
+    "value": 147
   }
 ]
