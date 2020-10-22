@@ -1,10 +1,10 @@
 [
   {
-    "name": "cn.bing.com",
+    "name": "reddit.com",
     "value": 1
   },
   {
-    "name": "lib4dev.in",
+    "name": "cn.bing.com",
     "value": 1
   },
   {
@@ -12,15 +12,19 @@
     "value": 1
   },
   {
-    "name": "Google",
-    "value": 32
+    "name": "lib4dev.in",
+    "value": 2
   },
   {
     "name": "medium.com",
-    "value": 37
+    "value": 17
+  },
+  {
+    "name": "Google",
+    "value": 34
   },
   {
     "name": "github.com",
-    "value": 93
+    "value": 84
   }
 ]
