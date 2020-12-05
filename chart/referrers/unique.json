@@ -1,15 +1,19 @@
 [
   {
-    "name": "Bing",
+    "name": "qwant.com",
     "value": 1
   },
   {
-    "name": "DuckDuckGo",
+    "name": "yandex.ru",
     "value": 1
   },
   {
     "name": "lib4dev.in",
-    "value": 3
+    "value": 2
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 2
   },
   {
     "name": "gist.github.com",
@@ -17,14 +21,14 @@
   },
   {
     "name": "medium.com",
-    "value": 35
+    "value": 38
   },
   {
     "name": "Google",
-    "value": 69
+    "value": 76
   },
   {
     "name": "github.com",
-    "value": 156
+    "value": 140
   }
 ]
