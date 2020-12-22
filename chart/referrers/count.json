@@ -1,34 +1,30 @@
 [
   {
-    "name": "markdownlivepreview.com",
-    "value": 1
-  },
-  {
     "name": "Bing",
     "value": 1
   },
   {
-    "name": "lib4dev.in",
-    "value": 2
-  },
-  {
     "name": "DuckDuckGo",
-    "value": 2
+    "value": 3
   },
   {
     "name": "gist.github.com",
     "value": 3
   },
   {
+    "name": "lib4dev.in",
+    "value": 4
+  },
+  {
     "name": "medium.com",
-    "value": 49
+    "value": 42
   },
   {
     "name": "Google",
-    "value": 92
+    "value": 88
   },
   {
     "name": "github.com",
-    "value": 215
+    "value": 170
   }
 ]
