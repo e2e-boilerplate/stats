@@ -1,6 +1,10 @@
 [
   {
-    "name": "lib4dev.in",
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
+    "name": "gist.github.com",
     "value": 1
   },
   {
@@ -8,19 +12,23 @@
     "value": 1
   },
   {
-    "name": "ecosia.org",
+    "name": "old.reddit.com",
     "value": 2
   },
   {
+    "name": "lib4dev.in",
+    "value": 4
+  },
+  {
     "name": "medium.com",
-    "value": 45
+    "value": 61
   },
   {
     "name": "Google",
-    "value": 113
+    "value": 124
   },
   {
     "name": "github.com",
-    "value": 129
+    "value": 136
   }
 ]
