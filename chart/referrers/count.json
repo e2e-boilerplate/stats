@@ -1,38 +1,30 @@
 [
   {
-    "name": "DuckDuckGo",
-    "value": 1
-  },
-  {
     "name": "ecosia.org",
     "value": 1
   },
   {
+    "name": "DuckDuckGo",
+    "value": 2
+  },
+  {
     "name": "gist.github.com",
-    "value": 1
-  },
-  {
-    "name": "yandex.ru",
-    "value": 1
-  },
-  {
-    "name": "old.reddit.com",
     "value": 2
   },
   {
     "name": "lib4dev.in",
-    "value": 4
+    "value": 3
   },
   {
     "name": "medium.com",
-    "value": 59
-  },
-  {
-    "name": "Google",
-    "value": 112
+    "value": 75
   },
   {
     "name": "github.com",
-    "value": 129
+    "value": 118
+  },
+  {
+    "name": "Google",
+    "value": 128
   }
 ]
