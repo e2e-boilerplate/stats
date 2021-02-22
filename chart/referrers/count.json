@@ -1,15 +1,19 @@
 [
   {
-    "name": "lib4dev.in",
-    "value": 1
-  },
-  {
     "name": "reddit.com",
     "value": 1
   },
   {
+    "name": "lib4dev.in",
+    "value": 2
+  },
+  {
     "name": "Bing",
-    "value": 1
+    "value": 2
+  },
+  {
+    "name": "l.facebook.com",
+    "value": 2
   },
   {
     "name": "yandex.ru",
@@ -21,18 +25,18 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 11
+    "value": 14
   },
   {
     "name": "medium.com",
-    "value": 64
-  },
-  {
-    "name": "github.com",
-    "value": 152
+    "value": 42
   },
   {
     "name": "Google",
-    "value": 162
+    "value": 144
+  },
+  {
+    "name": "github.com",
+    "value": 213
   }
 ]

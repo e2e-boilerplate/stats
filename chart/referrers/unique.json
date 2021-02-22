@@ -1,14 +1,6 @@
 [
   {
-    "name": "lib4dev.in",
-    "value": 1
-  },
-  {
     "name": "reddit.com",
-    "value": 1
-  },
-  {
-    "name": "Bing",
     "value": 1
   },
   {
@@ -16,23 +8,35 @@
     "value": 1
   },
   {
-    "name": "DuckDuckGo",
-    "value": 4
+    "name": "lib4dev.in",
+    "value": 2
+  },
+  {
+    "name": "Bing",
+    "value": 2
+  },
+  {
+    "name": "l.facebook.com",
+    "value": 2
   },
   {
     "name": "gist.github.com",
     "value": 5
   },
   {
-    "name": "medium.com",
-    "value": 51
+    "name": "DuckDuckGo",
+    "value": 6
   },
   {
-    "name": "github.com",
-    "value": 122
+    "name": "medium.com",
+    "value": 33
   },
   {
     "name": "Google",
-    "value": 129
+    "value": 110
+  },
+  {
+    "name": "github.com",
+    "value": 159
   }
 ]
