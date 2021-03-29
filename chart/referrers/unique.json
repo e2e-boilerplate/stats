@@ -1,6 +1,10 @@
 [
   {
-    "name": "DuckDuckGo",
+    "name": "Baidu",
+    "value": 1
+  },
+  {
+    "name": "yandex.ru",
     "value": 2
   },
   {
@@ -8,19 +12,19 @@
     "value": 2
   },
   {
-    "name": "gist.github.com",
+    "name": "DuckDuckGo",
     "value": 3
   },
   {
     "name": "medium.com",
-    "value": 35
-  },
-  {
-    "name": "github.com",
-    "value": 108
+    "value": 42
   },
   {
     "name": "Google",
-    "value": 109
+    "value": 114
+  },
+  {
+    "name": "github.com",
+    "value": 116
   }
 ]

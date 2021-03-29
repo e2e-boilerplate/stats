@@ -1,26 +1,30 @@
 [
   {
-    "name": "DuckDuckGo",
-    "value": 2
+    "name": "Baidu",
+    "value": 1
   },
   {
     "name": "lib4dev.in",
     "value": 2
   },
   {
-    "name": "gist.github.com",
-    "value": 4
+    "name": "yandex.ru",
+    "value": 3
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 5
   },
   {
     "name": "medium.com",
-    "value": 52
+    "value": 66
   },
   {
     "name": "Google",
-    "value": 150
+    "value": 161
   },
   {
     "name": "github.com",
-    "value": 157
+    "value": 169
   }
 ]
