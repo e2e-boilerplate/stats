@@ -32,9 +32,9 @@ jobs:
       with:
         commit_message: Auto update
     - name: sleep for 60s
-        uses: juliangruber/sleep-action@v1
-        with:
-          time: 60s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 60s
     - name: get clone stats
       run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
     - name: sleep for 10s
@@ -102,6 +102,6 @@ jobs:
       with:
         commit_message: Auto update
     - name: sleep for 60s
-        uses: juliangruber/sleep-action@v1
-        with:
-          time: 60s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 60s
