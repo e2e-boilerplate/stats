@@ -27,10 +27,14 @@ jobs:
       uses: juliangruber/sleep-action@v1
       with:
        time: 10s
-    - name: commit
+    - name: commit 1
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto update
+    - name: sleep for 10s
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 60s
     - name: get clone stats
       run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
     - name: sleep for 10s
@@ -49,10 +53,14 @@ jobs:
       uses: juliangruber/sleep-action@v1
       with:
         time: 10s
-    - name: commit
+    - name: commit 2
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto update
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 60s
     - name: doc generate clone
       run: 'npm run doc:generate:clone'
     - name: sleep for 10s
@@ -83,7 +91,11 @@ jobs:
       uses: juliangruber/sleep-action@v1
       with:
         time: 10s
-    - name: commit
+    - name: commit 3
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto update
+    - name: sleep for 10s
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 60s
