@@ -2,7 +2,7 @@ name: stats
 'on':
   push: null
   schedule:
-    - cron: 50 5 2-31/6 * *
+    - cron: 30 6 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
