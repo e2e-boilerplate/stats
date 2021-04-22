@@ -31,7 +31,7 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto update
-    - name: sleep for 10s
+    - name: sleep for 60s
         uses: juliangruber/sleep-action@v1
         with:
           time: 60s
@@ -57,7 +57,7 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto update
-    - name: sleep for 10s
+    - name: sleep for 60s
       uses: juliangruber/sleep-action@v1
       with:
         time: 60s
@@ -79,6 +79,12 @@ jobs:
       uses: juliangruber/sleep-action@v1
       with:
         time: 10s
+    - name: doc generate stargazers
+      run: 'npm run doc:generate:stargazers'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+         time: 10s
     - name: chart sample referrers
       run: 'npm run chart:sample:referrers'
     - name: sleep for 10s
@@ -95,7 +101,7 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto update
-    - name: sleep for 10s
+    - name: sleep for 60s
         uses: juliangruber/sleep-action@v1
         with:
           time: 60s
