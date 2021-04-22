@@ -4,10 +4,6 @@
     "value": 1
   },
   {
-    "name": "github.com.cnpmjs.org",
-    "value": 1
-  },
-  {
     "name": "DuckDuckGo",
     "value": 2
   },
@@ -16,15 +12,19 @@
     "value": 2
   },
   {
+    "name": "github.com.cnpmjs.org",
+    "value": 4
+  },
+  {
     "name": "medium.com",
     "value": 32
   },
   {
-    "name": "Google",
-    "value": 103
+    "name": "github.com",
+    "value": 119
   },
   {
-    "name": "github.com",
-    "value": 107
+    "name": "Google",
+    "value": 121
   }
 ]
