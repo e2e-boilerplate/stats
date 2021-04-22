@@ -1,22 +1,89 @@
 name: stats
-'on':
+on:
   push: null
   schedule:
-    - cron: 0 1 2-31/2 * *
+    - cron: 0 5 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: node
-        uses: actions/setup-node@v1
-        with:
-          node-version: 12.x
-      - name: 'npm:install'
-        run: npm install
-        env:
-          CI: true
-      - name: lint
-        run: npm run lint --if-present
-      - name: build
-        run: npm run build --if-present
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - run: npm ci
+    - name: linting
+      run: npm run lint --if-present
+    - name: get detailed data for all repositories
+      run: 'npm run get:repos:detail'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+       time: 10s
+    - name: get reducted data set for each repositories
+      run: 'npm run get:redacted:data'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+       time: 10s
+    - name: commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Auto update
+    - name: get clone stats
+      run: 'npm run add:clone:stats -- --token=${{ secrets.STAT_TOKEN }}'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+       time: 10s
+    - name: add referrers stats
+      run: 'npm run add:referrers:stats -- --token=${{ secrets.STAT_TOKEN }}'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+       time: 10s
+    - name: add views stats
+      run: 'npm run add:views:stats -- --token=${{ secrets.STAT_TOKEN }}'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Auto update
+    - name: doc generate clone
+      run: 'npm run doc:generate:clone'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: doc generate view
+      run: 'npm run doc:generate:view'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: doc generate referrers
+      run: 'npm run doc:generate:referrers'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: chart sample referrers
+      run: 'npm run chart:sample:referrers'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: chart bar referrers
+      run: 'npm run chart:bar:referrers'
+    - name: sleep for 10s
+      uses: juliangruber/sleep-action@v1
+      with:
+        time: 10s
+    - name: commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Auto update
