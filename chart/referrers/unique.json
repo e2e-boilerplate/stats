@@ -12,15 +12,15 @@
     "value": 1
   },
   {
+    "name": "medium.com",
+    "value": 2
+  },
+  {
     "name": "ecosia.org",
-    "value": 1
+    "value": 2
   },
   {
     "name": "Bing",
-    "value": 3
-  },
-  {
-    "name": "medium.com",
     "value": 3
   },
   {
@@ -28,11 +28,15 @@
     "value": 4
   },
   {
+    "name": "iframe-toloka.com",
+    "value": 5
+  },
+  {
     "name": "Google",
-    "value": 131
+    "value": 119
   },
   {
     "name": "github.com",
-    "value": 137
+    "value": 141
   }
 ]

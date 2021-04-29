@@ -8,19 +8,19 @@
     "value": 1
   },
   {
-    "name": "ecosia.org",
-    "value": 1
-  },
-  {
     "name": "gist.github.com",
     "value": 2
   },
   {
-    "name": "Bing",
-    "value": 4
+    "name": "ecosia.org",
+    "value": 2
   },
   {
     "name": "medium.com",
+    "value": 3
+  },
+  {
+    "name": "Bing",
     "value": 4
   },
   {
@@ -28,11 +28,15 @@
     "value": 5
   },
   {
+    "name": "iframe-toloka.com",
+    "value": 8
+  },
+  {
     "name": "Google",
-    "value": 178
+    "value": 161
   },
   {
     "name": "github.com",
-    "value": 234
+    "value": 240
   }
 ]
