@@ -1,9 +1,5 @@
 [
   {
-    "name": "yandex.ru",
-    "value": 1
-  },
-  {
     "name": "DuckDuckGo",
     "value": 1
   },
@@ -12,16 +8,20 @@
     "value": 2
   },
   {
+    "name": "Bing",
+    "value": 2
+  },
+  {
     "name": "ecosia.org",
     "value": 2
   },
   {
-    "name": "medium.com",
+    "name": "yandex.ru",
     "value": 3
   },
   {
-    "name": "Bing",
-    "value": 4
+    "name": "medium.com",
+    "value": 5
   },
   {
     "name": "github.com.cnpmjs.org",
@@ -29,14 +29,14 @@
   },
   {
     "name": "iframe-toloka.com",
-    "value": 8
+    "value": 17
   },
   {
     "name": "Google",
-    "value": 161
+    "value": 167
   },
   {
     "name": "github.com",
-    "value": 240
+    "value": 247
   }
 ]
