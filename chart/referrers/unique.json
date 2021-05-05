@@ -1,6 +1,14 @@
 [
   {
-    "name": "DuckDuckGo",
+    "name": "Bing",
+    "value": 1
+  },
+  {
+    "name": "yandex.ru",
+    "value": 1
+  },
+  {
+    "name": "lib4dev.in",
     "value": 1
   },
   {
@@ -8,11 +16,7 @@
     "value": 1
   },
   {
-    "name": "yandex.ru",
-    "value": 2
-  },
-  {
-    "name": "Bing",
+    "name": "medium.com",
     "value": 2
   },
   {
@@ -20,12 +24,8 @@
     "value": 2
   },
   {
-    "name": "medium.com",
-    "value": 4
-  },
-  {
-    "name": "github.com.cnpmjs.org",
-    "value": 4
+    "name": "DuckDuckGo",
+    "value": 2
   },
   {
     "name": "iframe-toloka.com",
@@ -33,10 +33,10 @@
   },
   {
     "name": "Google",
-    "value": 123
+    "value": 100
   },
   {
     "name": "github.com",
-    "value": 148
+    "value": 163
   }
 ]
