@@ -1,9 +1,5 @@
 [
   {
-    "name": "Bing",
-    "value": 1
-  },
-  {
     "name": "lib4dev.in",
     "value": 1
   },
@@ -16,27 +12,23 @@
     "value": 2
   },
   {
-    "name": "gist.github.com",
-    "value": 2
-  },
-  {
-    "name": "ecosia.org",
-    "value": 2
-  },
-  {
     "name": "DuckDuckGo",
     "value": 2
   },
   {
+    "name": "ecosia.org",
+    "value": 3
+  },
+  {
     "name": "iframe-toloka.com",
-    "value": 17
+    "value": 18
   },
   {
     "name": "Google",
-    "value": 136
+    "value": 140
   },
   {
     "name": "github.com",
-    "value": 263
+    "value": 196
   }
 ]
