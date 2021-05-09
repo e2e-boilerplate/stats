@@ -12,6 +12,10 @@
     "value": 2
   },
   {
+    "name": "Bing",
+    "value": 2
+  },
+  {
     "name": "DuckDuckGo",
     "value": 2
   },
@@ -25,10 +29,10 @@
   },
   {
     "name": "Google",
-    "value": 100
+    "value": 99
   },
   {
     "name": "github.com",
-    "value": 140
+    "value": 155
   }
 ]
