@@ -1,4 +1,4 @@
-# e2e-Boilerplate Org Stats (Past two weeks only)
+# Past two weeks stat for e2e-Boilerplate Org Stats
 
 ### Referrers count
 ![referrers count](https://github.com/e2e-boilerplate/stats/blob/master/chart/referrers/count.svg)
