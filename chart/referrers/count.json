@@ -4,6 +4,14 @@
     "value": 1
   },
   {
+    "name": "gist.github.com",
+    "value": 1
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
     "name": "medium.com",
     "value": 2
   },
@@ -12,27 +20,23 @@
     "value": 2
   },
   {
-    "name": "Bing",
-    "value": 2
-  },
-  {
-    "name": "DuckDuckGo",
-    "value": 2
-  },
-  {
     "name": "ecosia.org",
+    "value": 2
+  },
+  {
+    "name": "Bing",
     "value": 3
   },
   {
     "name": "iframe-toloka.com",
-    "value": 18
+    "value": 10
   },
   {
     "name": "Google",
-    "value": 134
+    "value": 110
   },
   {
     "name": "github.com",
-    "value": 206
+    "value": 215
   }
 ]
