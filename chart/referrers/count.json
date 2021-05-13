@@ -8,6 +8,10 @@
     "value": 1
   },
   {
+    "name": "ecosia.org",
+    "value": 1
+  },
+  {
     "name": "DuckDuckGo",
     "value": 1
   },
@@ -16,27 +20,19 @@
     "value": 2
   },
   {
-    "name": "yandex.ru",
-    "value": 2
-  },
-  {
-    "name": "ecosia.org",
-    "value": 2
+    "name": "iframe-toloka.com",
+    "value": 3
   },
   {
     "name": "Bing",
     "value": 3
   },
   {
-    "name": "iframe-toloka.com",
-    "value": 10
-  },
-  {
     "name": "Google",
-    "value": 110
+    "value": 97
   },
   {
     "name": "github.com",
-    "value": 215
+    "value": 202
   }
 ]

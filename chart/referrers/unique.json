@@ -1,14 +1,14 @@
 [
   {
-    "name": "yandex.ru",
-    "value": 1
-  },
-  {
     "name": "lib4dev.in",
     "value": 1
   },
   {
     "name": "gist.github.com",
+    "value": 1
+  },
+  {
+    "name": "ecosia.org",
     "value": 1
   },
   {
@@ -20,23 +20,19 @@
     "value": 2
   },
   {
-    "name": "ecosia.org",
-    "value": 2
+    "name": "iframe-toloka.com",
+    "value": 3
   },
   {
     "name": "Bing",
     "value": 3
   },
   {
-    "name": "iframe-toloka.com",
-    "value": 4
-  },
-  {
     "name": "Google",
-    "value": 82
+    "value": 73
   },
   {
     "name": "github.com",
-    "value": 158
+    "value": 146
   }
 ]
