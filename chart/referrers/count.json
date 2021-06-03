@@ -4,14 +4,6 @@
     "value": 1
   },
   {
-    "name": "Bing",
-    "value": 1
-  },
-  {
-    "name": "educative.io",
-    "value": 1
-  },
-  {
     "name": "github.com.cnpmjs.org",
     "value": 1
   },
@@ -20,8 +12,20 @@
     "value": 2
   },
   {
+    "name": "educative.io",
+    "value": 2
+  },
+  {
     "name": "medium.com",
     "value": 2
+  },
+  {
+    "name": "Bing",
+    "value": 3
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 3
   },
   {
     "name": "gist.github.com",
@@ -29,10 +33,10 @@
   },
   {
     "name": "Google",
-    "value": 178
+    "value": 165
   },
   {
     "name": "github.com",
-    "value": 225
+    "value": 203
   }
 ]
