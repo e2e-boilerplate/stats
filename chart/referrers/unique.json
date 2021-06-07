@@ -8,6 +8,10 @@
     "value": 1
   },
   {
+    "name": "medium.com",
+    "value": 1
+  },
+  {
     "name": "github.com.cnpmjs.org",
     "value": 1
   },
@@ -20,10 +24,6 @@
     "value": 2
   },
   {
-    "name": "medium.com",
-    "value": 2
-  },
-  {
     "name": "Bing",
     "value": 3
   },
@@ -33,10 +33,10 @@
   },
   {
     "name": "Google",
-    "value": 137
+    "value": 126
   },
   {
     "name": "github.com",
-    "value": 158
+    "value": 145
   }
 ]
