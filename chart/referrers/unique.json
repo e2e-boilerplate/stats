@@ -4,6 +4,14 @@
     "value": 1
   },
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
+    "name": "t.co",
+    "value": 1
+  },
+  {
     "name": "gist.github.com",
     "value": 1
   },
@@ -12,31 +20,23 @@
     "value": 1
   },
   {
-    "name": "github.com.cnpmjs.org",
-    "value": 1
-  },
-  {
-    "name": "t.co",
+    "name": "Bing",
     "value": 2
   },
   {
     "name": "DuckDuckGo",
-    "value": 2
-  },
-  {
-    "name": "Bing",
     "value": 3
   },
   {
     "name": "educative.io",
-    "value": 4
+    "value": 5
   },
   {
     "name": "Google",
-    "value": 126
+    "value": 131
   },
   {
     "name": "github.com",
-    "value": 145
+    "value": 164
   }
 ]
