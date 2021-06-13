@@ -12,15 +12,11 @@
     "value": 1
   },
   {
-    "name": "medium.com",
+    "name": "gist.github.com",
     "value": 1
   },
   {
     "name": "Bing",
-    "value": 2
-  },
-  {
-    "name": "DuckDuckGo",
     "value": 3
   },
   {
@@ -28,11 +24,15 @@
     "value": 5
   },
   {
+    "name": "DuckDuckGo",
+    "value": 5
+  },
+  {
     "name": "Google",
-    "value": 122
+    "value": 120
   },
   {
     "name": "github.com",
-    "value": 186
+    "value": 190
   }
 ]
