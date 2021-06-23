@@ -4,6 +4,10 @@
     "value": 1
   },
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "Yahoo",
     "value": 1
   },
@@ -12,19 +16,19 @@
     "value": 1
   },
   {
+    "name": "paper.dropbox.com",
+    "value": 1
+  },
+  {
     "name": "educative.io",
-    "value": 1
-  },
-  {
-    "name": "medium.com",
-    "value": 1
-  },
-  {
-    "name": "reddit.com",
     "value": 2
   },
   {
     "name": "gist.github.com",
+    "value": 2
+  },
+  {
+    "name": "medium.com",
     "value": 2
   },
   {
@@ -33,10 +37,10 @@
   },
   {
     "name": "Google",
-    "value": 114
+    "value": 112
   },
   {
     "name": "github.com",
-    "value": 177
+    "value": 181
   }
 ]
