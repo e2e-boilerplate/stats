@@ -8,10 +8,6 @@
     "value": 1
   },
   {
-    "name": "yandex.ru",
-    "value": 1
-  },
-  {
     "name": "reddit.com",
     "value": 2
   },
@@ -24,6 +20,10 @@
     "value": 2
   },
   {
+    "name": "yandex.ru",
+    "value": 2
+  },
+  {
     "name": "educative.io",
     "value": 3
   },
@@ -33,10 +33,10 @@
   },
   {
     "name": "Google",
-    "value": 148
+    "value": 151
   },
   {
     "name": "github.com",
-    "value": 218
+    "value": 435
   }
 ]
