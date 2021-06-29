@@ -16,6 +16,10 @@
     "value": 1
   },
   {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
     "name": "medium.com",
     "value": 2
   },
@@ -28,15 +32,11 @@
     "value": 3
   },
   {
-    "name": "DuckDuckGo",
-    "value": 5
-  },
-  {
     "name": "Google",
-    "value": 120
+    "value": 102
   },
   {
     "name": "github.com",
-    "value": 372
+    "value": 353
   }
 ]
