@@ -1,27 +1,19 @@
 [
   {
-    "name": "github.com.cnpmjs.org",
+    "name": "lib4dev.in",
     "value": 1
   },
   {
-    "name": "reddit.com",
+    "name": "medium.com",
+    "value": 1
+  },
+  {
+    "name": "Bing",
     "value": 1
   },
   {
     "name": "paper.dropbox.com",
     "value": 1
-  },
-  {
-    "name": "gist.github.com",
-    "value": 1
-  },
-  {
-    "name": "DuckDuckGo",
-    "value": 1
-  },
-  {
-    "name": "medium.com",
-    "value": 2
   },
   {
     "name": "yandex.ru",
@@ -32,11 +24,15 @@
     "value": 3
   },
   {
+    "name": "DuckDuckGo",
+    "value": 3
+  },
+  {
     "name": "Google",
-    "value": 102
+    "value": 108
   },
   {
     "name": "github.com",
-    "value": 353
+    "value": 350
   }
 ]
