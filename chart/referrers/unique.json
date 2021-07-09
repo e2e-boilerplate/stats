@@ -1,5 +1,13 @@
 [
   {
+    "name": "lib4dev.in",
+    "value": 1
+  },
+  {
+    "name": "hub.fastgit.org",
+    "value": 1
+  },
+  {
     "name": "educative.io",
     "value": 1
   },
@@ -8,19 +16,15 @@
     "value": 2
   },
   {
-    "name": "yandex.ru",
-    "value": 2
-  },
-  {
     "name": "Bing",
     "value": 3
   },
   {
     "name": "Google",
-    "value": 76
+    "value": 90
   },
   {
     "name": "github.com",
-    "value": 242
+    "value": 342
   }
 ]
