@@ -1,17 +1,5 @@
 [
   {
-    "name": "StartPage",
-    "value": 1
-  },
-  {
-    "name": "educative.io",
-    "value": 1
-  },
-  {
-    "name": "mail.google.com",
-    "value": 1
-  },
-  {
     "name": "Bing",
     "value": 2
   },
@@ -20,12 +8,16 @@
     "value": 2
   },
   {
+    "name": "educative.io",
+    "value": 2
+  },
+  {
     "name": "DuckDuckGo",
     "value": 2
   },
   {
     "name": "Google",
-    "value": 110
+    "value": 105
   },
   {
     "name": "github.com",
