@@ -1,5 +1,9 @@
 [
   {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
     "name": "Bing",
     "value": 2
   },
@@ -8,19 +12,15 @@
     "value": 2
   },
   {
-    "name": "DuckDuckGo",
+    "name": "educative.io",
     "value": 2
   },
   {
-    "name": "educative.io",
-    "value": 4
-  },
-  {
     "name": "Google",
-    "value": 131
+    "value": 120
   },
   {
     "name": "github.com",
-    "value": 153
+    "value": 143
   }
 ]
