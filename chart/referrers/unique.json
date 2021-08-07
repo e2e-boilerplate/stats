@@ -4,10 +4,6 @@
     "value": 1
   },
   {
-    "name": "educative.io",
-    "value": 1
-  },
-  {
     "name": "Bing",
     "value": 2
   },
@@ -16,11 +12,15 @@
     "value": 2
   },
   {
+    "name": "educative.io",
+    "value": 2
+  },
+  {
     "name": "Google",
-    "value": 100
+    "value": 104
   },
   {
     "name": "github.com",
-    "value": 123
+    "value": 124
   }
 ]
