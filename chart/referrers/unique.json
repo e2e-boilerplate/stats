@@ -1,22 +1,26 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "educative.io",
     "value": 2
   },
   {
     "name": "Bing",
-    "value": 4
+    "value": 3
   },
   {
     "name": "DuckDuckGo",
-    "value": 7
+    "value": 6
   },
   {
     "name": "Google",
-    "value": 95
+    "value": 88
   },
   {
     "name": "github.com",
-    "value": 120
+    "value": 115
   }
 ]
