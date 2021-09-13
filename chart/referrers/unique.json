@@ -1,7 +1,15 @@
 [
   {
+    "name": "Yahoo",
+    "value": 1
+  },
+  {
     "name": "github.dihe.moe",
     "value": 1
+  },
+  {
+    "name": "reddit.com",
+    "value": 2
   },
   {
     "name": "xgirma.medium.com",
@@ -9,7 +17,7 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 3
+    "value": 2
   },
   {
     "name": "Bing",
@@ -21,10 +29,10 @@
   },
   {
     "name": "Google",
-    "value": 82
+    "value": 81
   },
   {
     "name": "github.com",
-    "value": 93
+    "value": 103
   }
 ]
