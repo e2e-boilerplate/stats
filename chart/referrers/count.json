@@ -1,18 +1,18 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "Yahoo",
     "value": 1
   },
   {
-    "name": "reddit.com",
-    "value": 2
+    "name": "DuckDuckGo",
+    "value": 1
   },
   {
     "name": "xgirma.medium.com",
-    "value": 2
-  },
-  {
-    "name": "DuckDuckGo",
     "value": 2
   },
   {
@@ -21,18 +21,18 @@
   },
   {
     "name": "Bing",
-    "value": 4
+    "value": 3
   },
   {
     "name": "educative.io",
-    "value": 6
+    "value": 4
   },
   {
     "name": "Google",
-    "value": 98
+    "value": 93
   },
   {
     "name": "github.com",
-    "value": 145
+    "value": 119
   }
 ]
