@@ -1,6 +1,6 @@
 [
   {
-    "name": "giters.com",
+    "name": "awesomeopensource-newprod.herokuapp.com",
     "value": 1
   },
   {
@@ -16,8 +16,12 @@
     "value": 1
   },
   {
-    "name": "gist.github.com",
+    "name": "giters.com",
     "value": 2
+  },
+  {
+    "name": "gist.github.com",
+    "value": 3
   },
   {
     "name": "educative.io",
@@ -25,10 +29,10 @@
   },
   {
     "name": "Google",
-    "value": 70
+    "value": 68
   },
   {
     "name": "github.com",
-    "value": 124
+    "value": 113
   }
 ]
