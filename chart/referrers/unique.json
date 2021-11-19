@@ -8,6 +8,10 @@
     "value": 1
   },
   {
+    "name": "it.search.yahoo.com",
+    "value": 1
+  },
+  {
     "name": "trello.com",
     "value": 1
   },
@@ -20,23 +24,23 @@
     "value": 2
   },
   {
-    "name": "gist.github.com",
-    "value": 2
-  },
-  {
     "name": "DuckDuckGo",
     "value": 2
   },
   {
+    "name": "gist.github.com",
+    "value": 4
+  },
+  {
     "name": "educative.io",
-    "value": 14
+    "value": 16
   },
   {
     "name": "Google",
-    "value": 83
+    "value": 91
   },
   {
     "name": "github.com",
-    "value": 136
+    "value": 143
   }
 ]
