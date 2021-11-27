@@ -4,12 +4,12 @@
     "value": 1
   },
   {
-    "name": "yandex.ru",
+    "name": "statics.teams.cdn.office.net",
     "value": 1
   },
   {
-    "name": "statics.teams.cdn.office.net",
-    "value": 1
+    "name": "yandex.ru",
+    "value": 2
   },
   {
     "name": "Bing",
@@ -18,6 +18,10 @@
   {
     "name": "DuckDuckGo",
     "value": 2
+  },
+  {
+    "name": "gist.github.com",
+    "value": 3
   },
   {
     "name": "it.search.yahoo.com",
@@ -36,19 +40,15 @@
     "value": 6
   },
   {
-    "name": "gist.github.com",
-    "value": 7
-  },
-  {
     "name": "educative.io",
     "value": 33
   },
   {
     "name": "Google",
-    "value": 325
+    "value": 353
   },
   {
     "name": "github.com",
-    "value": 457
+    "value": 546
   }
 ]
