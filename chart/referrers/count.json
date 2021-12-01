@@ -1,6 +1,10 @@
 [
   {
-    "name": "githubmemory.com",
+    "name": "githubhelp.com",
+    "value": 1
+  },
+  {
+    "name": "gist.github.com",
     "value": 1
   },
   {
@@ -12,15 +16,11 @@
     "value": 2
   },
   {
-    "name": "gist.github.com",
-    "value": 3
-  },
-  {
     "name": "it.search.yahoo.com",
     "value": 3
   },
   {
-    "name": "awesomeopensource.com",
+    "name": "DuckDuckGo",
     "value": 4
   },
   {
@@ -28,19 +28,19 @@
     "value": 5
   },
   {
-    "name": "githubhelp.com",
-    "value": 6
+    "name": "awesomeopensource.com",
+    "value": 8
   },
   {
     "name": "educative.io",
-    "value": 26
+    "value": 19
   },
   {
     "name": "Google",
-    "value": 305
+    "value": 280
   },
   {
     "name": "github.com",
-    "value": 529
+    "value": 493
   }
 ]
