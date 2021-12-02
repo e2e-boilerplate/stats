@@ -57,7 +57,7 @@
   "dependencies": {
     "d3": "^6.0.0",
     "esm": "3.2.25",
-    "jsdom": "^16.4.0",
+    "jsdom": "^19.0.0",
     "markdown-table": "2.0.0",
     "minimist": "1.2.5",
     "pino": "6.6.0",
