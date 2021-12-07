@@ -1,5 +1,9 @@
 [
   {
+    "name": "amp.reddit.com",
+    "value": 1
+  },
+  {
     "name": "yandex.ru",
     "value": 1
   },
@@ -12,27 +16,27 @@
     "value": 2
   },
   {
-    "name": "giters.com",
-    "value": 3
+    "name": "awesomeopensource.com",
+    "value": 4
   },
   {
     "name": "DuckDuckGo",
     "value": 4
   },
   {
-    "name": "awesomeopensource.com",
-    "value": 8
+    "name": "giters.com",
+    "value": 5
   },
   {
     "name": "educative.io",
-    "value": 16
+    "value": 14
   },
   {
     "name": "Google",
-    "value": 358
+    "value": 361
   },
   {
     "name": "github.com",
-    "value": 552
+    "value": 533
   }
 ]

@@ -1,6 +1,14 @@
 [
   {
+    "name": "amp.reddit.com",
+    "value": 1
+  },
+  {
     "name": "yandex.ru",
+    "value": 1
+  },
+  {
+    "name": "awesomeopensource.com",
     "value": 1
   },
   {
@@ -20,19 +28,15 @@
     "value": 2
   },
   {
-    "name": "awesomeopensource.com",
-    "value": 2
-  },
-  {
     "name": "educative.io",
     "value": 5
   },
   {
     "name": "Google",
-    "value": 88
+    "value": 85
   },
   {
     "name": "github.com",
-    "value": 158
+    "value": 154
   }
 ]
