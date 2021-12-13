@@ -4,10 +4,6 @@
     "value": 1
   },
   {
-    "name": "githubhelp.com",
-    "value": 1
-  },
-  {
     "name": "awesomeopensource.com",
     "value": 1
   },
@@ -20,6 +16,10 @@
     "value": 1
   },
   {
+    "name": "githubhelp.com",
+    "value": 2
+  },
+  {
     "name": "giters.com",
     "value": 2
   },
@@ -29,14 +29,14 @@
   },
   {
     "name": "educative.io",
-    "value": 7
+    "value": 8
   },
   {
     "name": "Google",
-    "value": 103
+    "value": 96
   },
   {
     "name": "github.com",
-    "value": 166
+    "value": 146
   }
 ]
