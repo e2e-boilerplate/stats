@@ -4,12 +4,12 @@
     "value": 1
   },
   {
-    "name": "teams.microsoft.com",
+    "name": "fuscin.com",
     "value": 1
   },
   {
-    "name": "githubhelp.com",
-    "value": 2
+    "name": "teams.microsoft.com",
+    "value": 1
   },
   {
     "name": "statics.teams.cdn.office.net",
@@ -28,15 +28,19 @@
     "value": 3
   },
   {
+    "name": "githubhelp.com",
+    "value": 3
+  },
+  {
     "name": "educative.io",
-    "value": 9
+    "value": 13
   },
   {
     "name": "Google",
-    "value": 83
+    "value": 77
   },
   {
     "name": "github.com",
-    "value": 134
+    "value": 132
   }
 ]
