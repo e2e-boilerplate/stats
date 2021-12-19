@@ -1,9 +1,5 @@
 [
   {
-    "name": "amp.reddit.com",
-    "value": 1
-  },
-  {
     "name": "fuscin.com",
     "value": 1
   },
@@ -20,6 +16,10 @@
     "value": 2
   },
   {
+    "name": "hub.fastgit.org",
+    "value": 5
+  },
+  {
     "name": "giters.com",
     "value": 6
   },
@@ -33,14 +33,14 @@
   },
   {
     "name": "educative.io",
-    "value": 38
+    "value": 43
   },
   {
     "name": "Google",
-    "value": 368
+    "value": 411
   },
   {
     "name": "github.com",
-    "value": 542
+    "value": 593
   }
 ]
