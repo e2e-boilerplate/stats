@@ -1,6 +1,18 @@
 [
   {
+    "name": "awesomeopensource.com",
+    "value": 1
+  },
+  {
+    "name": "giters.com",
+    "value": 1
+  },
+  {
     "name": "hub.fastgit.org",
+    "value": 1
+  },
+  {
+    "name": "gist.github.com",
     "value": 1
   },
   {
@@ -12,15 +24,11 @@
     "value": 1
   },
   {
-    "name": "statics.teams.cdn.office.net",
-    "value": 2
-  },
-  {
-    "name": "giters.com",
-    "value": 2
-  },
-  {
     "name": "zspapapa.com",
+    "value": 1
+  },
+  {
+    "name": "statics.teams.cdn.office.net",
     "value": 2
   },
   {
@@ -33,14 +41,14 @@
   },
   {
     "name": "educative.io",
-    "value": 14
+    "value": 13
   },
   {
     "name": "Google",
-    "value": 86
+    "value": 79
   },
   {
     "name": "github.com",
-    "value": 144
+    "value": 143
   }
 ]
