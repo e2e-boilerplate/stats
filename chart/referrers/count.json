@@ -12,10 +12,6 @@
     "value": 1
   },
   {
-    "name": "zspapapa.com",
-    "value": 1
-  },
-  {
     "name": "gist.github.com",
     "value": 2
   },
@@ -28,6 +24,10 @@
     "value": 3
   },
   {
+    "name": "zspapapa.com",
+    "value": 3
+  },
+  {
     "name": "hub.fastgit.org",
     "value": 5
   },
@@ -37,7 +37,7 @@
   },
   {
     "name": "githubhelp.com",
-    "value": 22
+    "value": 28
   },
   {
     "name": "educative.io",
@@ -45,10 +45,10 @@
   },
   {
     "name": "Google",
-    "value": 350
+    "value": 325
   },
   {
     "name": "github.com",
-    "value": 625
+    "value": 645
   }
 ]
