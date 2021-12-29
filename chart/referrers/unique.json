@@ -1,13 +1,5 @@
 [
   {
-    "name": "awesomeopensource.com",
-    "value": 1
-  },
-  {
-    "name": "giters.com",
-    "value": 1
-  },
-  {
     "name": "hub.fastgit.org",
     "value": 1
   },
@@ -20,23 +12,11 @@
     "value": 1
   },
   {
-    "name": "teams.microsoft.com",
-    "value": 1
+    "name": "awesomeopensource.com",
+    "value": 2
   },
   {
     "name": "gist.github.com",
-    "value": 2
-  },
-  {
-    "name": "statics.teams.cdn.office.net",
-    "value": 2
-  },
-  {
-    "name": "zspapapa.com",
-    "value": 2
-  },
-  {
-    "name": "github.innominds.com",
     "value": 3
   },
   {
@@ -44,15 +24,23 @@
     "value": 3
   },
   {
+    "name": "zspapapa.com",
+    "value": 3
+  },
+  {
+    "name": "xgirma.medium.com",
+    "value": 3
+  },
+  {
     "name": "educative.io",
-    "value": 10
+    "value": 7
   },
   {
     "name": "Google",
-    "value": 90
+    "value": 91
   },
   {
     "name": "github.com",
-    "value": 146
+    "value": 132
   }
 ]
