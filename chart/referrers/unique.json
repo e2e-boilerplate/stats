@@ -1,10 +1,10 @@
 [
   {
-    "name": "giters.com",
+    "name": "mail.google.com",
     "value": 1
   },
   {
-    "name": "mail.google.com",
+    "name": "awesomeopensource.com",
     "value": 1
   },
   {
@@ -16,20 +16,24 @@
     "value": 1
   },
   {
-    "name": "awesomeopensource.com",
+    "name": "web.skype.com",
+    "value": 1
+  },
+  {
+    "name": "educative.io",
     "value": 2
   },
   {
     "name": "gist.github.com",
+    "value": 2
+  },
+  {
+    "name": "giters.com",
     "value": 3
   },
   {
     "name": "zspapapa.com",
     "value": 3
-  },
-  {
-    "name": "educative.io",
-    "value": 4
   },
   {
     "name": "githubhelp.com",
@@ -41,10 +45,10 @@
   },
   {
     "name": "Google",
-    "value": 85
+    "value": 77
   },
   {
     "name": "github.com",
-    "value": 110
+    "value": 103
   }
 ]

@@ -1,9 +1,5 @@
 [
   {
-    "name": "giters.com",
-    "value": 1
-  },
-  {
     "name": "yandex.com",
     "value": 1
   },
@@ -12,12 +8,24 @@
     "value": 1
   },
   {
+    "name": "web.skype.com",
+    "value": 1
+  },
+  {
     "name": "mail.google.com",
     "value": 2
   },
   {
+    "name": "educative.io",
+    "value": 2
+  },
+  {
+    "name": "giters.com",
+    "value": 3
+  },
+  {
     "name": "awesomeopensource.com",
-    "value": 4
+    "value": 3
   },
   {
     "name": "zspapapa.com",
@@ -28,12 +36,8 @@
     "value": 8
   },
   {
-    "name": "educative.io",
-    "value": 9
-  },
-  {
     "name": "gist.github.com",
-    "value": 12
+    "value": 10
   },
   {
     "name": "githubhelp.com",
@@ -41,10 +45,10 @@
   },
   {
     "name": "Google",
-    "value": 387
+    "value": 350
   },
   {
     "name": "github.com",
-    "value": 422
+    "value": 383
   }
 ]
