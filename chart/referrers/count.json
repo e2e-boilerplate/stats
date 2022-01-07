@@ -1,14 +1,10 @@
 [
   {
-    "name": "educative.io",
-    "value": 1
-  },
-  {
     "name": "yandex.com",
     "value": 1
   },
   {
-    "name": "confluence.webapp.sdst.sbaintern.de",
+    "name": "zspapapa.com",
     "value": 1
   },
   {
@@ -16,39 +12,43 @@
     "value": 2
   },
   {
-    "name": "zspapapa.com",
-    "value": 2
+    "name": "gist.github.com",
+    "value": 4
   },
   {
-    "name": "awesomeopensource.com",
-    "value": 3
+    "name": "Bing",
+    "value": 4
   },
   {
     "name": "web.skype.com",
-    "value": 4
+    "value": 5
+  },
+  {
+    "name": "educative.io",
+    "value": 6
+  },
+  {
+    "name": "awesomeopensource.com",
+    "value": 7
+  },
+  {
+    "name": "githubhelp.com",
+    "value": 7
   },
   {
     "name": "xgirma.medium.com",
     "value": 8
   },
   {
-    "name": "githubhelp.com",
-    "value": 9
-  },
-  {
-    "name": "gist.github.com",
-    "value": 10
-  },
-  {
     "name": "giters.com",
     "value": 14
   },
   {
-    "name": "github.com",
-    "value": 337
+    "name": "Google",
+    "value": 320
   },
   {
-    "name": "Google",
-    "value": 339
+    "name": "github.com",
+    "value": 475
   }
 ]
