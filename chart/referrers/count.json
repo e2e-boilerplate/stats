@@ -1,10 +1,10 @@
 [
   {
-    "name": "yandex.com",
+    "name": "github.innominds.com",
     "value": 1
   },
   {
-    "name": "zspapapa.com",
+    "name": "yandex.com",
     "value": 1
   },
   {
@@ -16,7 +16,19 @@
     "value": 3
   },
   {
+    "name": "gist.github.com",
+    "value": 3
+  },
+  {
+    "name": "githubhelp.com",
+    "value": 4
+  },
+  {
     "name": "Bing",
+    "value": 4
+  },
+  {
+    "name": "awesomeopensource.com",
     "value": 4
   },
   {
@@ -28,16 +40,8 @@
     "value": 6
   },
   {
-    "name": "awesomeopensource.com",
-    "value": 7
-  },
-  {
-    "name": "githubhelp.com",
-    "value": 7
-  },
-  {
     "name": "xgirma.medium.com",
-    "value": 13
+    "value": 10
   },
   {
     "name": "giters.com",
@@ -45,10 +49,10 @@
   },
   {
     "name": "Google",
-    "value": 331
+    "value": 287
   },
   {
     "name": "github.com",
-    "value": 486
+    "value": 467
   }
 ]
