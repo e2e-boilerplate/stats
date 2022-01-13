@@ -1,17 +1,5 @@
 [
   {
-    "name": "mail.google.com",
-    "value": 1
-  },
-  {
-    "name": "githubhelp.com",
-    "value": 1
-  },
-  {
-    "name": "github.innominds.com",
-    "value": 1
-  },
-  {
     "name": "kandi.openweaver.com",
     "value": 1
   },
@@ -24,7 +12,7 @@
     "value": 1
   },
   {
-    "name": "yandex.com",
+    "name": "away.vk.com",
     "value": 1
   },
   {
@@ -32,15 +20,19 @@
     "value": 1
   },
   {
+    "name": "github.innominds.com",
+    "value": 2
+  },
+  {
     "name": "awesomeopensource.com",
     "value": 2
   },
   {
-    "name": "educative.io",
-    "value": 3
+    "name": "xgirma.medium.com",
+    "value": 2
   },
   {
-    "name": "xgirma.medium.com",
+    "name": "DuckDuckGo",
     "value": 3
   },
   {
@@ -48,11 +40,15 @@
     "value": 4
   },
   {
+    "name": "educative.io",
+    "value": 5
+  },
+  {
     "name": "Google",
-    "value": 72
+    "value": 74
   },
   {
     "name": "github.com",
-    "value": 116
+    "value": 134
   }
 ]

@@ -1,14 +1,10 @@
 [
   {
     "name": "github.innominds.com",
-    "value": 1
+    "value": 2
   },
   {
-    "name": "yandex.com",
-    "value": 1
-  },
-  {
-    "name": "mail.google.com",
+    "name": "away.vk.com",
     "value": 2
   },
   {
@@ -20,10 +16,6 @@
     "value": 3
   },
   {
-    "name": "githubhelp.com",
-    "value": 4
-  },
-  {
     "name": "Bing",
     "value": 4
   },
@@ -32,16 +24,20 @@
     "value": 4
   },
   {
-    "name": "educative.io",
-    "value": 6
+    "name": "xgirma.medium.com",
+    "value": 5
   },
   {
     "name": "web.skype.com",
     "value": 6
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 10
+    "name": "DuckDuckGo",
+    "value": 8
+  },
+  {
+    "name": "educative.io",
+    "value": 11
   },
   {
     "name": "giters.com",
@@ -49,10 +45,10 @@
   },
   {
     "name": "Google",
-    "value": 287
+    "value": 281
   },
   {
     "name": "github.com",
-    "value": 467
+    "value": 555
   }
 ]
