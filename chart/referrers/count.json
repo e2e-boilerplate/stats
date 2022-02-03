@@ -1,17 +1,5 @@
 [
   {
-    "name": "github.innominds.com",
-    "value": 1
-  },
-  {
-    "name": "awesomeopensource.com",
-    "value": 1
-  },
-  {
-    "name": "Bing",
-    "value": 1
-  },
-  {
     "name": "DuckDuckGo",
     "value": 1
   },
@@ -24,8 +12,12 @@
     "value": 3
   },
   {
-    "name": "githubhelp.com",
+    "name": "github.innominds.com",
     "value": 3
+  },
+  {
+    "name": "Bing",
+    "value": 4
   },
   {
     "name": "giters.com",
@@ -36,19 +28,23 @@
     "value": 14
   },
   {
+    "name": "githubhelp.com",
+    "value": 20
+  },
+  {
     "name": "educative.io",
-    "value": 15
+    "value": 29
   },
   {
     "name": "xgirma.medium.com",
-    "value": 69
+    "value": 60
   },
   {
     "name": "Google",
-    "value": 366
+    "value": 337
   },
   {
     "name": "github.com",
-    "value": 626
+    "value": 687
   }
 ]
