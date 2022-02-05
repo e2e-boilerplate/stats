@@ -1,5 +1,13 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
+    "name": "kandi.openweaver.com",
+    "value": 1
+  },
+  {
     "name": "DuckDuckGo",
     "value": 1
   },
@@ -8,12 +16,8 @@
     "value": 2
   },
   {
-    "name": "gist.github.com",
-    "value": 3
-  },
-  {
-    "name": "github.innominds.com",
-    "value": 3
+    "name": "softwaretestingweekly.com",
+    "value": 4
   },
   {
     "name": "Bing",
@@ -24,27 +28,35 @@
     "value": 5
   },
   {
+    "name": "github.innominds.com",
+    "value": 5
+  },
+  {
+    "name": "gist.github.com",
+    "value": 12
+  },
+  {
     "name": "520liyan.xyz",
     "value": 14
   },
   {
     "name": "githubhelp.com",
-    "value": 20
+    "value": 19
   },
   {
     "name": "educative.io",
-    "value": 29
+    "value": 31
   },
   {
     "name": "xgirma.medium.com",
-    "value": 60
+    "value": 55
   },
   {
     "name": "Google",
-    "value": 337
+    "value": 354
   },
   {
     "name": "github.com",
-    "value": 687
+    "value": 804
   }
 ]
