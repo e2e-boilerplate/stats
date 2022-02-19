@@ -1,9 +1,5 @@
 [
   {
-    "name": "softwaretestingweekly.com",
-    "value": 1
-  },
-  {
     "name": "awesomeopensource.com",
     "value": 1
   },
@@ -20,16 +16,16 @@
     "value": 3
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 6
-  },
-  {
     "name": "gist.github.com",
-    "value": 8
+    "value": 6
   },
   {
     "name": "githubhelp.com",
     "value": 9
+  },
+  {
+    "name": "xgirma.medium.com",
+    "value": 11
   },
   {
     "name": "educative.io",
@@ -37,10 +33,10 @@
   },
   {
     "name": "Google",
-    "value": 100
+    "value": 116
   },
   {
     "name": "github.com",
-    "value": 236
+    "value": 258
   }
 ]
