@@ -13,7 +13,7 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 3
+    "value": 4
   },
   {
     "name": "gist.github.com",
@@ -21,6 +21,10 @@
   },
   {
     "name": "githubhelp.com",
+    "value": 7
+  },
+  {
+    "name": "educative.io",
     "value": 9
   },
   {
@@ -28,15 +32,11 @@
     "value": 11
   },
   {
-    "name": "educative.io",
-    "value": 12
-  },
-  {
     "name": "Google",
-    "value": 116
+    "value": 113
   },
   {
     "name": "github.com",
-    "value": 258
+    "value": 227
   }
 ]
