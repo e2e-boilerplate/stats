@@ -1,5 +1,9 @@
 [
   {
+    "name": "reddit.com",
+    "value": 2
+  },
+  {
     "name": "awesomeopensource.com",
     "value": 3
   },
@@ -8,39 +12,31 @@
     "value": 5
   },
   {
-    "name": "Bing",
-    "value": 6
-  },
-  {
-    "name": "StartPage",
-    "value": 15
-  },
-  {
     "name": "gist.github.com",
-    "value": 19
+    "value": 12
   },
   {
     "name": "githubhelp.com",
     "value": 21
   },
   {
-    "name": "educative.io",
-    "value": 25
-  },
-  {
     "name": "DuckDuckGo",
     "value": 25
   },
   {
+    "name": "educative.io",
+    "value": 26
+  },
+  {
     "name": "xgirma.medium.com",
-    "value": 53
+    "value": 66
   },
   {
     "name": "Google",
-    "value": 388
+    "value": 434
   },
   {
     "name": "github.com",
-    "value": 825
+    "value": 838
   }
 ]
