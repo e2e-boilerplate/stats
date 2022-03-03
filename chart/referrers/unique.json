@@ -1,18 +1,10 @@
 [
   {
-    "name": "reddit.com",
-    "value": 1
-  },
-  {
-    "name": "awesomeopensource.com",
-    "value": 1
-  },
-  {
     "name": "qwant.com",
     "value": 1
   },
   {
-    "name": "gist.github.com",
+    "name": "reddit.com",
     "value": 2
   },
   {
@@ -21,11 +13,11 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 4
+    "value": 6
   },
   {
     "name": "educative.io",
-    "value": 6
+    "value": 7
   },
   {
     "name": "xgirma.medium.com",
@@ -33,10 +25,10 @@
   },
   {
     "name": "Google",
-    "value": 137
+    "value": 130
   },
   {
     "name": "github.com",
-    "value": 200
+    "value": 213
   }
 ]
