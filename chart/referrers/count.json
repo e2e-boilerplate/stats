@@ -8,6 +8,10 @@
     "value": 2
   },
   {
+    "name": "st1.zoom.us",
+    "value": 3
+  },
+  {
     "name": "statics.teams.cdn.office.net",
     "value": 3
   },
@@ -20,12 +24,12 @@
     "value": 10
   },
   {
-    "name": "Bing",
-    "value": 13
-  },
-  {
     "name": "1abc.net",
     "value": 17
+  },
+  {
+    "name": "Bing",
+    "value": 21
   },
   {
     "name": "xgirma.medium.com",
@@ -41,10 +45,10 @@
   },
   {
     "name": "Google",
-    "value": 586
+    "value": 587
   },
   {
     "name": "github.com",
-    "value": 875
+    "value": 851
   }
 ]

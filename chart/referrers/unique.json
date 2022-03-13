@@ -12,7 +12,7 @@
     "value": 1
   },
   {
-    "name": "Bing",
+    "name": "st1.zoom.us",
     "value": 1
   },
   {
@@ -25,6 +25,10 @@
   },
   {
     "name": "statics.teams.cdn.office.net",
+    "value": 2
+  },
+  {
+    "name": "Bing",
     "value": 2
   },
   {
@@ -41,10 +45,10 @@
   },
   {
     "name": "Google",
-    "value": 135
+    "value": 136
   },
   {
     "name": "github.com",
-    "value": 244
+    "value": 243
   }
 ]
