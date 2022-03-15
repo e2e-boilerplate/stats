@@ -1,27 +1,31 @@
 [
   {
     "name": "reddit.com",
-    "value": 2
+    "value": 1
   },
   {
     "name": "qwant.com",
     "value": 2
   },
   {
-    "name": "st1.zoom.us",
-    "value": 3
-  },
-  {
     "name": "statics.teams.cdn.office.net",
     "value": 3
   },
   {
-    "name": "yandex.ru",
+    "name": "st1.zoom.us",
     "value": 5
   },
   {
     "name": "gist.github.com",
-    "value": 10
+    "value": 14
+  },
+  {
+    "name": "yandex.ru",
+    "value": 15
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 15
   },
   {
     "name": "1abc.net",
@@ -36,19 +40,15 @@
     "value": 21
   },
   {
-    "name": "DuckDuckGo",
-    "value": 25
-  },
-  {
     "name": "educative.io",
-    "value": 48
+    "value": 47
   },
   {
     "name": "Google",
-    "value": 587
+    "value": 536
   },
   {
     "name": "github.com",
-    "value": 851
+    "value": 777
   }
 ]

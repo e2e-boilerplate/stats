@@ -1,10 +1,10 @@
 [
   {
-    "name": "1abc.net",
+    "name": "reddit.com",
     "value": 1
   },
   {
-    "name": "yandex.ru",
+    "name": "1abc.net",
     "value": 1
   },
   {
@@ -16,11 +16,7 @@
     "value": 1
   },
   {
-    "name": "reddit.com",
-    "value": 2
-  },
-  {
-    "name": "gist.github.com",
+    "name": "yandex.ru",
     "value": 2
   },
   {
@@ -32,8 +28,12 @@
     "value": 2
   },
   {
+    "name": "gist.github.com",
+    "value": 3
+  },
+  {
     "name": "DuckDuckGo",
-    "value": 6
+    "value": 3
   },
   {
     "name": "xgirma.medium.com",
@@ -41,14 +41,14 @@
   },
   {
     "name": "educative.io",
-    "value": 13
+    "value": 12
   },
   {
     "name": "Google",
-    "value": 136
+    "value": 122
   },
   {
     "name": "github.com",
-    "value": 243
+    "value": 227
   }
 ]
