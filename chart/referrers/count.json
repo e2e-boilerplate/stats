@@ -1,5 +1,9 @@
 [
   {
+    "name": "iboxshare.com",
+    "value": 1
+  },
+  {
     "name": "keep.google.com",
     "value": 1
   },
@@ -20,39 +24,35 @@
     "value": 5
   },
   {
-    "name": "DuckDuckGo",
-    "value": 9
+    "name": "gist.github.com",
+    "value": 7
   },
   {
-    "name": "gist.github.com",
-    "value": 14
+    "name": "DuckDuckGo",
+    "value": 8
   },
   {
     "name": "yandex.ru",
-    "value": 15
-  },
-  {
-    "name": "1abc.net",
-    "value": 17
+    "value": 10
   },
   {
     "name": "xgirma.medium.com",
-    "value": 18
-  },
-  {
-    "name": "Bing",
-    "value": 26
+    "value": 24
   },
   {
     "name": "educative.io",
-    "value": 30
+    "value": 28
+  },
+  {
+    "name": "Bing",
+    "value": 37
   },
   {
     "name": "Google",
-    "value": 529
+    "value": 549
   },
   {
     "name": "github.com",
-    "value": 782
+    "value": 884
   }
 ]
