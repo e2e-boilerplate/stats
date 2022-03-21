@@ -1,11 +1,11 @@
 [
   {
-    "name": "iboxshare.com",
+    "name": "keep.google.com",
     "value": 1
   },
   {
-    "name": "keep.google.com",
-    "value": 1
+    "name": "iboxshare.com",
+    "value": 2
   },
   {
     "name": "reddit.com",
@@ -16,8 +16,8 @@
     "value": 2
   },
   {
-    "name": "statics.teams.cdn.office.net",
-    "value": 3
+    "name": "DuckDuckGo",
+    "value": 5
   },
   {
     "name": "st1.zoom.us",
@@ -28,31 +28,27 @@
     "value": 7
   },
   {
-    "name": "DuckDuckGo",
-    "value": 8
-  },
-  {
     "name": "yandex.ru",
     "value": 10
+  },
+  {
+    "name": "educative.io",
+    "value": 19
+  },
+  {
+    "name": "Bing",
+    "value": 24
   },
   {
     "name": "xgirma.medium.com",
     "value": 24
   },
   {
-    "name": "educative.io",
-    "value": 28
-  },
-  {
-    "name": "Bing",
-    "value": 37
-  },
-  {
     "name": "Google",
-    "value": 549
+    "value": 491
   },
   {
     "name": "github.com",
-    "value": 884
+    "value": 873
   }
 ]
