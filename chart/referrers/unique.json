@@ -1,14 +1,18 @@
 [
   {
+    "name": "wenyanet.com",
+    "value": 1
+  },
+  {
     "name": "iboxshare.com",
     "value": 1
   },
   {
-    "name": "yandex.ru",
+    "name": "qwant.com",
     "value": 1
   },
   {
-    "name": "qwant.com",
+    "name": "yandex.ru",
     "value": 1
   },
   {
@@ -25,11 +29,11 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 2
+    "value": 3
   },
   {
     "name": "gist.github.com",
-    "value": 2
+    "value": 3
   },
   {
     "name": "Bing",
@@ -45,10 +49,10 @@
   },
   {
     "name": "Google",
-    "value": 109
+    "value": 89
   },
   {
     "name": "github.com",
-    "value": 260
+    "value": 251
   }
 ]
