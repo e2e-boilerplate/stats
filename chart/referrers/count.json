@@ -17,7 +17,7 @@
   },
   {
     "name": "st1.zoom.us",
-    "value": 5
+    "value": 2
   },
   {
     "name": "qwant.com",
@@ -28,31 +28,35 @@
     "value": 8
   },
   {
+    "name": "gist.github.com",
+    "value": 8
+  },
+  {
     "name": "yandex.ru",
     "value": 10
   },
   {
-    "name": "gist.github.com",
+    "name": "githublab.com",
     "value": 11
   },
   {
     "name": "Bing",
-    "value": 24
+    "value": 16
   },
   {
     "name": "xgirma.medium.com",
-    "value": 24
+    "value": 17
   },
   {
     "name": "educative.io",
-    "value": 38
+    "value": 40
   },
   {
     "name": "Google",
-    "value": 366
+    "value": 405
   },
   {
     "name": "github.com",
-    "value": 860
+    "value": 1031
   }
 ]
