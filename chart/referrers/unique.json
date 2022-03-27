@@ -16,7 +16,7 @@
     "value": 1
   },
   {
-    "name": "yandex.ru",
+    "name": "gist.github.com",
     "value": 1
   },
   {
@@ -32,31 +32,27 @@
     "value": 2
   },
   {
-    "name": "gist.github.com",
-    "value": 2
-  },
-  {
-    "name": "DuckDuckGo",
-    "value": 3
-  },
-  {
     "name": "Bing",
     "value": 4
   },
   {
-    "name": "xgirma.medium.com",
+    "name": "DuckDuckGo",
     "value": 5
   },
   {
     "name": "educative.io",
-    "value": 9
+    "value": 11
+  },
+  {
+    "name": "xgirma.medium.com",
+    "value": 16
   },
   {
     "name": "Google",
-    "value": 105
+    "value": 123
   },
   {
     "name": "github.com",
-    "value": 284
+    "value": 315
   }
 ]
