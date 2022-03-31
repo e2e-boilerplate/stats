@@ -12,20 +12,12 @@
     "value": 3
   },
   {
-    "name": "DuckDuckGo",
-    "value": 6
-  },
-  {
     "name": "qwant.com",
     "value": 7
   },
   {
     "name": "gist.github.com",
     "value": 7
-  },
-  {
-    "name": "1abc.net",
-    "value": 9
   },
   {
     "name": "keep.google.com",
@@ -36,12 +28,16 @@
     "value": 11
   },
   {
-    "name": "Bing",
+    "name": "1abc.net",
     "value": 11
   },
   {
+    "name": "DuckDuckGo",
+    "value": 13
+  },
+  {
     "name": "educative.io",
-    "value": 40
+    "value": 45
   },
   {
     "name": "xgirma.medium.com",
@@ -49,10 +45,10 @@
   },
   {
     "name": "Google",
-    "value": 491
+    "value": 510
   },
   {
     "name": "github.com",
-    "value": 1069
+    "value": 1081
   }
 ]
