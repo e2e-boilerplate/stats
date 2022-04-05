@@ -1,19 +1,11 @@
 [
   {
-    "name": "wenyanet.com",
-    "value": 1
-  },
-  {
     "name": "reddit.com",
     "value": 2
   },
   {
-    "name": "qwant.com",
-    "value": 7
-  },
-  {
     "name": "gist.github.com",
-    "value": 9
+    "value": 5
   },
   {
     "name": "keep.google.com",
@@ -29,22 +21,22 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 30
-  },
-  {
-    "name": "xgirma.medium.com",
-    "value": 35
+    "value": 27
   },
   {
     "name": "educative.io",
-    "value": 50
+    "value": 28
+  },
+  {
+    "name": "xgirma.medium.com",
+    "value": 39
   },
   {
     "name": "Google",
-    "value": 560
+    "value": 557
   },
   {
     "name": "github.com",
-    "value": 1167
+    "value": 1132
   }
 ]
