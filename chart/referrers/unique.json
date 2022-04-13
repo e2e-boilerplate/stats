@@ -1,10 +1,14 @@
 [
   {
-    "name": "1abc.net",
+    "name": "Bing",
     "value": 1
   },
   {
     "name": "confluence.webapp.sdst.sbaintern.de",
+    "value": 1
+  },
+  {
+    "name": "keep.google.com",
     "value": 1
   },
   {
@@ -17,18 +21,18 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 10
+    "value": 8
   },
   {
     "name": "educative.io",
-    "value": 11
+    "value": 9
   },
   {
     "name": "Google",
-    "value": 109
+    "value": 99
   },
   {
     "name": "github.com",
-    "value": 281
+    "value": 258
   }
 ]

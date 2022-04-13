@@ -1,6 +1,10 @@
 [
   {
-    "name": "1abc.net",
+    "name": "Bing",
+    "value": 1
+  },
+  {
+    "name": "keep.google.com",
     "value": 2
   },
   {
@@ -17,18 +21,18 @@
   },
   {
     "name": "educative.io",
-    "value": 34
+    "value": 29
   },
   {
     "name": "DuckDuckGo",
-    "value": 38
+    "value": 31
   },
   {
     "name": "Google",
-    "value": 359
+    "value": 330
   },
   {
     "name": "github.com",
-    "value": 1056
+    "value": 945
   }
 ]
