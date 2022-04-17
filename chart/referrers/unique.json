@@ -1,6 +1,6 @@
 [
   {
-    "name": "Bing",
+    "name": "reddit.com",
     "value": 1
   },
   {
@@ -12,27 +12,31 @@
     "value": 1
   },
   {
+    "name": "Bing",
+    "value": 2
+  },
+  {
     "name": "gist.github.com",
     "value": 3
   },
   {
     "name": "xgirma.medium.com",
-    "value": 7
-  },
-  {
-    "name": "educative.io",
-    "value": 9
+    "value": 5
   },
   {
     "name": "DuckDuckGo",
     "value": 9
   },
   {
+    "name": "educative.io",
+    "value": 10
+  },
+  {
     "name": "Google",
-    "value": 87
+    "value": 89
   },
   {
     "name": "github.com",
-    "value": 246
+    "value": 252
   }
 ]
