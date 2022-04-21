@@ -1,14 +1,18 @@
 [
   {
-    "name": "reddit.com",
-    "value": 1
-  },
-  {
     "name": "yandex.ru",
     "value": 1
   },
   {
-    "name": "Bing",
+    "name": "confluence.webapp.sdst.sbaintern.de",
+    "value": 1
+  },
+  {
+    "name": "gist.github.com",
+    "value": 2
+  },
+  {
+    "name": "reddit.com",
     "value": 2
   },
   {
@@ -16,31 +20,31 @@
     "value": 2
   },
   {
-    "name": "confluence.webapp.sdst.sbaintern.de",
-    "value": 6
-  },
-  {
-    "name": "gist.github.com",
-    "value": 7
+    "name": "awesomeopensource.com",
+    "value": 5
   },
   {
     "name": "xgirma.medium.com",
-    "value": 13
+    "value": 11
   },
   {
     "name": "DuckDuckGo",
+    "value": 11
+  },
+  {
+    "name": "Bing",
     "value": 19
   },
   {
     "name": "educative.io",
-    "value": 23
+    "value": 27
   },
   {
     "name": "Google",
-    "value": 330
+    "value": 321
   },
   {
     "name": "github.com",
-    "value": 910
+    "value": 972
   }
 ]
