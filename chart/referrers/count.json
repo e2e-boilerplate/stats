@@ -13,14 +13,6 @@
   },
   {
     "name": "reddit.com",
-    "value": 2
-  },
-  {
-    "name": "keep.google.com",
-    "value": 2
-  },
-  {
-    "name": "gist.github.com",
     "value": 3
   },
   {
@@ -32,19 +24,23 @@
     "value": 6
   },
   {
+    "name": "gist.github.com",
+    "value": 6
+  },
+  {
     "name": "educative.io",
-    "value": 25
+    "value": 29
   },
   {
     "name": "Bing",
-    "value": 28
+    "value": 29
   },
   {
     "name": "Google",
-    "value": 331
+    "value": 325
   },
   {
     "name": "github.com",
-    "value": 859
+    "value": 865
   }
 ]
