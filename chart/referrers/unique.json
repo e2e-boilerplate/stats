@@ -1,5 +1,17 @@
 [
   {
+    "name": "gist.github.com",
+    "value": 1
+  },
+  {
+    "name": "github.sre.pub",
+    "value": 1
+  },
+  {
+    "name": "cs.github.com",
+    "value": 1
+  },
+  {
     "name": "engine.presearch.org",
     "value": 1
   },
@@ -8,35 +20,27 @@
     "value": 1
   },
   {
-    "name": "gist.github.com",
-    "value": 2
-  },
-  {
-    "name": "github.sre.pub",
-    "value": 2
-  },
-  {
     "name": "DuckDuckGo",
-    "value": 5
+    "value": 3
   },
   {
     "name": "Bing",
-    "value": 5
-  },
-  {
-    "name": "xgirma.medium.com",
-    "value": 7
+    "value": 4
   },
   {
     "name": "educative.io",
     "value": 8
   },
   {
+    "name": "xgirma.medium.com",
+    "value": 14
+  },
+  {
     "name": "Google",
-    "value": 92
+    "value": 90
   },
   {
     "name": "github.com",
-    "value": 268
+    "value": 261
   }
 ]

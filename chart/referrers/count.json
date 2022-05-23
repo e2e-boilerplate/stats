@@ -1,27 +1,31 @@
 [
   {
+    "name": "github.sre.pub",
+    "value": 1
+  },
+  {
     "name": "out.reddit.com",
     "value": 1
   },
   {
-    "name": "github.sre.pub",
-    "value": 2
+    "name": "gist.github.com",
+    "value": 3
+  },
+  {
+    "name": "cs.github.com",
+    "value": 4
   },
   {
     "name": "engine.presearch.org",
     "value": 4
   },
   {
-    "name": "gist.github.com",
+    "name": "DuckDuckGo",
     "value": 5
   },
   {
     "name": "Bing",
-    "value": 10
-  },
-  {
-    "name": "DuckDuckGo",
-    "value": 11
+    "value": 6
   },
   {
     "name": "educative.io",
@@ -29,14 +33,14 @@
   },
   {
     "name": "xgirma.medium.com",
-    "value": 19
+    "value": 66
   },
   {
     "name": "Google",
-    "value": 310
+    "value": 322
   },
   {
     "name": "github.com",
-    "value": 979
+    "value": 957
   }
 ]
