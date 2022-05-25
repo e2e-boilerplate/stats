@@ -4,6 +4,14 @@
     "value": 1
   },
   {
+    "name": "com.google.android.gm",
+    "value": 1
+  },
+  {
+    "name": "yandex.ru",
+    "value": 1
+  },
+  {
     "name": "out.reddit.com",
     "value": 1
   },
@@ -21,26 +29,26 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 5
-  },
-  {
-    "name": "Bing",
-    "value": 6
+    "value": 10
   },
   {
     "name": "educative.io",
-    "value": 16
+    "value": 14
+  },
+  {
+    "name": "Bing",
+    "value": 18
   },
   {
     "name": "xgirma.medium.com",
-    "value": 66
+    "value": 80
   },
   {
     "name": "Google",
-    "value": 322
+    "value": 395
   },
   {
     "name": "github.com",
-    "value": 957
+    "value": 907
   }
 ]
