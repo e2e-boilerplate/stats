@@ -16,6 +16,10 @@
     "value": 1
   },
   {
+    "name": "ecosia.org",
+    "value": 2
+  },
+  {
     "name": "gist.github.com",
     "value": 3
   },
@@ -29,15 +33,15 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 10
-  },
-  {
-    "name": "educative.io",
-    "value": 14
+    "value": 7
   },
   {
     "name": "Bing",
     "value": 18
+  },
+  {
+    "name": "educative.io",
+    "value": 25
   },
   {
     "name": "xgirma.medium.com",
@@ -45,10 +49,10 @@
   },
   {
     "name": "Google",
-    "value": 395
+    "value": 436
   },
   {
     "name": "github.com",
-    "value": 907
+    "value": 858
   }
 ]
