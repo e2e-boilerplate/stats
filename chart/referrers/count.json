@@ -1,14 +1,10 @@
 [
   {
-    "name": "github.sre.pub",
-    "value": 1
-  },
-  {
     "name": "com.google.android.gm",
     "value": 1
   },
   {
-    "name": "yandex.ru",
+    "name": "gist.github.com",
     "value": 1
   },
   {
@@ -16,39 +12,35 @@
     "value": 2
   },
   {
-    "name": "gist.github.com",
-    "value": 3
-  },
-  {
     "name": "cs.github.com",
     "value": 4
   },
   {
-    "name": "engine.presearch.org",
+    "name": "yandex.ru",
     "value": 4
   },
   {
     "name": "Bing",
+    "value": 12
+  },
+  {
+    "name": "educative.io",
     "value": 18
   },
   {
     "name": "DuckDuckGo",
-    "value": 25
-  },
-  {
-    "name": "educative.io",
-    "value": 28
+    "value": 34
   },
   {
     "name": "xgirma.medium.com",
-    "value": 80
+    "value": 61
   },
   {
     "name": "Google",
-    "value": 361
+    "value": 403
   },
   {
     "name": "github.com",
-    "value": 622
+    "value": 637
   }
 ]
