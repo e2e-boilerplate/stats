@@ -1,42 +1,30 @@
 [
   {
-    "name": "com.google.android.gm",
-    "value": 1
-  },
-  {
-    "name": "gist.github.com",
-    "value": 1
-  },
-  {
     "name": "ecosia.org",
     "value": 2
   },
   {
+    "name": "gist.github.com",
+    "value": 2
+  },
+  {
     "name": "yandex.ru",
-    "value": 4
-  },
-  {
-    "name": "Bing",
-    "value": 12
-  },
-  {
-    "name": "xgirma.medium.com",
-    "value": 14
+    "value": 3
   },
   {
     "name": "educative.io",
-    "value": 19
+    "value": 16
   },
   {
     "name": "DuckDuckGo",
-    "value": 34
+    "value": 30
   },
   {
     "name": "Google",
-    "value": 396
+    "value": 300
   },
   {
     "name": "github.com",
-    "value": 696
+    "value": 607
   }
 ]
