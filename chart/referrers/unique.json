@@ -4,6 +4,10 @@
     "value": 1
   },
   {
+    "name": "libs.garden",
+    "value": 1
+  },
+  {
     "name": "yandex.ru",
     "value": 1
   },
@@ -17,26 +21,26 @@
   },
   {
     "name": "gist.github.com",
-    "value": 3
-  },
-  {
-    "name": "educative.io",
-    "value": 4
-  },
-  {
-    "name": "xgirma.medium.com",
-    "value": 4
+    "value": 2
   },
   {
     "name": "DuckDuckGo",
+    "value": 3
+  },
+  {
+    "name": "xgirma.medium.com",
     "value": 5
   },
   {
+    "name": "educative.io",
+    "value": 6
+  },
+  {
     "name": "Google",
-    "value": 85
+    "value": 87
   },
   {
     "name": "github.com",
-    "value": 237
+    "value": 212
   }
 ]
