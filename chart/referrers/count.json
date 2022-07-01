@@ -1,42 +1,38 @@
 [
   {
-    "name": "libs.garden",
-    "value": 1
-  },
-  {
     "name": "teams.microsoft.com",
     "value": 1
-  },
-  {
-    "name": "github.sre.pub",
-    "value": 2
   },
   {
     "name": "l.facebook.com",
     "value": 3
   },
   {
+    "name": "github.sre.pub",
+    "value": 3
+  },
+  {
+    "name": "xgirma.medium.com",
+    "value": 4
+  },
+  {
     "name": "Bing",
     "value": 6
   },
   {
-    "name": "educative.io",
-    "value": 7
-  },
-  {
     "name": "DuckDuckGo",
-    "value": 7
+    "value": 6
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 28
+    "name": "StartPage",
+    "value": 13
   },
   {
     "name": "Google",
-    "value": 238
+    "value": 308
   },
   {
     "name": "github.com",
-    "value": 664
+    "value": 665
   }
 ]
