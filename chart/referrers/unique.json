@@ -4,10 +4,6 @@
     "value": 1
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 1
-  },
-  {
     "name": "Bing",
     "value": 1
   },
@@ -20,19 +16,23 @@
     "value": 1
   },
   {
-    "name": "DuckDuckGo",
-    "value": 2
-  },
-  {
     "name": "github.sre.pub",
     "value": 2
   },
   {
+    "name": "DuckDuckGo",
+    "value": 3
+  },
+  {
+    "name": "xgirma.medium.com",
+    "value": 4
+  },
+  {
     "name": "Google",
-    "value": 72
+    "value": 66
   },
   {
     "name": "github.com",
-    "value": 176
+    "value": 153
   }
 ]

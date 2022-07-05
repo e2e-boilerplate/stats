@@ -4,10 +4,6 @@
     "value": 1
   },
   {
-    "name": "DuckDuckGo",
-    "value": 2
-  },
-  {
     "name": "l.facebook.com",
     "value": 3
   },
@@ -16,23 +12,27 @@
     "value": 3
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 4
-  },
-  {
     "name": "Bing",
     "value": 6
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 9
   },
   {
     "name": "StartPage",
     "value": 13
   },
   {
+    "name": "xgirma.medium.com",
+    "value": 34
+  },
+  {
     "name": "Google",
-    "value": 341
+    "value": 305
   },
   {
     "name": "github.com",
-    "value": 674
+    "value": 601
   }
 ]
