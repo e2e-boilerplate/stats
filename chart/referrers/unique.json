@@ -1,10 +1,14 @@
 [
   {
+    "name": "Bing",
+    "value": 1
+  },
+  {
     "name": "yandex.ru",
     "value": 1
   },
   {
-    "name": "l.facebook.com",
+    "name": "DuckDuckGo",
     "value": 1
   },
   {
@@ -12,11 +16,7 @@
     "value": 1
   },
   {
-    "name": "DuckDuckGo",
-    "value": 2
-  },
-  {
-    "name": "Bing",
+    "name": "l.facebook.com",
     "value": 2
   },
   {
@@ -29,10 +29,10 @@
   },
   {
     "name": "Google",
-    "value": 94
+    "value": 90
   },
   {
     "name": "github.com",
-    "value": 155
+    "value": 139
   }
 ]
