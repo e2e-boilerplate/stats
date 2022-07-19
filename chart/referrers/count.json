@@ -13,11 +13,15 @@
   },
   {
     "name": "Bing",
-    "value": 2
+    "value": 1
   },
   {
     "name": "reddit.com",
     "value": 3
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 4
   },
   {
     "name": "cn.bing.com",
@@ -28,19 +32,11 @@
     "value": 8
   },
   {
-    "name": "DuckDuckGo",
-    "value": 11
-  },
-  {
-    "name": "xgirma.medium.com",
-    "value": 30
-  },
-  {
     "name": "Google",
-    "value": 444
+    "value": 435
   },
   {
     "name": "github.com",
-    "value": 588
+    "value": 608
   }
 ]
