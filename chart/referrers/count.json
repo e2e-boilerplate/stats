@@ -1,9 +1,5 @@
 [
   {
-    "name": "yandex.ru",
-    "value": 1
-  },
-  {
     "name": "l.facebook.com",
     "value": 1
   },
@@ -12,8 +8,12 @@
     "value": 1
   },
   {
-    "name": "Bing",
+    "name": "xgirma.medium.com",
     "value": 1
+  },
+  {
+    "name": "educative.io",
+    "value": 2
   },
   {
     "name": "reddit.com",
@@ -28,15 +28,19 @@
     "value": 5
   },
   {
+    "name": "Bing",
+    "value": 7
+  },
+  {
     "name": "search.brave.com",
     "value": 8
   },
   {
     "name": "Google",
-    "value": 435
+    "value": 405
   },
   {
     "name": "github.com",
-    "value": 608
+    "value": 633
   }
 ]
