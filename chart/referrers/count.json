@@ -20,10 +20,6 @@
     "value": 3
   },
   {
-    "name": "DuckDuckGo",
-    "value": 4
-  },
-  {
     "name": "cn.bing.com",
     "value": 5
   },
@@ -40,11 +36,15 @@
     "value": 10
   },
   {
+    "name": "DuckDuckGo",
+    "value": 15
+  },
+  {
     "name": "Google",
-    "value": 444
+    "value": 412
   },
   {
     "name": "github.com",
-    "value": 566
+    "value": 523
   }
 ]
