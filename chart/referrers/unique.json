@@ -1,9 +1,5 @@
 [
   {
-    "name": "reddit.com",
-    "value": 1
-  },
-  {
     "name": "l.facebook.com",
     "value": 1
   },
@@ -12,15 +8,11 @@
     "value": 1
   },
   {
-    "name": "search.brave.com",
+    "name": "DuckDuckGo",
     "value": 1
   },
   {
     "name": "opengovinc.atlassian.net",
-    "value": 1
-  },
-  {
-    "name": "confluence.webapp.sdst.sbaintern.de",
     "value": 1
   },
   {
@@ -33,18 +25,14 @@
   },
   {
     "name": "Bing",
-    "value": 3
-  },
-  {
-    "name": "DuckDuckGo",
-    "value": 4
+    "value": 2
   },
   {
     "name": "Google",
-    "value": 75
+    "value": 79
   },
   {
     "name": "github.com",
-    "value": 101
+    "value": 103
   }
 ]
