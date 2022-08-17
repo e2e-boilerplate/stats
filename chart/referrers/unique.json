@@ -1,5 +1,9 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "wiki.xitaso.com",
     "value": 1
   },
@@ -20,23 +24,19 @@
     "value": 1
   },
   {
-    "name": "confluence.webapp.sdst.sbaintern.de",
-    "value": 1
+    "name": "Bing",
+    "value": 2
   },
   {
     "name": "gist.github.com",
     "value": 2
   },
   {
-    "name": "Bing",
-    "value": 3
-  },
-  {
     "name": "Google",
-    "value": 66
+    "value": 70
   },
   {
     "name": "github.com",
-    "value": 85
+    "value": 90
   }
 ]
