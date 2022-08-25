@@ -1,5 +1,9 @@
 [
   {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
     "name": "reddit.com",
     "value": 1
   },
@@ -8,19 +12,15 @@
     "value": 1
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 1
-  },
-  {
     "name": "giter.site",
     "value": 1
   },
   {
     "name": "Google",
-    "value": 60
+    "value": 58
   },
   {
     "name": "github.com",
-    "value": 70
+    "value": 75
   }
 ]
