@@ -1,11 +1,15 @@
 [
   {
-    "name": "Bing",
-    "value": 1
-  },
-  {
     "name": "automated-testing.info",
     "value": 3
+  },
+  {
+    "name": "Bing",
+    "value": 4
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 5
   },
   {
     "name": "foxsportsau.atlassian.net",
@@ -13,14 +17,18 @@
   },
   {
     "name": "xgirma.medium.com",
-    "value": 17
+    "value": 15
+  },
+  {
+    "name": "statics.teams.cdn.office.net",
+    "value": 33
   },
   {
     "name": "Google",
-    "value": 190
+    "value": 192
   },
   {
     "name": "github.com",
-    "value": 272
+    "value": 352
   }
 ]
