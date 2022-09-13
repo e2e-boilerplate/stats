@@ -1,5 +1,9 @@
 [
   {
+    "name": "yandex.ru",
+    "value": 1
+  },
+  {
     "name": "automated-testing.info",
     "value": 1
   },
@@ -8,12 +12,12 @@
     "value": 1
   },
   {
-    "name": "Bing",
-    "value": 3
+    "name": "xgirma.medium.com",
+    "value": 2
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 4
+    "name": "Bing",
+    "value": 3
   },
   {
     "name": "statics.teams.cdn.office.net",
@@ -25,10 +29,10 @@
   },
   {
     "name": "Google",
-    "value": 58
+    "value": 57
   },
   {
     "name": "github.com",
-    "value": 96
+    "value": 90
   }
 ]
