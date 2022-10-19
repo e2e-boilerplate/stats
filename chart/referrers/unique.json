@@ -1,6 +1,6 @@
 [
   {
-    "name": "reddit.com",
+    "name": "in.search.yahoo.com",
     "value": 1
   },
   {
@@ -8,8 +8,16 @@
     "value": 1
   },
   {
+    "name": "patternsandbox.github.io",
+    "value": 2
+  },
+  {
     "name": "github.774.gs",
-    "value": 4
+    "value": 2
+  },
+  {
+    "name": "reddit.com",
+    "value": 3
   },
   {
     "name": "xgirma.medium.com",
@@ -17,10 +25,10 @@
   },
   {
     "name": "Google",
-    "value": 65
+    "value": 67
   },
   {
     "name": "github.com",
-    "value": 112
+    "value": 114
   }
 ]
