@@ -1,9 +1,5 @@
 [
   {
-    "name": "DuckDuckGo",
-    "value": 1
-  },
-  {
     "name": "gist.github.com",
     "value": 1
   },
@@ -12,15 +8,19 @@
     "value": 2
   },
   {
-    "name": "statics.teams.cdn.office.net",
+    "name": "DuckDuckGo",
     "value": 2
   },
   {
+    "name": "statics.teams.cdn.office.net",
+    "value": 3
+  },
+  {
     "name": "Google",
-    "value": 96
+    "value": 92
   },
   {
     "name": "github.com",
-    "value": 98
+    "value": 99
   }
 ]
