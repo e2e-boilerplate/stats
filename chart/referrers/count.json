@@ -1,5 +1,9 @@
 [
   {
+    "name": "gist.github.com",
+    "value": 2
+  },
+  {
     "name": "softwaretestingweekly.com",
     "value": 5
   },
@@ -12,19 +16,15 @@
     "value": 9
   },
   {
-    "name": "gist.github.com",
-    "value": 12
-  },
-  {
     "name": "DuckDuckGo",
-    "value": 25
-  },
-  {
-    "name": "github.com",
-    "value": 298
+    "value": 26
   },
   {
     "name": "Google",
-    "value": 324
+    "value": 321
+  },
+  {
+    "name": "github.com",
+    "value": 343
   }
 ]
