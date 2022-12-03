@@ -1,5 +1,9 @@
 [
   {
+    "name": "Bing",
+    "value": 1
+  },
+  {
     "name": "gist.github.com",
     "value": 2
   },
@@ -9,7 +13,7 @@
   },
   {
     "name": "yandex.ru",
-    "value": 6
+    "value": 7
   },
   {
     "name": "statics.teams.cdn.office.net",
@@ -24,11 +28,11 @@
     "value": 27
   },
   {
-    "name": "github.com",
-    "value": 289
+    "name": "Google",
+    "value": 312
   },
   {
-    "name": "Google",
-    "value": 303
+    "name": "github.com",
+    "value": 330
   }
 ]
