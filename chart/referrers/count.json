@@ -1,11 +1,11 @@
 [
   {
-    "name": "Bing",
+    "name": "yandex.ru",
     "value": 1
   },
   {
-    "name": "gist.github.com",
-    "value": 2
+    "name": "Bing",
+    "value": 1
   },
   {
     "name": "ecosia.org",
@@ -16,12 +16,8 @@
     "value": 5
   },
   {
-    "name": "yandex.ru",
-    "value": 7
-  },
-  {
     "name": "DuckDuckGo",
-    "value": 19
+    "value": 7
   },
   {
     "name": "xgirma.medium.com",
@@ -29,10 +25,10 @@
   },
   {
     "name": "Google",
-    "value": 245
+    "value": 254
   },
   {
     "name": "github.com",
-    "value": 339
+    "value": 264
   }
 ]
