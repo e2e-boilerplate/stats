@@ -1,7 +1,15 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "Bing",
     "value": 1
+  },
+  {
+    "name": "yandex.ru",
+    "value": 2
   },
   {
     "name": "xgirma.medium.com",
@@ -9,10 +17,10 @@
   },
   {
     "name": "Google",
-    "value": 169
+    "value": 175
   },
   {
     "name": "github.com",
-    "value": 343
+    "value": 380
   }
 ]
