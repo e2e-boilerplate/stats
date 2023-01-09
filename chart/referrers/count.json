@@ -1,22 +1,26 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "yandex.ru",
     "value": 2
   },
   {
-    "name": "xgirma.medium.com",
+    "name": "Bing",
     "value": 6
   },
   {
-    "name": "Bing",
-    "value": 7
+    "name": "xgirma.medium.com",
+    "value": 10
   },
   {
     "name": "Google",
-    "value": 214
+    "value": 224
   },
   {
     "name": "github.com",
-    "value": 279
+    "value": 312
   }
 ]
