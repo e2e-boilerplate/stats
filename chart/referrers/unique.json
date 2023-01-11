@@ -8,8 +8,12 @@
     "value": 1
   },
   {
-    "name": "Bing",
+    "name": "DuckDuckGo",
     "value": 1
+  },
+  {
+    "name": "Bing",
+    "value": 2
   },
   {
     "name": "xgirma.medium.com",
@@ -17,10 +21,10 @@
   },
   {
     "name": "Google",
-    "value": 42
+    "value": 36
   },
   {
     "name": "github.com",
-    "value": 82
+    "value": 96
   }
 ]
