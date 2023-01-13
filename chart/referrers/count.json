@@ -1,19 +1,15 @@
 [
   {
-    "name": "reddit.com",
+    "name": "opengovinc.atlassian.net",
     "value": 1
-  },
-  {
-    "name": "yandex.ru",
-    "value": 2
-  },
-  {
-    "name": "DuckDuckGo",
-    "value": 5
   },
   {
     "name": "Bing",
     "value": 9
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 10
   },
   {
     "name": "xgirma.medium.com",
@@ -21,10 +17,10 @@
   },
   {
     "name": "Google",
-    "value": 239
+    "value": 285
   },
   {
     "name": "github.com",
-    "value": 383
+    "value": 385
   }
 ]
