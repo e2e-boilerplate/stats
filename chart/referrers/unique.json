@@ -1,5 +1,9 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "xgirma.medium.com",
     "value": 1
   },
@@ -9,7 +13,7 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 2
+    "value": 3
   },
   {
     "name": "Bing",
@@ -17,10 +21,10 @@
   },
   {
     "name": "Google",
-    "value": 55
+    "value": 53
   },
   {
     "name": "github.com",
-    "value": 102
+    "value": 104
   }
 ]
