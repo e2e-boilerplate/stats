@@ -1,5 +1,9 @@
 [
   {
+    "name": "in.search.yahoo.com",
+    "value": 1
+  },
+  {
     "name": "opengovinc.atlassian.net",
     "value": 1
   },
@@ -8,19 +12,27 @@
     "value": 2
   },
   {
-    "name": "Bing",
-    "value": 9
+    "name": "m.facebook.com",
+    "value": 2
+  },
+  {
+    "name": "xgirma.medium.com",
+    "value": 5
   },
   {
     "name": "DuckDuckGo",
     "value": 12
   },
   {
+    "name": "Bing",
+    "value": 19
+  },
+  {
     "name": "Google",
-    "value": 198
+    "value": 185
   },
   {
     "name": "github.com",
-    "value": 348
+    "value": 306
   }
 ]
