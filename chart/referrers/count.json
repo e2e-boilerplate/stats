@@ -8,10 +8,6 @@
     "value": 1
   },
   {
-    "name": "reddit.com",
-    "value": 2
-  },
-  {
     "name": "m.facebook.com",
     "value": 2
   },
@@ -20,19 +16,23 @@
     "value": 8
   },
   {
+    "name": "ca.search.yahoo.com",
+    "value": 8
+  },
+  {
     "name": "Bing",
     "value": 13
   },
   {
     "name": "DuckDuckGo",
-    "value": 15
+    "value": 14
   },
   {
     "name": "Google",
-    "value": 186
+    "value": 143
   },
   {
     "name": "github.com",
-    "value": 273
+    "value": 218
   }
 ]
