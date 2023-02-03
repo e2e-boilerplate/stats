@@ -16,6 +16,10 @@
     "value": 1
   },
   {
+    "name": "grep.app",
+    "value": 2
+  },
+  {
     "name": "Bing",
     "value": 2
   },
@@ -25,7 +29,7 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 10
+    "value": 9
   },
   {
     "name": "Google",
@@ -33,6 +37,6 @@
   },
   {
     "name": "github.com",
-    "value": 77
+    "value": 85
   }
 ]

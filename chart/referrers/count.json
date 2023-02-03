@@ -12,6 +12,10 @@
     "value": 2
   },
   {
+    "name": "grep.app",
+    "value": 6
+  },
+  {
     "name": "ca.search.yahoo.com",
     "value": 8
   },
@@ -25,14 +29,14 @@
   },
   {
     "name": "DuckDuckGo",
-    "value": 25
+    "value": 24
   },
   {
     "name": "Google",
-    "value": 144
+    "value": 155
   },
   {
     "name": "github.com",
-    "value": 227
+    "value": 229
   }
 ]
