@@ -1,14 +1,6 @@
 [
   {
-    "name": "in.search.yahoo.com",
-    "value": 1
-  },
-  {
     "name": "l.messenger.com",
-    "value": 1
-  },
-  {
-    "name": "m.facebook.com",
     "value": 1
   },
   {
@@ -24,15 +16,11 @@
     "value": 2
   },
   {
-    "name": "Bing",
-    "value": 2
-  },
-  {
-    "name": "search.brave.com",
+    "name": "xgirma.medium.com",
     "value": 4
   },
   {
-    "name": "xgirma.medium.com",
+    "name": "search.brave.com",
     "value": 5
   },
   {
@@ -41,10 +29,10 @@
   },
   {
     "name": "Google",
-    "value": 62
+    "value": 61
   },
   {
     "name": "github.com",
-    "value": 80
+    "value": 71
   }
 ]

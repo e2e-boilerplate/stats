@@ -1,19 +1,11 @@
 [
   {
-    "name": "in.search.yahoo.com",
-    "value": 1
-  },
-  {
     "name": "l.messenger.com",
     "value": 1
   },
   {
     "name": "l.facebook.com",
     "value": 1
-  },
-  {
-    "name": "m.facebook.com",
-    "value": 2
   },
   {
     "name": "grep.app",
@@ -24,16 +16,12 @@
     "value": 8
   },
   {
-    "name": "search.brave.com",
+    "name": "xgirma.medium.com",
     "value": 11
   },
   {
-    "name": "Bing",
-    "value": 13
-  },
-  {
-    "name": "xgirma.medium.com",
-    "value": 15
+    "name": "search.brave.com",
+    "value": 16
   },
   {
     "name": "DuckDuckGo",
@@ -41,10 +29,10 @@
   },
   {
     "name": "Google",
-    "value": 197
+    "value": 195
   },
   {
     "name": "github.com",
-    "value": 230
+    "value": 232
   }
 ]
