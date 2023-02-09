@@ -1,9 +1,5 @@
 [
   {
-    "name": "l.messenger.com",
-    "value": 1
-  },
-  {
     "name": "l.facebook.com",
     "value": 1
   },
@@ -17,22 +13,22 @@
   },
   {
     "name": "xgirma.medium.com",
-    "value": 11
+    "value": 12
+  },
+  {
+    "name": "DuckDuckGo",
+    "value": 13
   },
   {
     "name": "search.brave.com",
     "value": 16
   },
   {
-    "name": "DuckDuckGo",
-    "value": 19
-  },
-  {
     "name": "Google",
-    "value": 195
+    "value": 208
   },
   {
     "name": "github.com",
-    "value": 232
+    "value": 252
   }
 ]
