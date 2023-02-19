@@ -1,5 +1,9 @@
 [
   {
+    "name": "search.brave.com",
+    "value": 1
+  },
+  {
     "name": "reddit.com",
     "value": 1
   },
@@ -12,19 +16,15 @@
     "value": 4
   },
   {
-    "name": "search.brave.com",
-    "value": 5
-  },
-  {
     "name": "xgirma.medium.com",
-    "value": 5
-  },
-  {
-    "name": "github.com",
-    "value": 63
+    "value": 4
   },
   {
     "name": "Google",
-    "value": 67
+    "value": 74
+  },
+  {
+    "name": "github.com",
+    "value": 75
   }
 ]
