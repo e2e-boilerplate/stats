@@ -12,8 +12,8 @@
     "watchers": 0,
     "size": 548,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -34,8 +34,8 @@
     "watchers": 0,
     "size": 575,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -56,13 +56,13 @@
     "watchers": 0,
     "size": 908,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -78,8 +78,8 @@
     "watchers": 0,
     "size": 793,
     "clones": {
-      "count": 11,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -100,8 +100,8 @@
     "watchers": 1,
     "size": 1042,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -122,8 +122,8 @@
     "watchers": 0,
     "size": 871,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -144,8 +144,8 @@
     "watchers": 0,
     "size": 875,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -166,19 +166,13 @@
     "watchers": 0,
     "size": 1039,
     "clones": {
-      "count": 7,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 13,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 13,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -194,13 +188,13 @@
     "watchers": 0,
     "size": 565,
     "clones": {
-      "count": 7,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 4,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -216,19 +210,13 @@
     "watchers": 0,
     "size": 663,
     "clones": {
-      "count": 223,
-      "uniques": 72
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -244,8 +232,8 @@
     "watchers": 0,
     "size": 693,
     "clones": {
-      "count": 202,
-      "uniques": 70
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -266,8 +254,8 @@
     "watchers": 0,
     "size": 1045,
     "clones": {
-      "count": 228,
-      "uniques": 81
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -288,8 +276,8 @@
     "watchers": 0,
     "size": 837,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -310,19 +298,13 @@
     "watchers": 0,
     "size": 518,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -338,8 +320,8 @@
     "watchers": 0,
     "size": 455,
     "clones": {
-      "count": 225,
-      "uniques": 80
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -360,19 +342,13 @@
     "watchers": 0,
     "size": 385,
     "clones": {
-      "count": 224,
-      "uniques": 74
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 12,
-        "uniques": 2
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 12,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -388,24 +364,13 @@
     "watchers": 0,
     "size": 769,
     "clones": {
-      "count": 226,
-      "uniques": 75
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 16,
-        "uniques": 1
-      },
-      {
-        "referrer": "github.com",
-        "count": 3,
-        "uniques": 2
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 19,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -421,8 +386,8 @@
     "watchers": 0,
     "size": 713,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -443,24 +408,13 @@
     "watchers": 0,
     "size": 760,
     "clones": {
-      "count": 228,
-      "uniques": 74
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 20,
-        "uniques": 10
-      },
-      {
-        "referrer": "github.com",
-        "count": 2,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 22,
-      "uniques": 11
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -476,8 +430,8 @@
     "watchers": 4,
     "size": 524,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -498,19 +452,13 @@
     "watchers": 0,
     "size": 1231,
     "clones": {
-      "count": 249,
-      "uniques": 77
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 5,
-        "uniques": 2
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 11,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -526,13 +474,13 @@
     "watchers": 0,
     "size": 1164,
     "clones": {
-      "count": 248,
-      "uniques": 80
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 4,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -548,19 +496,13 @@
     "watchers": 0,
     "size": 1307,
     "clones": {
-      "count": 254,
-      "uniques": 86
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 5,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -576,8 +518,8 @@
     "watchers": 0,
     "size": 1125,
     "clones": {
-      "count": 254,
-      "uniques": 82
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -598,24 +540,13 @@
     "watchers": 17,
     "size": 880,
     "clones": {
-      "count": 7,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 14,
-        "uniques": 6
-      },
-      {
-        "referrer": "reddit.com",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 17,
-      "uniques": 9
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -631,8 +562,8 @@
     "watchers": 0,
     "size": 190,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -653,8 +584,8 @@
     "watchers": 0,
     "size": 626,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -675,8 +606,8 @@
     "watchers": 0,
     "size": 956,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -697,8 +628,8 @@
     "watchers": 0,
     "size": 1955,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -719,8 +650,8 @@
     "watchers": 0,
     "size": 1881,
     "clones": {
-      "count": 4,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -741,13 +672,13 @@
     "watchers": 0,
     "size": 752,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -763,8 +694,8 @@
     "watchers": 0,
     "size": 681,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -785,8 +716,8 @@
     "watchers": 0,
     "size": 8391,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -807,29 +738,13 @@
     "watchers": 5,
     "size": 627,
     "clones": {
-      "count": 10,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 12,
-        "uniques": 4
-      },
-      {
-        "referrer": "DuckDuckGo",
-        "count": 10,
-        "uniques": 1
-      },
-      {
-        "referrer": "Google",
-        "count": 9,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 37,
-      "uniques": 7
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -845,19 +760,13 @@
     "watchers": 0,
     "size": 568,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 10,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 10,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -873,24 +782,13 @@
     "watchers": 2,
     "size": 743,
     "clones": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 19,
-        "uniques": 3
-      },
-      {
-        "referrer": "Google",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 33,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -906,19 +804,13 @@
     "watchers": 0,
     "size": 528,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 24,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 25,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -934,24 +826,13 @@
     "watchers": 3,
     "size": 1157,
     "clones": {
-      "count": 8,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 9,
-        "uniques": 3
-      },
-      {
-        "referrer": "ecosia.org",
-        "count": 8,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 29,
-      "uniques": 9
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -967,8 +848,8 @@
     "watchers": 1,
     "size": 543,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -989,19 +870,13 @@
     "watchers": 2,
     "size": 920,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 12,
-        "uniques": 2
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 12,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1017,13 +892,13 @@
     "watchers": 2,
     "size": 1240,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1039,8 +914,8 @@
     "watchers": 2,
     "size": 1271,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1061,19 +936,13 @@
     "watchers": 2,
     "size": 565,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 3,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 3,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1089,8 +958,8 @@
     "watchers": 0,
     "size": 526,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1111,24 +980,13 @@
     "watchers": 2,
     "size": 1116,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 2,
-        "uniques": 2
-      },
-      {
-        "referrer": "github.com",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 8,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1144,8 +1002,8 @@
     "watchers": 0,
     "size": 522,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1166,13 +1024,13 @@
     "watchers": 0,
     "size": 1610,
     "clones": {
-      "count": 13,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1188,13 +1046,13 @@
     "watchers": 5,
     "size": 2028,
     "clones": {
-      "count": 12,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1210,8 +1068,8 @@
     "watchers": 4,
     "size": 1987,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1232,8 +1090,8 @@
     "watchers": 5,
     "size": 606,
     "clones": {
-      "count": 11,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1254,8 +1112,8 @@
     "watchers": 1,
     "size": 468,
     "clones": {
-      "count": 7,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1276,13 +1134,13 @@
     "watchers": 2,
     "size": 1027,
     "clones": {
-      "count": 13,
-      "uniques": 6
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1298,8 +1156,8 @@
     "watchers": 0,
     "size": 564,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1320,29 +1178,13 @@
     "watchers": 35,
     "size": 1947,
     "clones": {
-      "count": 19,
-      "uniques": 10
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 47,
-        "uniques": 17
-      },
-      {
-        "referrer": "github.com",
-        "count": 42,
-        "uniques": 16
-      },
-      {
-        "referrer": "ecosia.org",
-        "count": 3,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 112,
-      "uniques": 35
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1358,34 +1200,13 @@
     "watchers": 21,
     "size": 1336,
     "clones": {
-      "count": 15,
-      "uniques": 8
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "DuckDuckGo",
-        "count": 40,
-        "uniques": 1
-      },
-      {
-        "referrer": "github.com",
-        "count": 25,
-        "uniques": 10
-      },
-      {
-        "referrer": "Google",
-        "count": 5,
-        "uniques": 1
-      },
-      {
-        "referrer": "ecosia.org",
-        "count": 2,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 79,
-      "uniques": 16
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1401,19 +1222,13 @@
     "watchers": 0,
     "size": 675,
     "clones": {
-      "count": 6,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 7,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 13,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1429,24 +1244,13 @@
     "watchers": 1,
     "size": 677,
     "clones": {
-      "count": 10,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "DuckDuckGo",
-        "count": 9,
-        "uniques": 1
-      },
-      {
-        "referrer": "Google",
-        "count": 6,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 23,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1462,8 +1266,8 @@
     "watchers": 0,
     "size": 748,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1484,8 +1288,8 @@
     "watchers": 0,
     "size": 661,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1506,19 +1310,13 @@
     "watchers": 1,
     "size": 597,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1534,8 +1332,8 @@
     "watchers": 0,
     "size": 350,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1556,8 +1354,8 @@
     "watchers": 0,
     "size": 919,
     "clones": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1578,8 +1376,8 @@
     "watchers": 0,
     "size": 355,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1600,8 +1398,8 @@
     "watchers": 0,
     "size": 1378,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1622,8 +1420,8 @@
     "watchers": 0,
     "size": 1552,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1644,8 +1442,8 @@
     "watchers": 0,
     "size": 1439,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1666,8 +1464,8 @@
     "watchers": 0,
     "size": 1572,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1688,8 +1486,8 @@
     "watchers": 0,
     "size": 1567,
     "clones": {
-      "count": 4,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1710,8 +1508,8 @@
     "watchers": 0,
     "size": 1552,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1732,8 +1530,8 @@
     "watchers": 0,
     "size": 678,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1754,8 +1552,8 @@
     "watchers": 0,
     "size": 700,
     "clones": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1776,13 +1574,13 @@
     "watchers": 0,
     "size": 706,
     "clones": {
-      "count": 4,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1798,8 +1596,8 @@
     "watchers": 0,
     "size": 362,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1820,8 +1618,8 @@
     "watchers": 0,
     "size": 875,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1842,8 +1640,8 @@
     "watchers": 0,
     "size": 527,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1864,13 +1662,13 @@
     "watchers": 0,
     "size": 451,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 4,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1886,19 +1684,13 @@
     "watchers": 2,
     "size": 541,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 2,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 4,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1914,13 +1706,13 @@
     "watchers": 0,
     "size": 658,
     "clones": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -1936,8 +1728,8 @@
     "watchers": 0,
     "size": 327,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1958,8 +1750,8 @@
     "watchers": 0,
     "size": 629,
     "clones": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -1980,8 +1772,8 @@
     "watchers": 0,
     "size": 321,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2002,13 +1794,13 @@
     "watchers": 0,
     "size": 488,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2024,13 +1816,13 @@
     "watchers": 0,
     "size": 564,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2046,8 +1838,8 @@
     "watchers": 0,
     "size": 626,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2068,8 +1860,8 @@
     "watchers": 0,
     "size": 348,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2090,13 +1882,13 @@
     "watchers": 0,
     "size": 698,
     "clones": {
-      "count": 5,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2112,8 +1904,8 @@
     "watchers": 0,
     "size": 325,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2134,8 +1926,8 @@
     "watchers": 0,
     "size": 440,
     "clones": {
-      "count": 11,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2156,8 +1948,8 @@
     "watchers": 0,
     "size": 401,
     "clones": {
-      "count": 7,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2178,8 +1970,8 @@
     "watchers": 0,
     "size": 944,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2200,8 +1992,8 @@
     "watchers": 0,
     "size": 380,
     "clones": {
-      "count": 8,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2222,8 +2014,8 @@
     "watchers": 0,
     "size": 914,
     "clones": {
-      "count": 10,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2244,8 +2036,8 @@
     "watchers": 0,
     "size": 617,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2266,13 +2058,13 @@
     "watchers": 0,
     "size": 641,
     "clones": {
-      "count": 10,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2288,13 +2080,13 @@
     "watchers": 0,
     "size": 985,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2310,8 +2102,8 @@
     "watchers": 1,
     "size": 1155,
     "clones": {
-      "count": 7,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2332,13 +2124,13 @@
     "watchers": 0,
     "size": 547,
     "clones": {
-      "count": 10,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2354,19 +2146,13 @@
     "watchers": 0,
     "size": 431,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 5,
-        "uniques": 2
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 7,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2382,19 +2168,13 @@
     "watchers": 1,
     "size": 1005,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 4,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 4,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2410,8 +2190,8 @@
     "watchers": 0,
     "size": 410,
     "clones": {
-      "count": 7,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2432,8 +2212,8 @@
     "watchers": 2,
     "size": 1626,
     "clones": {
-      "count": 15,
-      "uniques": 7
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2454,8 +2234,8 @@
     "watchers": 2,
     "size": 2029,
     "clones": {
-      "count": 10,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2476,8 +2256,8 @@
     "watchers": 0,
     "size": 2150,
     "clones": {
-      "count": 8,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2498,13 +2278,13 @@
     "watchers": 0,
     "size": 503,
     "clones": {
-      "count": 9,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2520,8 +2300,8 @@
     "watchers": 0,
     "size": 367,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2542,8 +2322,8 @@
     "watchers": 0,
     "size": 960,
     "clones": {
-      "count": 11,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2564,8 +2344,8 @@
     "watchers": 0,
     "size": 373,
     "clones": {
-      "count": 8,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2586,24 +2366,13 @@
     "watchers": 0,
     "size": 1000,
     "clones": {
-      "count": 7,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 5,
-        "uniques": 2
-      },
-      {
-        "referrer": "github.com",
-        "count": 2,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 7,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2619,19 +2388,13 @@
     "watchers": 7,
     "size": 1828,
     "clones": {
-      "count": 20,
-      "uniques": 8
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 15,
-        "uniques": 5
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 15,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2647,19 +2410,13 @@
     "watchers": 0,
     "size": 494,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 15,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 15,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2675,24 +2432,13 @@
     "watchers": 2,
     "size": 853,
     "clones": {
-      "count": 5,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 13,
-        "uniques": 2
-      },
-      {
-        "referrer": "DuckDuckGo",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 14,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2708,8 +2454,8 @@
     "watchers": 0,
     "size": 103,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2730,8 +2476,8 @@
     "watchers": 0,
     "size": 1157,
     "clones": {
-      "count": 6,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2752,13 +2498,13 @@
     "watchers": 0,
     "size": 660,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2774,8 +2520,8 @@
     "watchers": 0,
     "size": 538,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2796,19 +2542,13 @@
     "watchers": 0,
     "size": 820,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2824,8 +2564,8 @@
     "watchers": 0,
     "size": 543,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2846,19 +2586,13 @@
     "watchers": 0,
     "size": 612,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "xgirma.medium.com",
-        "count": 6,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 6,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2874,13 +2608,13 @@
     "watchers": 0,
     "size": 679,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2896,8 +2630,8 @@
     "watchers": 0,
     "size": 1164,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2918,8 +2652,8 @@
     "watchers": 1,
     "size": 1235,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2940,8 +2674,8 @@
     "watchers": 0,
     "size": 696,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -2962,19 +2696,13 @@
     "watchers": 0,
     "size": 591,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 22,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 22,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -2990,13 +2718,13 @@
     "watchers": 0,
     "size": 891,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3012,8 +2740,8 @@
     "watchers": 0,
     "size": 573,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3034,8 +2762,8 @@
     "watchers": 0,
     "size": 653,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3056,13 +2784,13 @@
     "watchers": 0,
     "size": 1767,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3078,8 +2806,8 @@
     "watchers": 0,
     "size": 1639,
     "clones": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3100,8 +2828,8 @@
     "watchers": 1,
     "size": 1983,
     "clones": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3122,8 +2850,8 @@
     "watchers": 0,
     "size": 2336,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3144,8 +2872,8 @@
     "watchers": 0,
     "size": 2335,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3166,8 +2894,8 @@
     "watchers": 1,
     "size": 1397,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3188,8 +2916,8 @@
     "watchers": 0,
     "size": 1648,
     "clones": {
-      "count": 3,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3210,19 +2938,13 @@
     "watchers": 0,
     "size": 1418,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 2,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3238,13 +2960,13 @@
     "watchers": 0,
     "size": 1694,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3260,8 +2982,8 @@
     "watchers": 0,
     "size": 533,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3282,8 +3004,8 @@
     "watchers": 0,
     "size": 608,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3304,8 +3026,8 @@
     "watchers": 0,
     "size": 587,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3326,8 +3048,8 @@
     "watchers": 0,
     "size": 649,
     "clones": {
-      "count": 5,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3348,19 +3070,13 @@
     "watchers": 2,
     "size": 745,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 8,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 8,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3376,8 +3092,8 @@
     "watchers": 0,
     "size": 1048,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3398,19 +3114,13 @@
     "watchers": 0,
     "size": 993,
     "clones": {
-      "count": 5,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "xgirma.medium.com",
-        "count": 8,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 10,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3426,24 +3136,13 @@
     "watchers": 1,
     "size": 1299,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "xgirma.medium.com",
-        "count": 1,
-        "uniques": 1
-      },
-      {
-        "referrer": "Google",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3459,19 +3158,13 @@
     "watchers": 0,
     "size": 774,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 2,
-        "uniques": 2
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3487,13 +3180,13 @@
     "watchers": 0,
     "size": 485,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3509,19 +3202,13 @@
     "watchers": 3,
     "size": 565,
     "clones": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 11,
-        "uniques": 4
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 13,
-      "uniques": 5
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3537,13 +3224,13 @@
     "watchers": 0,
     "size": 569,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3557,10 +3244,10 @@
     "forks": 0,
     "open_issues": 21,
     "watchers": 0,
-    "size": 9379,
+    "size": 9393,
     "clones": {
-      "count": 384,
-      "uniques": 77
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3581,8 +3268,8 @@
     "watchers": 0,
     "size": 6415,
     "clones": {
-      "count": 4,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3603,19 +3290,13 @@
     "watchers": 0,
     "size": 576,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "Google",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3631,8 +3312,8 @@
     "watchers": 0,
     "size": 593,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3653,8 +3334,8 @@
     "watchers": 0,
     "size": 610,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3675,8 +3356,8 @@
     "watchers": 0,
     "size": 612,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3697,8 +3378,8 @@
     "watchers": 0,
     "size": 626,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3719,8 +3400,8 @@
     "watchers": 0,
     "size": 540,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3741,8 +3422,8 @@
     "watchers": 0,
     "size": 625,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3763,8 +3444,8 @@
     "watchers": 0,
     "size": 517,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3785,8 +3466,8 @@
     "watchers": 1,
     "size": 590,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3807,8 +3488,8 @@
     "watchers": 0,
     "size": 567,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3829,19 +3510,13 @@
     "watchers": 0,
     "size": 705,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 6,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 6,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3857,8 +3532,8 @@
     "watchers": 0,
     "size": 422,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3879,8 +3554,8 @@
     "watchers": 0,
     "size": 444,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3901,8 +3576,8 @@
     "watchers": 0,
     "size": 461,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3923,8 +3598,8 @@
     "watchers": 0,
     "size": 465,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -3945,24 +3620,13 @@
     "watchers": 11,
     "size": 1698,
     "clones": {
-      "count": 6,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 2,
-        "uniques": 2
-      },
-      {
-        "referrer": "Google",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -3978,8 +3642,8 @@
     "watchers": 0,
     "size": 574,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4000,8 +3664,8 @@
     "watchers": 0,
     "size": 474,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4022,8 +3686,8 @@
     "watchers": 0,
     "size": 794,
     "clones": {
-      "count": 4,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4044,8 +3708,8 @@
     "watchers": 0,
     "size": 987,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4066,8 +3730,8 @@
     "watchers": 0,
     "size": 801,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4088,8 +3752,8 @@
     "watchers": 0,
     "size": 535,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4110,8 +3774,8 @@
     "watchers": 0,
     "size": 530,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4132,8 +3796,8 @@
     "watchers": 0,
     "size": 699,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4154,8 +3818,8 @@
     "watchers": 0,
     "size": 2287,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4176,8 +3840,8 @@
     "watchers": 0,
     "size": 2137,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4198,8 +3862,8 @@
     "watchers": 0,
     "size": 1331,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4220,8 +3884,8 @@
     "watchers": 0,
     "size": 1462,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4242,8 +3906,8 @@
     "watchers": 0,
     "size": 1309,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4264,8 +3928,8 @@
     "watchers": 0,
     "size": 965,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4286,8 +3950,8 @@
     "watchers": 0,
     "size": 945,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4308,8 +3972,8 @@
     "watchers": 0,
     "size": 487,
     "clones": {
-      "count": 3,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4330,8 +3994,8 @@
     "watchers": 0,
     "size": 255,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4352,8 +4016,8 @@
     "watchers": 0,
     "size": 381,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4374,8 +4038,8 @@
     "watchers": 0,
     "size": 1307,
     "clones": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4396,13 +4060,13 @@
     "watchers": 0,
     "size": 1346,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4418,8 +4082,8 @@
     "watchers": 0,
     "size": 1337,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4440,8 +4104,8 @@
     "watchers": 0,
     "size": 1980,
     "clones": {
-      "count": 5,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4462,8 +4126,8 @@
     "watchers": 0,
     "size": 628,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4484,13 +4148,13 @@
     "watchers": 0,
     "size": 1330,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4506,8 +4170,8 @@
     "watchers": 0,
     "size": 614,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4528,8 +4192,8 @@
     "watchers": 0,
     "size": 2571,
     "clones": {
-      "count": 4,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4550,13 +4214,13 @@
     "watchers": 0,
     "size": 2559,
     "clones": {
-      "count": 5,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4572,19 +4236,13 @@
     "watchers": 0,
     "size": 2717,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4600,8 +4258,8 @@
     "watchers": 0,
     "size": 1368,
     "clones": {
-      "count": 4,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4622,19 +4280,13 @@
     "watchers": 0,
     "size": 2930,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 4,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 10,
-      "uniques": 4
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4650,8 +4302,8 @@
     "watchers": 0,
     "size": 1376,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
@@ -4672,19 +4324,13 @@
     "watchers": 0,
     "size": 948,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 3,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 3,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4700,19 +4346,13 @@
     "watchers": 0,
     "size": 1045,
     "clones": {
-      "count": 3,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 3,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 3,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4728,19 +4368,13 @@
     "watchers": 0,
     "size": 1112,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 8,
-        "uniques": 3
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 8,
-      "uniques": 3
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4756,19 +4390,13 @@
     "watchers": 0,
     "size": 623,
     "clones": {
-      "count": 1,
-      "uniques": 1
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 1,
-        "uniques": 1
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4784,24 +4412,13 @@
     "watchers": 2,
     "size": 1319,
     "clones": {
-      "count": 2,
-      "uniques": 2
+      "count": 0,
+      "uniques": 0
     },
-    "referrers": [
-      {
-        "referrer": "github.com",
-        "count": 14,
-        "uniques": 4
-      },
-      {
-        "referrer": "Google",
-        "count": 10,
-        "uniques": 7
-      }
-    ],
+    "referrers": [],
     "views": {
-      "count": 24,
-      "uniques": 11
+      "count": 0,
+      "uniques": 0
     }
   },
   {
@@ -4817,8 +4434,8 @@
     "watchers": 0,
     "size": 642,
     "clones": {
-      "count": "",
-      "uniques": ""
+      "count": 0,
+      "uniques": 0
     },
     "referrers": [],
     "views": {
