@@ -1,6 +1,18 @@
 [
   {
+    "name": "Bing",
+    "value": 1
+  },
+  {
+    "name": "worldremit.atlassian.net",
+    "value": 1
+  },
+  {
     "name": "search.brave.com",
+    "value": 1
+  },
+  {
+    "name": "DuckDuckGo",
     "value": 1
   },
   {
@@ -8,19 +20,19 @@
     "value": 1
   },
   {
-    "name": "Bing",
-    "value": 2
+    "name": "statics.teams.cdn.office.net",
+    "value": 1
   },
   {
     "name": "xgirma.medium.com",
-    "value": 8
+    "value": 5
   },
   {
     "name": "github.com",
-    "value": 49
+    "value": 51
   },
   {
     "name": "Google",
-    "value": 68
+    "value": 63
   }
 ]
