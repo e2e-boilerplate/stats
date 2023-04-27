@@ -1,9 +1,5 @@
 [
   {
-    "name": "Bing",
-    "value": 1
-  },
-  {
     "name": "statics.teams.cdn.office.net",
     "value": 1
   },
@@ -12,15 +8,19 @@
     "value": 1
   },
   {
+    "name": "Bing",
+    "value": 2
+  },
+  {
     "name": "xgirma.medium.com",
     "value": 4
   },
   {
     "name": "Google",
-    "value": 31
+    "value": 33
   },
   {
     "name": "github.com",
-    "value": 49
+    "value": 47
   }
 ]
