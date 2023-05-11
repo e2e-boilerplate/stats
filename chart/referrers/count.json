@@ -4,6 +4,10 @@
     "value": 1
   },
   {
+    "name": "statics.teams.cdn.office.net",
+    "value": 2
+  },
+  {
     "name": "Bing",
     "value": 3
   },
@@ -12,15 +16,11 @@
     "value": 8
   },
   {
-    "name": "statics.teams.cdn.office.net",
-    "value": 9
+    "name": "github.com",
+    "value": 202
   },
   {
     "name": "Google",
-    "value": 145
-  },
-  {
-    "name": "github.com",
-    "value": 147
+    "value": 225
   }
 ]
