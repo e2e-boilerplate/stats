@@ -1,5 +1,9 @@
 [
   {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
     "name": "Bing",
     "value": 2
   },
@@ -9,10 +13,10 @@
   },
   {
     "name": "Google",
-    "value": 27
+    "value": 39
   },
   {
     "name": "github.com",
-    "value": 34
+    "value": 40
   }
 ]
