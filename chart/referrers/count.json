@@ -1,11 +1,11 @@
 [
   {
-    "name": "Bing",
+    "name": "DuckDuckGo",
     "value": 1
   },
   {
-    "name": "DuckDuckGo",
-    "value": 1
+    "name": "Bing",
+    "value": 2
   },
   {
     "name": "xgirma.medium.com",
@@ -13,10 +13,10 @@
   },
   {
     "name": "github.com",
-    "value": 251
+    "value": 225
   },
   {
     "name": "Google",
-    "value": 319
+    "value": 328
   }
 ]
