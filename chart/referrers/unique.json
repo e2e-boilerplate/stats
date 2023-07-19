@@ -8,23 +8,27 @@
     "value": 1
   },
   {
+    "name": "search.brave.com",
+    "value": 1
+  },
+  {
     "name": "DuckDuckGo",
     "value": 1
   },
   {
     "name": "xgirma.medium.com",
-    "value": 3
+    "value": 4
   },
   {
     "name": "Bing",
-    "value": 6
-  },
-  {
-    "name": "Google",
-    "value": 40
+    "value": 5
   },
   {
     "name": "github.com",
-    "value": 41
+    "value": 50
+  },
+  {
+    "name": "Google",
+    "value": 55
   }
 ]
