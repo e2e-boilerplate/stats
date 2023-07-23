@@ -12,10 +12,6 @@
     "value": 1
   },
   {
-    "name": "Bing",
-    "value": 1
-  },
-  {
     "name": "search.brave.com",
     "value": 1
   },
@@ -24,8 +20,12 @@
     "value": 1
   },
   {
+    "name": "Bing",
+    "value": 2
+  },
+  {
     "name": "xgirma.medium.com",
-    "value": 4
+    "value": 2
   },
   {
     "name": "github.com",
@@ -33,6 +33,6 @@
   },
   {
     "name": "Google",
-    "value": 79
+    "value": 83
   }
 ]
