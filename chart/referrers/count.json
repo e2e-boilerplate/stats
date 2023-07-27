@@ -4,10 +4,6 @@
     "value": 1
   },
   {
-    "name": "xgirma.medium.com",
-    "value": 1
-  },
-  {
     "name": "search.brave.com",
     "value": 1
   },
@@ -16,8 +12,12 @@
     "value": 1
   },
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
     "name": "Bing",
-    "value": 4
+    "value": 3
   },
   {
     "name": "selenium.dev",
@@ -28,11 +28,15 @@
     "value": 14
   },
   {
+    "name": "xgirma.medium.com",
+    "value": 28
+  },
+  {
     "name": "github.com",
-    "value": 280
+    "value": 276
   },
   {
     "name": "Google",
-    "value": 553
+    "value": 568
   }
 ]
