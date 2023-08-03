@@ -1,6 +1,10 @@
 [
   {
-    "name": "selenium.dev",
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
+    "name": "npmjs.com",
     "value": 1
   },
   {
@@ -21,10 +25,10 @@
   },
   {
     "name": "github.com",
-    "value": 29
+    "value": 32
   },
   {
     "name": "Google",
-    "value": 71
+    "value": 52
   }
 ]

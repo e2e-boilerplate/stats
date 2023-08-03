@@ -1,15 +1,19 @@
 [
   {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
+    "name": "npmjs.com",
+    "value": 1
+  },
+  {
     "name": "yandex.ru",
     "value": 1
   },
   {
     "name": "reddit.com",
     "value": 1
-  },
-  {
-    "name": "selenium.dev",
-    "value": 6
   },
   {
     "name": "Bing",
@@ -21,10 +25,10 @@
   },
   {
     "name": "github.com",
-    "value": 180
+    "value": 205
   },
   {
     "name": "Google",
-    "value": 406
+    "value": 305
   }
 ]
