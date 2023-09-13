@@ -1,9 +1,5 @@
 [
   {
-    "name": "search.brave.com",
-    "value": 12
-  },
-  {
     "name": "statics.teams.cdn.office.net",
     "value": 14
   },
@@ -12,15 +8,23 @@
     "value": 21
   },
   {
+    "name": "search.brave.com",
+    "value": 26
+  },
+  {
+    "name": "Bing",
+    "value": 28
+  },
+  {
     "name": "xgirma.medium.com",
-    "value": 27
+    "value": 29
   },
   {
     "name": "Google",
-    "value": 182
+    "value": 168
   },
   {
     "name": "github.com",
-    "value": 240
+    "value": 263
   }
 ]
