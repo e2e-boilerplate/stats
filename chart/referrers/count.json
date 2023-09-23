@@ -1,30 +1,26 @@
 [
   {
     "name": "DuckDuckGo",
-    "value": 5
-  },
-  {
-    "name": "statics.teams.cdn.office.net",
-    "value": 14
-  },
-  {
-    "name": "xgirma.medium.com",
-    "value": 18
+    "value": 3
   },
   {
     "name": "search.brave.com",
-    "value": 26
+    "value": 14
   },
   {
     "name": "Bing",
     "value": 35
   },
   {
+    "name": "xgirma.medium.com",
+    "value": 42
+  },
+  {
     "name": "Google",
-    "value": 238
+    "value": 258
   },
   {
     "name": "github.com",
-    "value": 301
+    "value": 302
   }
 ]

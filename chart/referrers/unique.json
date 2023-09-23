@@ -1,15 +1,11 @@
 [
   {
-    "name": "statics.teams.cdn.office.net",
+    "name": "DuckDuckGo",
     "value": 1
   },
   {
     "name": "search.brave.com",
-    "value": 2
-  },
-  {
-    "name": "DuckDuckGo",
-    "value": 2
+    "value": 1
   },
   {
     "name": "Bing",
@@ -17,14 +13,14 @@
   },
   {
     "name": "xgirma.medium.com",
-    "value": 6
+    "value": 5
   },
   {
     "name": "Google",
-    "value": 44
+    "value": 46
   },
   {
     "name": "github.com",
-    "value": 48
+    "value": 50
   }
 ]
