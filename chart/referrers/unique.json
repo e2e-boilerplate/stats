@@ -1,7 +1,15 @@
 [
   {
+    "name": "yandex.ru",
+    "value": 1
+  },
+  {
+    "name": "search.brave.com",
+    "value": 1
+  },
+  {
     "name": "Bing",
-    "value": 3
+    "value": 2
   },
   {
     "name": "xgirma.medium.com",
@@ -9,10 +17,10 @@
   },
   {
     "name": "Google",
-    "value": 41
+    "value": 45
   },
   {
     "name": "github.com",
-    "value": 47
+    "value": 46
   }
 ]
