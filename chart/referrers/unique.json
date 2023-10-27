@@ -1,22 +1,26 @@
 [
   {
+    "name": "DuckDuckGo",
+    "value": 1
+  },
+  {
     "name": "Bing",
     "value": 1
   },
   {
     "name": "reddit.com",
-    "value": 2
+    "value": 3
   },
   {
     "name": "xgirma.medium.com",
-    "value": 9
+    "value": 13
   },
   {
     "name": "github.com",
-    "value": 32
+    "value": 27
   },
   {
     "name": "Google",
-    "value": 47
+    "value": 45
   }
 ]
