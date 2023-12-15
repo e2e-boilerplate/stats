@@ -1,5 +1,13 @@
 [
   {
+    "name": "reddit.com",
+    "value": 1
+  },
+  {
+    "name": "Yahoo",
+    "value": 1
+  },
+  {
     "name": "DuckDuckGo",
     "value": 1
   },
@@ -9,10 +17,10 @@
   },
   {
     "name": "Google",
-    "value": 28
+    "value": 26
   },
   {
     "name": "github.com",
-    "value": 31
+    "value": 28
   }
 ]
