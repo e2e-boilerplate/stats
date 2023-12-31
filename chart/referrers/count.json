@@ -4,8 +4,16 @@
     "value": 6
   },
   {
+    "name": "statics.teams.cdn.office.net",
+    "value": 13
+  },
+  {
     "name": "search.brave.com",
     "value": 21
+  },
+  {
+    "name": "yandex.ru",
+    "value": 29
   },
   {
     "name": "xgirma.medium.com",
@@ -13,10 +21,10 @@
   },
   {
     "name": "Google",
-    "value": 75
+    "value": 80
   },
   {
     "name": "github.com",
-    "value": 214
+    "value": 215
   }
 ]
