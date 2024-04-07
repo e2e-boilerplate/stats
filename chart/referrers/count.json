@@ -1,5 +1,9 @@
 [
   {
+    "name": "search.brave.com",
+    "value": 1
+  },
+  {
     "name": "in.search.yahoo.com",
     "value": 10
   },
@@ -8,19 +12,15 @@
     "value": 15
   },
   {
-    "name": "search.brave.com",
-    "value": 21
-  },
-  {
     "name": "Bing",
-    "value": 44
+    "value": 48
   },
   {
     "name": "github.com",
-    "value": 105
+    "value": 99
   },
   {
     "name": "Google",
-    "value": 119
+    "value": 183
   }
 ]
