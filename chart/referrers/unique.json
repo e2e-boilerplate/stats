@@ -1,5 +1,9 @@
 [
   {
+    "name": "medium.com",
+    "value": 1
+  },
+  {
     "name": "gist.github.com",
     "value": 1
   },
@@ -13,10 +17,10 @@
   },
   {
     "name": "github.com",
-    "value": 21
+    "value": 27
   },
   {
     "name": "Google",
-    "value": 30
+    "value": 28
   }
 ]
