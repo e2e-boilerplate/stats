@@ -1,5 +1,9 @@
 [
   {
+    "name": "softwaretestingweekly.com",
+    "value": 1
+  },
+  {
     "name": "copilot.microsoft.com",
     "value": 1
   },
@@ -20,11 +24,11 @@
     "value": 2
   },
   {
-    "name": "Google",
-    "value": 25
-  },
-  {
     "name": "github.com",
     "value": 26
+  },
+  {
+    "name": "Google",
+    "value": 30
   }
 ]
