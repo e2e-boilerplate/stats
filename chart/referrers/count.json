@@ -1,7 +1,19 @@
 [
   {
     "name": "xgirma.medium.com",
+    "value": 3
+  },
+  {
+    "name": "getpocket.com",
+    "value": 5
+  },
+  {
+    "name": "gist.github.com",
     "value": 10
+  },
+  {
+    "name": "chatgpt.com",
+    "value": 14
   },
   {
     "name": "statics.teams.cdn.office.net",
@@ -9,7 +21,7 @@
   },
   {
     "name": "github.com",
-    "value": 51
+    "value": 52
   },
   {
     "name": "Google",
