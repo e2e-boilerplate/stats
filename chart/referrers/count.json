@@ -8,6 +8,10 @@
     "value": 5
   },
   {
+    "name": "statics.teams.cdn.office.net",
+    "value": 8
+  },
+  {
     "name": "gist.github.com",
     "value": 10
   },
@@ -16,15 +20,11 @@
     "value": 14
   },
   {
-    "name": "statics.teams.cdn.office.net",
-    "value": 40
-  },
-  {
     "name": "github.com",
-    "value": 51
+    "value": 45
   },
   {
     "name": "Google",
-    "value": 200
+    "value": 165
   }
 ]
