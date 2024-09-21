@@ -1,5 +1,9 @@
 [
   {
+    "name": "Bing",
+    "value": 1
+  },
+  {
     "name": "rutube.ru",
     "value": 3
   },
@@ -8,11 +12,15 @@
     "value": 19
   },
   {
+    "name": "xgirma.medium.com",
+    "value": 25
+  },
+  {
     "name": "github.com",
-    "value": 86
+    "value": 106
   },
   {
     "name": "Google",
-    "value": 125
+    "value": 150
   }
 ]
