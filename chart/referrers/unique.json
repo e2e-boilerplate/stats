@@ -1,5 +1,9 @@
 [
   {
+    "name": "m.sogou.com",
+    "value": 1
+  },
+  {
     "name": "chatgpt.com",
     "value": 1
   },
@@ -12,23 +16,19 @@
     "value": 2
   },
   {
-    "name": "m.sogou.com",
-    "value": 2
-  },
-  {
     "name": "search.brave.com",
     "value": 3
   },
   {
     "name": "xgirma.medium.com",
-    "value": 4
-  },
-  {
-    "name": "Google",
-    "value": 14
+    "value": 7
   },
   {
     "name": "github.com",
-    "value": 20
+    "value": 14
+  },
+  {
+    "name": "Google",
+    "value": 21
   }
 ]
