@@ -1,6 +1,14 @@
 [
   {
+    "name": "Bing",
+    "value": 1
+  },
+  {
     "name": "dropbox.com",
+    "value": 1
+  },
+  {
+    "name": "DuckDuckGo",
     "value": 1
   },
   {
@@ -9,10 +17,10 @@
   },
   {
     "name": "github.com",
-    "value": 12
+    "value": 14
   },
   {
     "name": "Google",
-    "value": 21
+    "value": 20
   }
 ]
