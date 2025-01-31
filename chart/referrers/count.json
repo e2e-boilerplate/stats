@@ -1,11 +1,15 @@
 [
   {
-    "name": "huddleinc.atlassian.net",
-    "value": 1
-  },
-  {
     "name": "chatgpt.com",
     "value": 2
+  },
+  {
+    "name": "search.brave.com",
+    "value": 3
+  },
+  {
+    "name": "huddleinc.atlassian.net",
+    "value": 7
   },
   {
     "name": "xgirma.medium.com",
@@ -13,10 +17,10 @@
   },
   {
     "name": "Google",
-    "value": 25
+    "value": 30
   },
   {
     "name": "github.com",
-    "value": 41
+    "value": 39
   }
 ]
