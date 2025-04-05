@@ -1,9 +1,5 @@
 [
   {
-    "name": "Bing",
-    "value": 1
-  },
-  {
     "name": "chatgpt.com",
     "value": 5
   },
@@ -12,11 +8,15 @@
     "value": 5
   },
   {
+    "name": "Bing",
+    "value": 9
+  },
+  {
     "name": "github.com",
-    "value": 16
+    "value": 24
   },
   {
     "name": "Google",
-    "value": 51
+    "value": 54
   }
 ]
