@@ -1,15 +1,15 @@
 [
   {
-    "name": "chatgpt.com",
-    "value": 2
-  },
-  {
     "name": "Bing",
     "value": 2
   },
   {
+    "name": "chatgpt.com",
+    "value": 3
+  },
+  {
     "name": "github.com",
-    "value": 4
+    "value": 7
   },
   {
     "name": "xgirma.medium.com",
@@ -17,6 +17,6 @@
   },
   {
     "name": "Google",
-    "value": 30
+    "value": 25
   }
 ]
