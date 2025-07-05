@@ -4,6 +4,10 @@
     "value": 1
   },
   {
+    "name": "search.brave.com",
+    "value": 2
+  },
+  {
     "name": "claude.ai",
     "value": 3
   },
@@ -13,7 +17,7 @@
   },
   {
     "name": "github.com",
-    "value": 15
+    "value": 17
   },
   {
     "name": "xgirma.medium.com",
@@ -21,6 +25,6 @@
   },
   {
     "name": "Google",
-    "value": 66
+    "value": 86
   }
 ]
