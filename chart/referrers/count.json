@@ -1,5 +1,13 @@
 [
   {
+    "name": "docs.google.com",
+    "value": 1
+  },
+  {
+    "name": "statics.teams.cdn.office.net",
+    "value": 1
+  },
+  {
     "name": "chatgpt.com",
     "value": 1
   },
@@ -9,10 +17,10 @@
   },
   {
     "name": "github.com",
-    "value": 6
+    "value": 10
   },
   {
     "name": "Google",
-    "value": 46
+    "value": 42
   }
 ]
